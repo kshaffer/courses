@@ -1,11 +1,25 @@
 ---
 layout: post
-title: Kris Shaffer's course materials - CU–Boulder School of Music
+title: Music Theory IV (MUSC 2111)
 author: Kris Shaffer
 ---
 
-## Course syllabus, policies, unit guides ##
+# {{ page.title }} #
 
-[Music theory IV (MUSC 2111)](theory4.html)  
-[Aural Skills II (MUSC 1131)](auralskills2.html)  
-[Aural Skills IV (MUSC 2131)](auralskills4.html)
+## Unit guides ##
+
+[Unit I: classical form (themes and sonatas)](mt4-unit1.html)  
+Unit II: introduction to post-tonal music  
+Unit III: pop/rock form
+
+
+## Syllabus ##
+
+
+
+## Policies ##
+
+
+
+
+
