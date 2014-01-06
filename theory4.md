@@ -29,7 +29,7 @@ Course website: [courses.shaffermusic.com](http://courses.shaffermusic.com/)
 
 ### Unit topics ###
 
-This course will focus intentionally on the normative harmonic, melodic, and formal structures of multiple musical styles, with a view towards understanding both the *general* traits that underly most or all of Western tonal music, and the *specific* traits that are typical of one or more specific styles of Western tonal music. In order to accomplish this, the course will be divided into three units, each covering a single style of music:
+This course will focus on the normative harmonic, melodic, and formal structures of multiple musical styles, with a view towards understanding both the *general* traits that underly most of Western tonal and post-tonal music, and the *specific* traits that are typical of two specific styles of Western tonal music. In order to accomplish this, the course will be divided into three units, each covering a single style of music:
 
 - Unit I: Classical form (themes and sonatas)  
 - Unit II: Introduction to post-tonal music  
@@ -41,7 +41,7 @@ More details are provided in the three unit guides.
 
 Each student will receive a single letter grade for each unit, based on the number of musical concepts a student has mastered by the unit deadline. Those musical concepts are listed in each unit's guide (see above). Generally, students will be given at least two opportunities during each unit to demonstrate mastery of each concept, and only their performance on the *most recent* assessment attempt will count towards the unit grade. More details are provided in the unit guides.
 
-A student's overall grade at the end of the semester will be the median grade of all unit grades, or one letter grade higher than the lowest unit grade—whichever is lower.
+A student's overall grade at the end of the semester will be the median of all unit grades, or one letter grade higher than the lowest unit grade—whichever is lower.
 
 ### Reassessment ###
 
@@ -56,6 +56,7 @@ The reassessment must be *completed* within two weeks of the unit deadline. Stud
 - A web-enabled device that can be brought to each class meeting (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
 - An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - A free Google account *using your CU Identikey*.  
+- Membership in the class [Google Plus community](https://plus.google.com/u/1/communities/118350994807708327963) (where all announcements, assignments, deadlines, etc. will be posted).  
 - A semester account for [Learning Catalytics](http://www.learningcatalytics.com).  
 
 All other required class materials will be posted or linked to on the course Google Plus site.
