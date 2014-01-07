@@ -68,6 +68,10 @@ All other required class materials will be posted or linked to on the course Goo
 
 (If you own this from last year, hang on to it. It will be a helpful supplemental resource. If you do not own it, library copies and/or borrowing from a classmate on occasion should suffice.)
 
+### Final exam ###
+
+No required class activities will take place during finals week, only Unit III reassessments.
+
 ### Policies ###
 
 For instructor and university policies relevant to this course, please see [this page]({{ root_url }}/policies.html).
