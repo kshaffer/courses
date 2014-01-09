@@ -28,6 +28,10 @@ We will be following the theories of [William E. Caplin](https://openlibrary.org
 - [Sonata form: expositional modules and cadences.](http://kris.shaffermusic.com/musicianship/SonataTheory-modules.html)  
 - [Sonata form: the recapitulation.](http://kris.shaffermusic.com/musicianship/sonataRecap.html)
 
+### Handouts, exercises, other class materials ###
+
+Mozart, K. 283, I., mm. 1–10 with thoroughbass reduction. [pdf]({{ root_url }}/materials/k283-mm1-10.pdf) [lilypond]({{ root_url }}/materials/k283-mm1-10.ly)
+
 ## Concepts ##
 
 Our coursework in this unit will be directed towards to goal of consistent, correct identification and interpretation of the following concepts or structural elements in the context of classical-era pieces. Read as "I can identify and interpret . . ."
