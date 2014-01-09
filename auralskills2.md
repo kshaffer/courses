@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 ## Unit guides ##
 
-[Unit I: Diatonic melody and harmony]({{ root_url }}/as2-unit1.md) (weeks 1–3)  
+[Unit I: Diatonic melody and harmony]({{ root_url }}/as2-unit1.html) (weeks 1–3)  
 Unit II (weeks 4–7)  
 Unit III (weeks 8–11)  
 Unit IV (weeks 12–15)  
