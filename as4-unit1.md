@@ -29,6 +29,7 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 #### Performance and listening ####
 
 - [Melodic sequentials](http://kris.shaffermusic.com/musicianship/melodicSequentials.html).  
+- [Harmonic sequentials](http://kris.shaffermusic.com/musicianship/Graphics/harmonicSequential.pdf).  
 - [Chromatic solfège syllables and sequentials](http://kris.shaffermusic.com/musicianship/chromaticSolfege.html).  
 - [Sight-singing tips](http://kris.shaffermusic.com/musicianship/sightSinging.html).  
 - [Melodic dictation demo (video)](http://kris.shaffermusic.com/musicianship/melodicDictationDemo.html).  
