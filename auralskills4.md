@@ -39,7 +39,7 @@ Assessment will be performed in reference to four categories of musical skills a
 - *modulation* (Unit I)  
 - *harmony* (Unit I)  
 - *post-tonal pitch materials* (Unit II)  
-- *asymmetrical meter* (Unit II) 
+- *advanced rhythm and meter* (Unit II) 
 
 Each category contains between three and five specific concepts or skills (see unit guides). At any point in the semester, for each category/skill, students will have a current mark of **N – not attempted**, **A – attempted**, or **P – passed**.
 

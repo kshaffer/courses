@@ -55,6 +55,7 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 - transcribe/dictate harmonic progressions in a modulating passage using appropriate Roman numerals – 2x  
 - transcribe/dictate harmonic progressions in a modulating passage using appropriate functional-bass symbols – 2x  
+- transcribe/dictate harmonic progressions in a modulating passage using appropriate figured-bass symbols – 2x  
 - recognize modulations by ear in a sonata or minuet movement in a symphonic, chamber, or keyboard texture – 2x  
 
 In-class or take-home/online assessment activities will be given for all of these concepts and skills. These assignments and quizzes will provide sufficient opportunity for students to demonstrate mastery by the unit deadline. Additional attempts then become the responsibility of the student to be submitted or performed during office hours.
