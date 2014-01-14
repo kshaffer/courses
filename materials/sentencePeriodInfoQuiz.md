@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group quiz&#58; sentences, periods, formal functions (Music Theory IV)
+title: Group quiz&#58; sentences, periods, formal functions 
 author: Kris Shaffer
 ---
 
