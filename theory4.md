@@ -26,7 +26,7 @@ Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)
 Office: MUS N138  
 Office hours: by appointment  
 Course website: [courses.shaffermusic.com](http://courses.shaffermusic.com/)  
-Online community: [Google Plus](https://plus.google.com/u/1/communities/118350994807708327963)
+Online community: [Google Plus](https://plus.google.com/communities/118350994807708327963)
 
 ### Unit topics ###
 
