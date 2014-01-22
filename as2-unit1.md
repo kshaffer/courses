@@ -46,11 +46,10 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 #### Melodic pitch elements ####
 
 - perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, with preparation – 1x.  
-- dictate/transcribe diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, quickly and without an instrument – 2x.  
+- dictate/transcribe diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, quickly and without an instrument – 1x.  
 
 #### Harmonic pitch elements ####
 
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
 - dictate/transcribe harmonic progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, quickly and without an instrument – 2x.  
 - recognize common cadence types by ear, quickly and without an instrument – 1x.  
 

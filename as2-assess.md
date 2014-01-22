@@ -49,7 +49,7 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 #### Unit I (weeks 1–3) ####
 
 - perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, with preparation – 1x.  
-- dictate/transcribe diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, quickly and without an instrument – 2x.  
+- dictate/transcribe diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, quickly and without an instrument – 1x.  
 
 #### Unit II (weeks 4–7) ####
 
@@ -79,12 +79,12 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit I (weeks 1–3) ####
 
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
-- dictate/transcribe harmonic progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, quickly and without an instrument – 2x.  
+- dictate/transcribe harmonic progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, quickly and without an instrument – 1x.  
 - recognize common cadence types by ear, quickly and without an instrument – 1x.  
 
 #### Unit II (weeks 4–7) ####
 
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
 - perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
 - dictate/transcribe harmonic progressions containing compound cadences (cadential 6/4, 4–3 sus., etc.), quickly and without an instrument – 2x.  
 - dictate/transcribe harmonic progressions containing seventh chords on VII and II, quickly and without an instrument – 2x.  
