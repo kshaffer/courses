@@ -43,6 +43,13 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 
 The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [assessment guide]({{ root_url }}/as2-assess.html)) in Unit I are divided into three categories: *rhythm*, *melody*, and *harmony*. Those with deadlines in Unit I are listed below (though others will be addressed in class activities), followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
 
+#### Rhythm ####
+
+- perform straight and dotted rhythms in simple meter, with preparation (half-note beats) – 1x.  
+- perform syncopated rhythms in simple meter, with preparation (half-note beats) – 1x.  
+- dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
+- dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
+
 #### Melodic pitch elements ####
 
 - perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, with preparation – 1x.  

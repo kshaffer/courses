@@ -22,27 +22,46 @@ The concepts/skills for each category are listed below, followed by the number o
 
 Read all as "I can . . ."
 
-## Rhythm – 12 objectives ##
+## Rhythm – 24 objectives ##
 
 Rhythmic objectives will be addressed throughout the semester, but deadlines will only occur in Units III and IV.
 
+#### Unit I (weeks 1–3) ####
+
+- perform straight and dotted rhythms in simple meter, with preparation (half-note beats) – 1x.  
+- perform syncopated rhythms in simple meter, with preparation (half-note beats) – 1x.  
+- dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
+- dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
+
+#### Unit II (weeks 4–7) ####
+
+- perform straight and dotted rhythms in simple meter, from sight (half-note beats) – 1x.  
+- perform syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
+- perform straight and dotted rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
+- perform syncopated rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
+- perform straight and dotted rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
+- perform syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
+- dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
+- dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
+
+
 #### Unit III (weeks 8–11) ####
 
-- perform straight and dotted rhythms in simple meter, with preparation – 1x.  
-- perform syncopated rhythms in simple meter, with preparation – 1x.  
-- perform straight and dotted rhythms in simple meter, from sight – 1x.  
-- perform syncopated rhythms in simple meter, from sight – 1x.  
-- dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument – 1x.  
-- dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument – 1x.  
+- perform straight and dotted rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
+- perform syncopated rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
+- dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
+- dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
 
 #### Unit IV (weeks 12–15) ####
 
-- perform straight and dotted rhythms in compound meter, with preparation – 1x.  
-- perform syncopated rhythms in compound meter, with preparation – 1x.  
-- perform straight and dotted rhythms in compound meter, from sight – 1x.  
-- perform syncopated rhythms in compound meter, from sight – 1x.  
-- dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument – 1x.  
-- dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument – 1x.  
+- perform straight and dotted rhythms in simple meter, from sight (eighth-note beats) – 1x.  
+- perform syncopated rhythms in simple meter, from sight (eighth-note beats) – 1x.  
+- perform straight and dotted rhythms in compound meter, with preparation (dotted-eighth-note beats) – 1x.  
+- perform syncopated rhythms in compound meter, with preparation (dotted-eighth-note beats) – 1x.  
+- perform straight and dotted rhythms in compound meter, from sight (dotted-eighth-note beats) – 1x.  
+- perform syncopated rhythms in compound meter, from sight (dotted-eighth-note beats) – 1x.  
+- dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
+- dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
 
 ## Melodic pitch elements – 16 objectives ##
 
