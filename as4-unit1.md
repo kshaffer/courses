@@ -40,6 +40,10 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 - [Uploading and sharing a file via Google Drive](http://kris.shaffermusic.com/musicianship/GDrive.html).  
 - [Typesetting a keyboard-style voice-leading exercise](http://kris.shaffermusic.com/musicianship/typesettingKBStyle.html).  
 
+#### Class activity resources ####
+
+- [Modulation playlist](http://open.spotify.com/user/kris.shaffer/playlist/0bzlAdzLoNtBCHDAkdll5l) (Jan 23).
+
 ## Concepts and assessment ##
 
 The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [syllabus]({{ root_url }}/auralskills4.html)) are divided into two categories: *modulation* and *harmony*. They are listed below, followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
