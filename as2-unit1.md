@@ -45,8 +45,7 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 #### Rhythm ####
 
-- perform straight and dotted rhythms in simple meter, with preparation (half-note beats) – 1x.  
-- perform syncopated rhythms in simple meter, with preparation (half-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in simple meter, with preparation (half-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
 

@@ -22,14 +22,13 @@ The concepts/skills for each category are listed below, followed by the number o
 
 Read all as "I can . . ."
 
-## Rhythm – 24 objectives ##
+## Rhythm – 23 objectives ##
 
 Rhythmic objectives will be addressed throughout the semester, but deadlines will only occur in Units III and IV.
 
 #### Unit I (weeks 1–3) ####
 
-- perform straight and dotted rhythms in simple meter, with preparation (half-note beats) – 1x.  
-- perform syncopated rhythms in simple meter, with preparation (half-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in simple meter, with preparation (half-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (half-note beats) – 1x.  
 
