@@ -44,6 +44,11 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 
 - [Modulation playlist](http://open.spotify.com/user/kris.shaffer/playlist/0bzlAdzLoNtBCHDAkdll5l) (Jan 23).
 
+#### Keyboard portfolio ####
+
+[Mozart, K. 330, mvt. II, mm. 1–8.]({{ root_url }}/materials/Mozart330-slowMvtTheme.pdf)  
+[Beethoven, Op. 2/1, mvt. III, mm. 1–14.]({{ root_url }}/materials/Beethoven-Op2-1-minuetTheme.pdf)
+
 ## Concepts and assessment ##
 
 The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [syllabus]({{ root_url }}/auralskills4.html)) are divided into two categories: *modulation* and *harmony*. They are listed below, followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
