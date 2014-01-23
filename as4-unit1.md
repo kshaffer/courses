@@ -46,8 +46,9 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 
 #### Keyboard portfolio ####
 
-[Mozart, K. 330, mvt. II, mm. 1–8.]({{ root_url }}/materials/Mozart330-slowMvtTheme.pdf)  
-[Beethoven, Op. 2/1, mvt. III, mm. 1–14.]({{ root_url }}/materials/Beethoven-Op2-1-minuetTheme.pdf)
+- [Instructions.]({{ root_url }}/materials/as4-unit1keyboard.html)  
+- [Mozart, K. 330, mvt. II, mm. 1–8.]({{ root_url }}/materials/Mozart330-slowMvtTheme.pdf)  
+- [Beethoven, Op. 2/1, mvt. III, mm. 1–14.]({{ root_url }}/materials/Beethoven-Op2-1-minuetTheme.pdf)
 
 ## Concepts and assessment ##
 
