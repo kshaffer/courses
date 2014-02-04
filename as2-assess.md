@@ -34,31 +34,24 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit II (weeks 4–7) ####
 
-- perform straight and dotted rhythms in simple meter, from sight (half-note beats) – 1x.  
-- perform syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
-- perform straight and dotted rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
-- perform syncopated rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
-- perform straight and dotted rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
-- perform syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
 
 
 #### Unit III (weeks 8–11) ####
 
-- perform straight and dotted rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
-- perform syncopated rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
 
 #### Unit IV (weeks 12–15) ####
 
-- perform straight and dotted rhythms in simple meter, from sight (eighth-note beats) – 1x.  
-- perform syncopated rhythms in simple meter, from sight (eighth-note beats) – 1x.  
-- perform straight and dotted rhythms in compound meter, with preparation (dotted-eighth-note beats) – 1x.  
-- perform syncopated rhythms in compound meter, with preparation (dotted-eighth-note beats) – 1x.  
-- perform straight and dotted rhythms in compound meter, from sight (dotted-eighth-note beats) – 1x.  
-- perform syncopated rhythms in compound meter, from sight (dotted-eighth-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in simple meter, from sight (eighth-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in compound meter, with preparation (dotted-eighth-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-eighth-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
 
