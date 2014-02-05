@@ -34,6 +34,10 @@ We will be following the theories of [William E. Caplin](https://openlibrary.org
 Mozart, K. 283, I., mm. 1–10 with thoroughbass reduction. [pdf]({{ root_url }}/materials/k283-mm1-10.pdf) [lilypond]({{ root_url }}/materials/k283-mm1-10.ly)  
 Haydn, Hob. XV:27, III., mm. 1–8 with thoroughbass reduction. [pdf]({{ root_url }}/materials/XV27-III-mm1-8.pdf) [lilypond]({{ root_url }}/materials/XV27-III-mm1-8.ly)  
 
+### Quizzes ###
+
+[Sonata analysis quiz 1]({{ root_url }}/materials/mt4-sonataQuiz1.html)
+
 ## Concepts ##
 
 Our coursework in this unit will be directed towards to goal of consistent, correct identification and interpretation of the following concepts or structural elements in the context of classical-era pieces. Read as "I can identify and interpret . . ."
