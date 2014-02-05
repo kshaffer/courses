@@ -17,10 +17,10 @@ Please do the following:
 
 - Download a score and find a recording for Mozart's Piano Sonata in C major, K. 545, first movement and Beethoven's "easy" Piano Sonata in G major, Op. 49, No. 2, first movement.  
 - After listening and studying these movements, label the following on the score or on [a timeline]({{ root_url }}/materials/timeline-blank.pdf):  
-- - P, TR, S, and C (if present) *in the exposition only*  
-- - MC and EEC *in the exposition only*  
-- - exposition, development, and recapitulation  
-- - all cadences in the exposition with key and cadence type (I:IAC, III:PAC, etc.)
+  - P, TR, S, and C (if present) *in the exposition only*  
+  - MC and EEC *in the exposition only*  
+  - exposition, development, and recapitulation  
+  - all cadences in the exposition with key and cadence type (I:IAC, III:PAC, etc.)
 
 You may use any written/video/audio resources I have provided, but you may not consult other people while working on this assessment. (You are free to review materials not related to these two pieces with your colleages *before* starting the quiz, of course.)
 
