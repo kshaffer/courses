@@ -24,7 +24,7 @@ You may use any written/video/audio resources I have provided, but you may not c
 
 On each score/timeline, reaffirm the honor code by writing "I hereby reaffirm the CU Honor Code" (or simply "IHRTCUHC") and signing your name. No quiz will be accepted and assessed without the honor code statement.
 
-This quiz is due by **the beginning of class on Monday, Feb. 10**. It will cover (and assess) the following course objectives:
+This quiz is due by **the beginning of class on Monday, Feb. 17**. It will cover (and assess) the following course objectives:
 
 - Structural points of arrival (medial caesura, essential expositional closure, essential sonata closure, crux)  
 - Theme-level modules (primary, transition, secondary, closing, TR=>FS, retransition)  
