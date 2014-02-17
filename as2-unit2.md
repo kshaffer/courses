@@ -39,6 +39,10 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 - [Uploading and sharing a file via Google Drive](http://kris.shaffermusic.com/musicianship/GDrive.html).  
 - [Typesetting a keyboard-style voice-leading exercise](http://kris.shaffermusic.com/musicianship/typesettingKBStyle.html).  
 
+#### Handouts and class materials ####
+
+[Recitation 2 guide]({{ root_url }}/materials/recitation2.pdf)  
+
 ## Concepts and assessment ##
 
 The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [assessment guide]({{ root_url }}/as2-assess.html)) in Unit II are divided into three categories: *rhythm*, *melody*, and *harmony*. Those with deadlines in Unit II are listed below (though others will be addressed in class activities), followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
