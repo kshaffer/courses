@@ -49,24 +49,19 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 #### Rhythm ####
 
-- perform straight, dotted, and syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
 - perform straight, dotted, and syncopated rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
-- perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
 
 #### Melodic pitch elements ####
 
-- perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup> while performing a harmonic progression at the keyboard, with preparation – 1x.  
-- perform diatonic melodies with other triadic arpeggiations while performing a harmonic progression at the keyboard, with preparation – 1x.  
+- perform diatonic melodies with steps, small leaps, and diatonic arpeggiations while performing a harmonic progression at the keyboard, with preparation – 1x.  
 - perform diatonic melodies with chromatic complete-neighbor and passing tones, with preparation – 1x.  
-- perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, from sight – 1x.  
 - dictate/transcribe diatonic melodies with chromatic complete-neighbor and passing tones, quickly and without an instrument – 2x.  
 
 #### Harmonic pitch elements ####
 
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup> while singing, with preparation – 1x.  
 - dictate/transcribe harmonic progressions containing compound cadences (cadential 6/4, 4–3 sus., etc.), quickly and without an instrument – 2x.  
 - dictate/transcribe harmonic progressions containing seventh chords on VII and II, quickly and without an instrument – 2x.  
 

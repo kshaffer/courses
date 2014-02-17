@@ -22,7 +22,7 @@ The concepts/skills for each category are listed below, followed by the number o
 
 Read all as "I can . . ."
 
-## Rhythm – 23 objectives ##
+## Rhythm – 16 objectives ##
 
 Rhythmic objectives will be addressed throughout the semester, but deadlines will only occur in Units III and IV.
 
@@ -34,15 +34,15 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit II (weeks 4–7) ####
 
-- perform straight, dotted, and syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
 - perform straight, dotted, and syncopated rhythms in compound meter, with preparation (dotted-half-note beats) – 1x.  
-- perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-half-note beats) – 1x.  
 
 
 #### Unit III (weeks 8–11) ####
 
+- perform straight, dotted, and syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
 - perform straight, dotted, and syncopated rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
@@ -55,7 +55,7 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 - dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
 
-## Melodic pitch elements – 16 objectives ##
+## Melodic pitch elements – 15 objectives ##
 
 #### Unit I (weeks 1–3) ####
 
@@ -64,14 +64,13 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit II (weeks 4–7) ####
 
-- perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup> while performing a harmonic progression at the keyboard, with preparation – 1x.  
-- perform diatonic melodies with other triadic arpeggiations while performing a harmonic progression at the keyboard, with preparation – 1x.  
+- perform diatonic melodies with steps, small leaps, and diatonic arpeggiations while performing a harmonic progression at the keyboard, with preparation – 1x.  
 - perform diatonic melodies with chromatic complete-neighbor and passing tones, with preparation – 1x.  
-- perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, from sight – 1x.  
 - dictate/transcribe diatonic melodies with chromatic complete-neighbor and passing tones, quickly and without an instrument – 2x.  
 
 #### Unit III (weeks 8–11) ####
 
+- perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, from sight – 1x.  
 - perform diatonic melodies with any triadic arpeggiations, with preparation – 1x.  
 - dictate/transcribe diatonic melodies with any triadic arpeggiations, quickly and without an instrument – 2x.  
 - dictate/transcribe diatonic melodies with chromatic incomplete neighbor tones, quickly and without an instrument – 2x.  
@@ -86,7 +85,7 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 - dictate/transcribe diatonic melodies with arpeggiations of applied/secondary-dominant chords, quickly and without an instrument – 2x.  
 
  
-## Harmonic pitch elements – 10 objectives ##
+## Harmonic pitch elements – 11 objectives ##
 
 #### Unit I (weeks 1–3) ####
 
@@ -95,13 +94,14 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit II (weeks 4–7) ####
 
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, while singing, with preparation – 1x.  
 - dictate/transcribe harmonic progressions containing compound cadences (cadential 6/4, 4–3 sus., etc.), quickly and without an instrument – 2x.  
 - dictate/transcribe harmonic progressions containing seventh chords on VII and II, quickly and without an instrument – 2x.  
 
 #### Unit III (weeks 8–11) ####
 
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
 - dictate/transcribe harmonic progressions containing passing and neighbor 6/4 chords, quickly and without an instrument – 2x.  
 
 #### Unit IV (weeks 12–15) ####
