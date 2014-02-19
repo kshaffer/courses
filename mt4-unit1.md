@@ -34,6 +34,7 @@ We will be following the theories of [William E. Caplin](https://openlibrary.org
 Mozart, K. 283, I., mm. 1–10 with thoroughbass reduction. [pdf]({{ root_url }}/materials/k283-mm1-10.pdf) [lilypond]({{ root_url }}/materials/k283-mm1-10.ly)  
 Haydn, Hob. XV:27, III., mm. 1–8 with thoroughbass reduction. [pdf]({{ root_url }}/materials/XV27-III-mm1-8.pdf) [lilypond]({{ root_url }}/materials/XV27-III-mm1-8.ly)  
 [February 10 analyses and recordings.]({{ root_url }}/materials/mt4-Feb10analyses.html)  
+Sonata quiz 2 model analyses: [K. 545]({{ root_url }}/materials/k545recap.pdf), [Op. 2/3]({{ root_url }}/materials/op2-3recap.pdf), [Op. 49/2]({{ root_url }}/materials/op49-2recap.pdf).
 
 ### Quizzes ###
 
