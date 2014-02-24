@@ -41,7 +41,7 @@ Assessment will be performed in reference to four categories of musical skills a
 - *post-tonal pitch materials* (Unit II)  
 - *advanced rhythm and meter* (Unit II) 
 
-Each category contains between three and five specific concepts or skills (see unit guides). At any point in the semester, for each category/skill, students will have a current mark of **N – not attempted**, **A – attempted**, or **P – passed**.
+Each category contains between three and five specific concepts or skills (see unit guides). At any point in the semester, for each category/skill, students will have a current mark of **N – not attempted**, **A – attempted**, **B – borderline**, or **P – passed**.
 
 A student’s letter grade for a given category is determined by the number of those specific concepts or skills for which the student demonstrates mastery (mark of P – passed) by the end of the appropriate unit of study, according to the following scale:
 
@@ -50,6 +50,8 @@ A student’s letter grade for a given category is determined by the number of t
 - C: mastery of all but two  
 - D: mastery of all but three  
 - F: anything less than D
+
+A *borderline* assessment counts for half of a *passing* assessment. All passing except for two borderline counts for a B, not a C, for example.
 
 Generally, students will be given at least two or three opportunities during each unit to demonstrate mastery of each concept, and only their performance on the *most recent* assessment attempt(s) will count towards the unit grade. More details are provided in the unit guides.
 

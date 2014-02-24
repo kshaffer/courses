@@ -52,14 +52,14 @@ In addition to exercises in the Berkowitz and/or Kazez texts, the following mate
 
 ## Concepts and assessment ##
 
-The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [syllabus]({{ root_url }}/auralskills4.html)) are divided into two categories: *modulation* and *harmony*. They are listed below, followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
+The specific concepts and skills we will cover and assess (according to the N/B/A/P grading scale outlined on the [syllabus]({{ root_url }}/auralskills4.html)) are divided into two categories: *modulation* and *harmony*. They are listed below, followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
 
 **Modulation (Unit I)**
 
 - perform a modulating melody from sight (sung) – 1x  
 - perform modulating harmonic progressions (at the keyboard) with preparation – 1x  
-- transcribe/dictate a modulating melody quickly, without an instrument – 2x (multiple melodies on each assessment activity)  
-- transcribe/dictate all lines of a four-voice homophonic texture quickly (with or without an instrument) – 1x  
+- transcribe/dictate a modulating melody quickly, without an instrument (quickly and *with* an instrument qualifies for *borderline*, half-credit) – 2x (multiple melodies on each assessment activity)  
+- transcribe/dictate all lines of a four-voice homophonic texture quickly (with or without an instrument) (*slowly*—i.e., take-home instead of in-class—qualifies for *borderline*, half-credit) – 1x  
 
 **Harmony (Unit I)**
 
