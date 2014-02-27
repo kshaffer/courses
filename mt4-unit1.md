@@ -43,6 +43,7 @@ Model analyses for sonata quiz 1: [Beethoven, Op. 49, No. 2, I.]({{ root_url }}/
 [Sonata analysis quiz 2]({{ root_url }}/materials/mt4-sonataQuiz2.html)  
 [Sonata analysis quiz 3]({{ root_url }}/materials/mt4-sonataQuiz3.html)  
 
+[End-of-unit reassessment/project]({{ root_url }}/materials/mt4-UnitIReassessment.html)
 
 ## Concepts ##
 
