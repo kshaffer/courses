@@ -48,7 +48,7 @@ Please compose your paper as a single Google Document or upload your video to Go
 
 If you have an **N (not attempted)** for any of the Unit I concepts, you must talk to me individually if you want a chance to reassess those. Please do so immediately.
 
-For any concepts that you have an **A (attempted)**, compare the quizzes you took with the key distributed in class or on the [Unit I Guide]({{ root_url }}/mt4-unit1.html). Write a single paragraph explaining either why the analysis in the key is preferable, or why the key is incorrect and your analysis makes more sense. You need not do this for every difference between your analyses and the keys, but for enough to demonstrate that you understand the concept.
+For any concepts that you have an **A (attempted)**, compare the quizzes you took with the key distributed in class or on the [Unit I Guide]({{ root_url }}/mt4-unit1.html). Write a single paragraph explaining either why the analysis in the key is preferable according to the principles and music we have studied, or why the key is incorrect and your analysis makes more sense. You need not do this for every difference between your analyses and the keys, but for enough to demonstrate that you understand the concept.
 
 Please compose your written responses in a single Google Document, and share it with me (kris DOT shaffer AT colorado DOT edu).
 
