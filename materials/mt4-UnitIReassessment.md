@@ -28,7 +28,17 @@ Find a sonata-form movement with complex or ambiguous features. Following are tw
 - Mozart, Symphony No. 35 in D Major, "Haffner," K. 385, first movement  
 - Beethoven, Symphony No. 2 in D Major, Op. 36, first movement  
 
-For your movement, Produce a timeline or annotated score (like in the quizzes) accurately labeling all elements in that movement listed for [Sonata Quiz 3]({{ root_url }}/materials/mt4-sonataQuiz3.html).
+For your movement, produce a timeline or annotated score (like in the quizzes) accurately labeling the following:
+
+- Cadences and keys (I:PAC, V:IAC, III:HC, etc.)  
+- Structural points of arrival (medial caesura, essential expositional closure, essential sonata closure, crux)  
+- Theme-level modules (primary, transition, secondary, closing, TR=>FS, retransition)  
+- Movement-level modules (exposition, development, recapitulation, introduction, coda)  
+- Exposition/recapitulation type (two-part, continuous, double-MC)  
+- Correspondence/reference/altered measures, according to the following method:
+
+> For each bar in the recapitulation, if it is a correspondence measure, write above it the measure number it corresponds to in the exposition. If it is a reference measure, write the number of the bar in the exposition it refers to, followed by "ref". If it is an altered (or new) measure, write "alt" above it.
+
 
 Write a short paper (800 words maximum) or produce a short video (5 minutes maximum) explaining ambiguous elements in the movement—either the thought process that went into choosing the labels you chose on your timeline for ambiguous passages, or explaining the musical significance of complex elements that resisted clear timeline labels.
 
