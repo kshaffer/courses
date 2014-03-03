@@ -9,7 +9,7 @@ author: Kris Shaffer
 ## Unit guides ##
 
 [Unit I: classical form (themes and sonatas)](mt4-unit1.html)  
-Unit II: introduction to post-tonal music  
+[Unit II: introduction to post-tonal music](mt4-unit2.html)  
 Unit III: pop/rock form
 
 
