@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 Claude Debussy, Préludes, Book 1, X. "La cathédrale engloutie": [score]({{ root_url }}/materials/Debussy-preludes-1-10.pdf).
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="380" frameborder="0" allowtransparency="true"></iframe><br/><br/?>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="380" frameborder="0" allowtransparency="true"></iframe><br/><br/>
 
 In class on Wednesday, March 5, try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class):
 
