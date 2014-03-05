@@ -21,7 +21,7 @@ In class on Wednesday, March 5, try to answer the following questions (first as 
 
 **Before the end of class**, leave one comment on the [Google Plus post for this activity](https://plus.google.com/112120443955741204467/posts/jjuCwAK4bPr) (link will only work if you're logged in to your CU account—it is on the class community page) with an analytical insight you gained today. Please do *not* leave an insight about this piece, but an insight about the analytical process that you can apply when analyzing another piece or style of music.
 
-Then, before Monday's class (March 10), read the [Wikipedia page on this movement](http://en.wikipedia.org/wiki/La_cathédrale_engloutie). Identify one or two things about the piece that are either missing, incomplete, incorrect, or lacking in nuance on that page. We will discuss in class on Monday, in the hopes of finding a few improvments we can make to the page as a class.
+Then, **before Monday's class (March 10)**, read the [Wikipedia page on this movement](http://en.wikipedia.org/wiki/La_cathédrale_engloutie). Identify one or two things about the piece that are either missing, incomplete, incorrect, or lacking in nuance on that page. We will discuss in class on Monday, in the hopes of finding a few improvments we can make to the page as a class.
 
 Have fun! This is a beautiful piece of music.
 
