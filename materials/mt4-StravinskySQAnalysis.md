@@ -15,7 +15,7 @@ In class on Wednesday, March 12, try to answer the following questions (first as
 - Which of the patterns dictate(s) the time signatures?  
 - What is the musical effect of these overlapping rhythmic patterns?
 
-**Before the end of class**, leave one comment on the [Google Plus post for this activity]() (link will only work if you're logged in to your CU account—it is on the class community page) with an analytical insight you gained today. Please do *not* leave an insight about this piece, but an insight about the analytical process that you can apply when analyzing another piece or style of music.
+**Before the end of class**, leave one comment on the [Google Plus post for this activity](https://plus.google.com/112120443955741204467/posts/BLEq5LkiyCP) (link will only work if you're logged in to your CU account—it is on the class community page) with an analytical insight you gained today. Please do *not* leave an insight about this piece, but an insight about the analytical process that you can apply when analyzing another piece or style of music.
 
 Then, **before Monday's class (March 17)**, write a one-paragaph analytical response in your Google Doc. Focus on rhythm/meter, secondary parameters (orchestration, dynamics, articulation, etc.), and attempting to tie it together with a single thesis statement.
 
