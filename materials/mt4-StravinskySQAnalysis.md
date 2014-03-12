@@ -6,7 +6,7 @@ author: Kris Shaffer
 
 ## {{ page.title }} ##
 
-Stravinsky: *Three Pieces for String Quartet*:  [score](http://imslp.org/wiki/3_Pieces_for_String_Quartet_(Stravinsky,_Igor)) (This *is* public domain in the US.)
+Stravinsky: *Three Pieces for String Quartet*:  [score](http://imslp.us/php/linkhandler.php?path=/scores/Stravinsky_Igor_1971/Stravinsky_-_3_Pieces_for_String_Quartet_FullScore.pdf) (This *is* public domain in the US.)
 
 In class on Wednesday, March 12, try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class):
 
