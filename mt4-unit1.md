@@ -44,7 +44,8 @@ Model analyses for sonata quiz 1: [Beethoven, Op. 49, No. 2, I.]({{ root_url }}/
 [Sonata analysis quiz 2]({{ root_url }}/materials/mt4-sonataQuiz2.html)  
 [Sonata analysis quiz 3]({{ root_url }}/materials/mt4-sonataQuiz3.html)  
 
-[End-of-unit reassessment/project]({{ root_url }}/materials/mt4-UnitIReassessment.html)
+[End-of-unit reassessment/project]({{ root_url }}/materials/mt4-UnitIReassessment.html)  
+[My analysis of the Haffner symphony, first movement]({{ root_url }}/materials/HaffnerAnalysis.pdf) (Note that there are a number of possibilities for this movement that make sense. This is *my* preferred interpretation. However, the scholars who "wrote the text" on Sonata Theory have some different ideas, and leave several options open.)
 
 ## Concepts ##
 
