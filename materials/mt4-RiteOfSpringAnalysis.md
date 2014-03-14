@@ -13,18 +13,18 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
 **In class on Monday, March 17,** try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class):
 
 - Find an example of each of the following (please do not duplicate another group's answer):  
-- - A diatonic melody.  
-- - A chromatic melody.  
-- - An octatonic melody.  
-- - A whole-tone melody.  
-- - Quartal (stacked-fourths-based) or quintal (stacked-fifths-based) chords.  
+  - A diatonic melody.  
+  - A chromatic melody.  
+  - An octatonic melody.  
+  - A whole-tone melody.  
+  - Quartal (stacked-fourths-based) or quintal (stacked-fifths-based) chords.  
 - Why do you think Stravinsky used quintuple rhythms at rehearsal 151 and following, instead of inserting 5/8 bars like he does elsewhere in the movement?  
 - Is there a regularity or structural pattern to the rhythm at rehearsal 142 (same at 167)?  
-- - If yes, what is it?  
-- - If no, why do you think Stravinsky used an irregular pattern?  
+  - If yes, what is it?  
+  - If no, why do you think Stravinsky used an irregular pattern?  
 - Is there a regularity or structural pattern to the rhythm at rehearsal 149?  
-- - If yes, what is it?  
-- - If no, why do you think Stravinsky used an irregular pattern?  
+  - If yes, what is it?  
+  - If no, why do you think Stravinsky used an irregular pattern?  
 - In the last two bars, why do you think the high parts and the low parts arrive at different moments?
 
 **For Wednesday's class (March 19),** review the answers you and your colleagues provided on the Google Doc, and watch at least this passage in each of the following videos. (Both are attempts to recapture Nijinsky's original choreography.)
