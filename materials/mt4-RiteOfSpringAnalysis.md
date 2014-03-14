@@ -29,11 +29,11 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
 
 *"Sacrificial Dance" begins at 29:28 in the following video from the 100th-anniversary performance from the Ballett und Orchester Mariinski-Theater Sankt Petersburg at the Théâtre des Champs-Élysées.*
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/BryIQ9QpXwI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BryIQ9QpXwI" frameborder="0" allowfullscreen></iframe>
 
 *"Sacrificial Dance" begins at 4:25 in the following video from the Joffrey Ballet (Chicago).*
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/C_7ndqgwxcM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/C_7ndqgwxcM" frameborder="0" allowfullscreen></iframe>
 
 **Before the end of class on Wednesday**, leave one comment on the [Google Plus post for this activity](https://plus.google.com/112120443955741204467/posts/BLEq5LkiyCP) (link will only work if you're logged in to your CU account—it is on the class community page) with an analytical insight you gained today. Please do *not* leave an insight about this piece, but an insight about the analytical process that you can apply when analyzing another piece or style of music.
 
