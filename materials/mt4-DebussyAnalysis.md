@@ -25,4 +25,4 @@ Then, **before Monday's class (March 10)**, read the [Wikipedia page on this mov
 
 Have fun! This is a beautiful piece of music.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>

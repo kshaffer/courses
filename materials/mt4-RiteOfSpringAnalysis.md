@@ -8,6 +8,8 @@ author: Kris Shaffer
 
 Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=/scores/Stravinsky_Igor_1971/Stravinsky_-_RiteOfSpring_OrchScore.pdf) (This *is* public domain in the US.)
 
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0oUjDxNRNHDBBPR6xOOmvv" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
 **In class on Monday, March 17,** try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class):
 
 - Find an example of each of the following (please do not duplicate another group's answer):  
@@ -38,5 +40,3 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
 **Before the end of class on Wednesday**, leave one comment on the [Google Plus post for this activity](https://plus.google.com/112120443955741204467/posts/BLEq5LkiyCP) (link will only work if you're logged in to your CU account—it is on the class community page) with an analytical insight you gained today. Please do *not* leave an insight about this piece, but an insight about the analytical process that you can apply when analyzing another piece or style of music.
 
 Then, **before Friday, March 21, at noon**, write a one-paragaph analytical response in your Google Doc. Try to tie all of your analytical insights together with a single thesis statement.
-
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0oUjDxNRNHDBBPR6xOOmvv" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
