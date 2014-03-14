@@ -10,7 +10,7 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:0oUjDxNRNHDBBPR6xOOmvv" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-**In class on Monday, March 17,** try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class):
+**In class on Monday, March 17,** try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class). Once you begin work as a group, add your answers to the class [Google Doc](https://docs.google.com/a/colorado.edu/document/d/1w6LeflaNZx6oIWM9EQ96EKqsv-DyNpe-uhyEsTgptq0/edit?usp=sharing) (accessible only when logged in with CU account).
 
 - Find an example of each of the following (please do not duplicate another group's answer):  
   - A diatonic melody.  

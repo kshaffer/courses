@@ -27,6 +27,7 @@ The repertoire focus of this unit will primarily be select works of Bela Bartók
 
 [Debussy - La cathédrale engloutie analysis]({{ root_url }}/materials/mt4-DebussyAnalysis.html)  
 [Stravinsky - Three Pieces for String Quartet analysis]({{ root_url }}/materials/mt4-StravinskySQAnalysis.html)  
+[Stravinsky - Rite of Spring analysis]({{ root_url }}/materials/mt4-RiteOfSpringAnalysis.html)  
 
 *N.B.: Some handouts will be copies of copyrighted material. For legal reasons, those will be archived in Google Drive, rather than here on the open web.*
 
