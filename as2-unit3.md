@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit II&#58; Basic chromaticism and 6/4 chords (Aural Skills II)
+title: Unit II&#58; More chromaticism and applied chords (Aural Skills II)
 author: Kris Shaffer
 ---
 

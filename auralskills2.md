@@ -10,7 +10,7 @@ author: Kris Shaffer
 
 [Unit I: Diatonic melody and harmony]({{ root_url }}/as2-unit1.html) (weeks 1–3)  
 [Unit II: Basic chromaticism and 6/4 chords]({{ root_url }}/as2-unit2.html) (weeks 4–7)  
-Unit III (weeks 8–11)  
+[Unit III: More chromaticism and applied chords]({{ root_url }}/as2-unit3.html) (weeks 8–11)  
 Unit IV (weeks 12–15)  
 
 ## Syllabus ##
