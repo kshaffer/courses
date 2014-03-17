@@ -41,8 +41,8 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit III (weeks 8–11) ####
 
-- perform straight, dotted, and syncopated rhythms in simple meter, from sight (half-note beats) – 1x.  
-- perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.  
+- (perform straight, dotted, and syncopated rhythms in simple meter, from sight (half-note beats) – 1x.)  
+- (perform straight, dotted, and syncopated rhythms in compound meter, from sight (dotted-half-note beats) – 1x.)  
 - perform straight, dotted, and syncopated rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
 - dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
 - dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
@@ -100,14 +100,14 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit III (weeks 8–11) ####
 
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
 - dictate/transcribe harmonic progressions containing passing and neighbor 6/4 chords, quickly and without an instrument – 2x.  
+- dictate/transcribe harmonic progressions containing applied/secondary-dominant chords, quickly and without an instrument – 2x.  
+- recognize harmonic progressions by ear and notate with Roman numerals, quickly and without an instrument – 2x.  
 
 #### Unit IV (weeks 12–15) ####
 
-- dictate/transcribe harmonic progressions containing applied/secondary-dominant chords, quickly and without an instrument – 2x.  
-- recognize harmonic progressions by ear and notate with Roman numerals, quickly and without an instrument – 2x.  
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
+- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
 - recognize simple, closely related modulation types by ear, quickly and without an instrument – 2x.  
 
 
