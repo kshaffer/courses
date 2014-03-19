@@ -9,7 +9,7 @@ author: Kris Shaffer
 ## Unit guides ##
 
 [Unit I: modulation and tonal harmony](as4-unit1.html)  
-Unit II: introduction to post-tonal music
+[Unit II: introduction to post-tonal music](as4-unit2.html)
 
 
 ## Syllabus ##
