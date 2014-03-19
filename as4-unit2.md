@@ -14,9 +14,9 @@ The following materials will be assigned or may supplement assigned materials in
 
 #### Post-tonal music ####
 
-- [Analyzing atonal music.][http://kris.shaffermusic.com/musicianship/atonal.html]  
-- [Glossary of atonal musical terms.][http://kris.shaffermusic.com/musicianship/atonalGlossary.html]  
-- [Sheet of blank chromatic-scale clock faces.][http://kris.shaffermusic.com/musicianship/Graphics/blankClockFaces.pdf]  
+- [Analyzing atonal music.](http://kris.shaffermusic.com/musicianship/atonal.html)  
+- [Glossary of atonal musical terms.](http://kris.shaffermusic.com/musicianship/atonalGlossary.html)  
+- [Sheet of blank chromatic-scale clock faces.](http://kris.shaffermusic.com/musicianship/Graphics/blankClockFaces.pdf)  
 
 #### Technology ####
 
