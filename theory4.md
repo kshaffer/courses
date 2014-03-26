@@ -10,7 +10,7 @@ author: Kris Shaffer
 
 [Unit I: classical form (themes and sonatas)](mt4-unit1.html)  
 [Unit II: introduction to post-tonal music](mt4-unit2.html)  
-Unit III: pop/rock form
+[Unit III: pop/rock harmony and form](mt4-unit3.html)
 
 
 ## Syllabus ##
@@ -46,7 +46,7 @@ A student's overall grade at the end of the semester will be the median of all u
 
 ### Reassessment ###
 
-In general, students will have multiple attempts to demonstrate mastery of a set of musical concepts throughout a unit of study. If a student is not satisfied with their level of mastery and their letter grade at the end of a unit, that student may reassess the relevant concepts *within two weeks* of the unit deadline. One reassessment opportunity is allowed automatically. However, if a student makes progress on that reassessment but some concepts still remain to be mastered, the instructor may allow, at his discretion, another reassessment opportunity within another two-week window.
+In general, students will have multiple attempts to demonstrate mastery of a set of musical concepts throughout a unit of study. If a student is not satisfied with their level of mastery and their letter grade at the end of a unit, that student may reassess the relevant concepts *within two weeks* of the unit deadline (the final unit of the semester will, for obvious reasons, have a shorter reassessment window). One reassessment opportunity is allowed automatically. However, if a student makes progress on that reassessment but some concepts still remain to be mastered, the instructor may allow, at his discretion, another reassessment opportunity within another two-week window.
 
 The reassessment must be *completed* within two weeks of the unit deadline. Students wishing to reassess one or more concepts should contact the instructor *immediately* to schedule a reassessment time and agree on an appropriate reassessment task.
 
