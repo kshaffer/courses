@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 Unit I will cover harmony and form in pop/rock music, primarily from the latter half of the twentieth century, but also with some exploration of music from the twenty-first century. We will build on concepts learned in your previous studies of harmony and (especially) classical form, and add new details and concepts derived from the pop/rock musical repertoire.
 
-The overall goal for this unit is for all students to be able to identify the key structural elements of standard pop/rock forms and stock harmonic progressions, as well as to comunicate verbally, in detail and with nuance, about those structures in pop/rock pieces of moderate analytical difficulty.
+The overall goal for this unit is for all students to be able to identify the key structural elements of standard pop/rock forms and stock harmonic progressions (by ear), as well as to comunicate verbally, in detail and with nuance, about those structures in pop/rock pieces of moderate complexity.
 
 The end-of-unit deadline is the last day of classes: **Friday, May 2, 2014.** There is no final exam. Finals week will be reserved for reassessments (see below), if necessary.
 
@@ -32,24 +32,24 @@ We will primarily be following the theories of Jason Summach, John Covach, Walte
 
 ## Concepts ##
 
-Our coursework in this unit will be directed towards to goal of consistent, correct identification, interpretation, and communication of the following concepts or structural elements in the context of normative pop/rock songs. (Read as "I can . . .")
+Our coursework in this unit will be directed towards the goal of consistent, correct identification, interpretation, and communication of the following concepts or structural elements in the context of normative pop/rock songs. (Read as "I can . . .")
 
 Analytical concepts:
 
-- identify and interpret large-scale song forms (strophic, AABA, verse-chorus).  
-- identify and interpret formal cycles (start/end times and cycle types—A, AABA, VC, VPC, etc.).  
-- identify and interpret formal modules (start/end times and module functions—verse, chorus, strophe, bridge, etc.).  
-- identify and interpret formal phrases (start/end times and phrase types—statement, response, departure, conclusion, blues-tonic, blues-subdominant, blues-dominant, etc.).  
-- identify standard harmonic schemata in pop/rock songs.  
-- articulate the theme of a song's text.  
-- articulate the way that the formal and/or harmonic structure of a song supports or works against the theme of its text.
+- identify and interpret **large-scale song forms** (strophic, AABA, verse-chorus).  
+- identify and interpret **formal cycles** (start/end times and cycle types—A, AABA, VC, VPC, etc.).  
+- identify and interpret **formal modules** (start/end times and module functions—verse, chorus, strophe, bridge, etc.).  
+- identify and interpret **formal phrases** (start/end times and phrase types—statement, response, departure, conclusion, blues-tonic, blues-subdominant, blues-dominant, etc.).  
+- identify standard **harmonic schemata** in pop/rock songs.  
+- articulate the **theme** of a song's text.  
+- articulate the way that the formal and/or harmonic structure of a song **supports or works against the theme** of its text.
 
 Writing skills:
 
-- articulate an original thesis based on evidence (i.e., musical analysis).  
-- construct a clear, linear argument in support of a thesis and devoid of unnecessary details.  
-- use musical terminology appropriately and effectively.  
-- write and cite sources, as appropriate to the topic, consistent with the *Chicago Manual of Style*, 16th ed.  
+- articulate an **original thesis** based on evidence (i.e., musical analysis).  
+- construct a clear, linear **argument** in support of a thesis and devoid of unnecessary details.  
+- use **musical terminology** appropriately and effectively.  
+- write and cite sources, as appropriate to the topic, consistent with the ***Chicago Manual of Style***, 16th ed.  
 
 
 ## Assessment ##
@@ -60,7 +60,7 @@ In the last week of the unit, we will conduct peer-driven writing workshops, in 
 
 The quizzes will give you an opportunity to pass all seven of the *analytical concepts* before the end of the unit. The final paper/project will evaluate all eleven objectives, giving you a final opportunity, if necessary, to demonstrate mastery of the analytical concepts, and giving you a *single* opportunity to assess the writing skills. (There will be a reassessment opportunity during finals week, per the syllabus.) More details about the final project will be announced during week 13 or 14 of the semester.
 
-Your unit grade will take into account only your mark for the *most recent quiz* that covered a given concept. If you do not take a quiz, your marks from the previous quiz will be taken. (So, for example, if you pass all categories before the last quiz, you can skip that quiz. Likewise, if you miss the first quiz for a set of concepts, you can "make it up" by taking the next quiz.)
+Your unit grade will take into account only your mark for the *most recent assessment* that covered a given concept.
 
 Unit letter grades will be determined by the number of concepts you have passed (on quizzes and the final project) by the unit deadline:
 
