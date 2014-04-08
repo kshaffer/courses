@@ -28,7 +28,7 @@ We will primarily be following the theories of Jason Summach, John Covach, Walte
 
 ### Assessments (in-class and out-of-class) ###
 
-[Assessment 1]({{ root_url }}/materials/mt4-April7Analysis.html) (due April 7)
+[Assessment 1]({{ root_url }}/materials/mt4-April7Analysis.html) (due April 7)  
 [Assessment 2]({{ root_url }}/materials/mt4-April14Analysis.html) (due April 14)
 
 ## Concepts ##
