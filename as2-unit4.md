@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Unit III&#58; More chromaticism and applied chords (Aural Skills II)
+title: Unit IV&#58; More applied chords (Aural Skills II)
 author: Kris Shaffer
 ---
 
-# Unit III: More chromaticism and applied chords #
+# Unit IV: More applied chords #
 
-Unit III will continue to reinforce basic concepts of diatonic melody and harmony and standard rhythm, as well as skills in performing and recognizing musical structures by ear. New topics inlcude the eighth-note beat in simple meter, leaping melodic chromaticism (incomplete chromatic neighbor tones), and applied (or secondary) dominant chords.
+Unit IV will continue to reinforce basic concepts of diatonic melody and harmony and standard rhythm, as well as skills in performing and recognizing musical structures by ear. New topics inlcude the dotted-eighth-note beat in compound meter and melodic applied-chord arpeggios.
 
 ## Materials ##
 
@@ -49,21 +49,24 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 #### Rhythm ####
 
-- perform straight, dotted, and syncopated rhythms in simple meter, with preparation (eighth-note beats) – 1x.  
-- dictate/transcribe straight and dotted rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
-- dictate/transcribe syncopated rhythms in simple meter, quickly and without an instrument (eighth-note beats) – 1x.  
+- perform straight, dotted, and syncopated rhythms in compound meter, with preparation (dotted-eighth-note beats) – 1x.  
+- dictate/transcribe straight and dotted rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
+- dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
+
 
 #### Melodic pitch elements ####
 
-- perform diatonic melodies with steps, small leaps, and arpeggiations of I and V<sup>7</sup>, from sight – 1x.  
-- perform diatonic melodies with any triadic arpeggiations, with preparation – 1x.  
-- dictate/transcribe diatonic melodies with any triadic arpeggiations, quickly and without an instrument – 2x.  
-- dictate/transcribe diatonic melodies with chromatic incomplete neighbor tones, quickly and without an instrument – 2x.  
+- perform diatonic melodies with chromatic incomplete neighbor tones, with preparation – 1x.  
+- perform diatonic melodies with arpeggiations of applied/secondary-dominant chords, with preparation – 1x.  
+- perform diatonic melodies with any triadic arpeggiations, from sight – 1x.  
+- perform diatonic melodies with chromatic complete-neighbor and passing tones, from sight – 1x.  
+- perform diatonic melodies with chromatic incomplete neighbor tones, from sight – 1x.  
+- dictate/transcribe diatonic melodies with arpeggiations of applied/secondary-dominant chords, quickly and without an instrument – 2x.  
+
 
 #### Harmonic pitch elements ####
 
-- dictate/transcribe harmonic progressions containing passing and neighbor 6/4 chords, quickly and without an instrument – 2x.  
-- dictate/transcribe harmonic progressions containing applied/secondary-dominant chords, quickly and without an instrument – 2x.  
-- recognize harmonic progressions by ear and notate with Roman numerals, quickly and without an instrument – 2x.  
+- recognize simple, closely related modulation types by ear, quickly and without an instrument – 2x.  
 
-In-class or take-home/online assessment activities will be given for all of these concepts and skills, as well as some concepts and skills that have deadlines in future units. These assignments and quizzes will provide sufficient opportunity for students to demonstrate mastery by the unit deadline. Additional attempts then become the responsibility of the student to be submitted or performed during office hours.
+
+In-class or take-home/online assessment activities will be given for all of these concepts and skills. These assignments and quizzes will provide sufficient opportunity for students to demonstrate mastery by the unit deadline. Additional attempts then become the responsibility of the student to be submitted or performed during office hours.
