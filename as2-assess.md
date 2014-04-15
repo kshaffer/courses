@@ -14,7 +14,7 @@ Assessment will be performed in reference to three categories of musical skills 
 - *melodic pitch elements*  
 - *harmonic pitch elements*  
 
-Each category contains between 10 and 16 specific concepts or skills. At any point in the semester, for each concept/skill, students will have a current mark of **N – not attempted**, **A – attempted**, or **P – passed**. A student's letter grade for a given category will be determined by the number of concepts/skills s/he has mastered (grade of P) by the end of the unit, by percentage (90/80/70/60). *Only the most recent assessment attempt(s) will count toward the letter grade.*
+Each category contains between 9 and 15 specific concepts or skills. At any point in the semester, for each concept/skill, students will have a current mark of **N – not attempted**, **A – attempted**, or **P – passed**. A student's letter grade for a given category will be determined by the number of concepts/skills s/he has mastered (grade of P) by the end of the unit, by percentage (90/80/70/60). *Only the most recent assessment attempt(s) will count toward the letter grade.*
 
 See [syllabus]({{ root_url }}/auralskills2.html) for final grade and reassessment information.
 
@@ -24,7 +24,7 @@ Read all as "I can . . ."
 
 ## Rhythm – 12 objectives ##
 
-Rhythmic objectives will be addressed throughout the semester, but deadlines will only occur in Units III and IV.
+Rhythmic objectives will be addressed throughout the semester, but deadlines will only occur in Units III and IV. To receive an A, a student must pass at least 11 objectives; B, 9.5; C, 8; D, 7.
 
 #### Unit I (weeks 1–3) ####
 
@@ -52,6 +52,8 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 - dictate/transcribe syncopated rhythms in compound meter, quickly and without an instrument (dotted-eighth-note beats) – 1x.  
 
 ## Melodic pitch elements – 15 objectives ##
+
+ To receive an A, a student must pass at least 13.5 objectives; B, 12; C, 10.5; D, 9.
 
 #### Unit I (weeks 1–3) ####
 
@@ -81,8 +83,10 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 - dictate/transcribe diatonic melodies with arpeggiations of applied/secondary-dominant chords, quickly and without an instrument – 2x.  
 
  
-## Harmonic pitch elements – 11 objectives ##
+## Harmonic pitch elements – 9 objectives ##
 
+To receive an A, a student must pass at least 8 objectives; B, 7; C, 6; D, 5.
+ 
 #### Unit I (weeks 1–3) ####
 
 - dictate/transcribe harmonic progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, quickly and without an instrument – 1x.  
@@ -102,8 +106,6 @@ Rhythmic objectives will be addressed throughout the semester, but deadlines wil
 
 #### Unit IV (weeks 12–15) ####
 
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, inversions of V<sup>7</sup>, and passing and neighbor 6/4 chords, with preparation – 1x.  
-- perform keyboard-style progressions containing 5/3 chords, 6/3 chords, and inversions of V<sup>7</sup>, and passing, neighbor, and cadential 6/4 chords while singing, with preparation – 1x.  
 - recognize simple, closely related modulation types by ear, quickly and without an instrument – 2x.  
 
 

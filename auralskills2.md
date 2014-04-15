@@ -41,7 +41,7 @@ Assessment will be performed in reference to three categories of musical skills 
 - *melodic pitch elements*  
 - *harmonic pitch elements*  
 
-Each category contains between 15 and 18 specific concepts or skills, outlined in the [course assessment guide]({{ root_url }}/as2-assess.html). A student’s letter grade for a given category is determined by the number of those specific concepts or skills for which the student demonstrates mastery by the end of the appropriate unit of study. 
+Each category contains between 9 and 15 specific concepts or skills, outlined in the [course assessment guide]({{ root_url }}/as2-assess.html). A student’s letter grade for a given category is determined by the number of those specific concepts or skills for which the student demonstrates mastery by the end of the appropriate unit of study. 
 
 A student's overall grade at the end of the semester will be the median of the three category grades, or one letter grade higher than the lowest category grade—whichever is lower.
 
