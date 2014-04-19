@@ -6,7 +6,7 @@ author: Kris Shaffer
 
 ## {{ page.title }} ##
 
-### Monday ###
+### Monday in class ###
 
 I will be out for a funeral on Monday. Laura will collect your assignments and lead the class through two activities.
 
@@ -21,6 +21,6 @@ Kanye West & Jay-Z, "Otis": [lyrics](http://rapgenius.com/Kanye-west-otis-lyrics
 
 Feel free to look at the RapGenius annotations for "Otis" if you have difficulty understanding the lyrics.
 
-### For Wednesday ###
+### Homework for Wednesday ###
 
 [Read each other's attempts at a theme](https://plus.google.com/events/cfibdbg2dmpapt5ga5rdjb05720) for these songs and *+1* or reply as appropriate. Then read [a short blog post](http://kris.shaffermusic.com/2014/03/jay-z-and-kanye-west-a-response-to-ethan-hein/) I wrote this spring about these two songs. Lastly, based on your analysis and my blog post (or your disagreement with my blog post), come up with a single-sentence thesis statement for a hypothetical analysis of "Otis." We will discuss these thesis statements and the supporting analyses in class on Wednesday. (In preparation for your final paper, which will be on a different song.)
