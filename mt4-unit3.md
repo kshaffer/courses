@@ -31,7 +31,8 @@ We will primarily be following the theories of Jason Summach, John Covach, Walte
 [Assessment 1]({{ root_url }}/materials/mt4-April7Analysis.html) (due April 7)  
 [Assessment 2]({{ root_url }}/materials/mt4-April14Analysis.html) (due April 14)  
 [Assessment 3]({{ root_url }}/materials/mt4-April21Analysis.html) (due April 21)  
-[Jay-Z & Kanye West, April 21–23]({{ root_url }}/materials/mt4-OtisAnalysis.html)
+[Jay-Z & Kanye West, April 21–23]({{ root_url }}/materials/mt4-OtisAnalysis.html)  
+[Final project]({{ root_url }}/materials/mt4-finalPaper.html) (due May 2)
 
 ## Concepts ##
 

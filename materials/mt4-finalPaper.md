@@ -19,11 +19,11 @@ The final paper is due on **Friday, May 2, at 8:00am**. No late papers will be a
 
 ### Project details ###
 
-For your final assessment, select one of the two songs above, and analyze its text, its formal structure, any other musical factors you find interesting or appropriate, and the relationship between the text and music. Based on your analysis, form a single big claim (a thesis statement) that can be supported by evidence in the music and text. Then write an analytical paper of **no more than 1200 words** (about 4–5 pages double-spaced) that argues that claim with that evidence. Be sure to have a valid thesis statement and a clear argument based on evidence, to use musical terminology appropriately, and to follow the *Chicago Manual of Style, 16th ed.* 
+For your final assessment, select one of the two songs above. Analyze its text, its formal structure, any other musical factors you find interesting or appropriate, and the relationship between the text and music. Based on your analysis, form a single, big claim (a thesis statement) that can be supported by evidence in the music and text. Then write an analytical paper of **no more than 1200 words** (about 4–5 pages double-spaced) that argues that claim with that evidence. Be sure to have a valid thesis statement and a clear argument based on evidence, to use musical terminology appropriately, and to follow the *Chicago Manual of Style, 16th ed.* 
 
 (N.B.: this means things like cover pages and, if appropriate, a references/works cited page. Also, note that CMoS covers more than just citations; peruse it for proper use of punctuation, hyphens/dashes, and how to refer to musical terms, titles, and the like.)
 
-If you are happy with your results from Assessments 1–3 (see your grade report in GDrive), you need only submit a paper. If you still want/need to demonstrate mastery (i.e., pass) for any of the form objectives, please submit a detailed timeline analysis of your project song.
+If you are happy with your results from Assessments 1–3 (see your grade report in GDrive), you need only submit a paper. If you still want/need to pass any of the form analysis objectives, please submit a detailed timeline analysis of your project song.
 
 ### Submission ###
 
@@ -44,7 +44,7 @@ The following resources may be helpful to you. (Note, this is not an exhaustive 
 
 ### Assessment ###
 
-This project will assess all of the concepts for this unit (below). 
+This project will assess all of the concepts for this unit (below). Make sure as you are working that you demonstrate mastery of all of these objectives, and double-check them (perhaps with a partner) before submission.
 
 Analytical concepts:
 
