@@ -6,7 +6,9 @@ author: Kris Shaffer
 
 ## Course syllabus, policies, unit guides ##
 
-Music Theory I (MUSC 1101)  
+upcoming courses (incomplete and/or in draft form):
+
+[Music Theory I (MUSC 1101)](theory1.html)  
 Music Theory III (MUSC 2101)  
 [Aural Skills III (MUSC 2121)](auralskills3.html)  
 Music Cognition (MUSC  6801)  
