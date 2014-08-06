@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 ## Unit guides ##
 
-[Unit I: fundamentals & cognition](mt1-unit1.html) – approx. weeks 1–5  
+Unit I: fundamentals & cognition – approx. weeks 1–5  
 Unit II: strict composition in two voices – approx. weeks 6–10  
 Unit III: strict composition in four voices – approx. weeks 11–15
 
@@ -81,6 +81,11 @@ Generally, students will be given multiple opportunities during each unit to dem
 - **unfigured basso continuo** – realize (notate and perform—video) an unfigured bass line in four-part, *basso continuo* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
 - **unfigured melodic keyboard style** – realize (notate and perform—video) an unfigured bass line in four-part, *melodic* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
 
+**To obtain an A in this course,** a student must fulfill all B-level objectives as well as the following:
+
+- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.).
+
+A-level work can be submitted at any time in Unit II, Unit III, or Finals Week.
 
 ### Reassessment ###
 
@@ -93,20 +98,13 @@ The reassessment must be *completed* within two weeks of the unit deadline. Stud
 #### Required ####
 
 - A web-enabled device that can be brought to most class meetings (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
-- An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - A free Google account *using your CU Identikey*.  
-- SHAFFER SECTION ONLY: A pair of headphones/earbuds with good response *beyond* the audible frequency range.
 
 All other required class materials (including software) will be posted or linked to on the course site.
 
-#### Optional ####
-
-- [Kazez, Daniel. *Rhythm Reading*, 2nd ed. New York: W. W. Norton & Company, Inc., 1997](http://openlibrary.org/books/OL22213819M/Rhythm_reading).  
-- [Berkowitz, Sol et al. *A New Approach to Sight Singing*. New York: W.W. Norton, 2011](http://openlibrary.org/works/OL16010686W/A_new_approach_to_sight_singing).  
-
 ### Final exam ###
 
-No required class activities will take place during finals week, only Unit II reassessments.
+No required class activities will take place during finals week, only Unit III reassessments and A-level submissions.
 
 ### Policies ###
 
