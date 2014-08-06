@@ -33,7 +33,7 @@ The goal of this course (and the entire music theory and aural skills sequences)
 
 This semester, we will focus on gaining fluency with fundamental concepts and elements of Western musical notation, an understanding of the basic cognitive concepts that underlie musical theory and practice, and significant experience applying those concepts in the composition and analysis of music. Compositional exercises will be focused this semester on *strict* musical styles, but we will relate the concepts explored in those strict styles to other, *freer* historical styles. (Future semesters in the sequence will explore composition and analysis more deeply in a variety of historical styles.) 
 
-The course will be divided into three units of study: *fundamentals*, *two-voice counterpoint*, and *four-part voice-leading*—roughly five weeks each.
+The course will be divided into three units of study: *fundamentals & cognition*, *strict composition in two voices*, and *strict composition in four voices*—roughly five weeks each.
 
 ### Assessment ###
 
