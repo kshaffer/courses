@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit II&#58; Pop/rock transcription and performance (Aural Skills III)
+title: Unit I&#58; Pop/rock transcription and performance (Aural Skills III)
 author: Kris Shaffer
 ---
 
