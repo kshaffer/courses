@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 ## Unit guides ##
 
-Unit I: pop/rock music (form, harmony, voice-leading) – approx. weeks 1–6  
+[Unit I: pop/rock music (form, harmony, voice-leading) – approx. weeks 1–6](mt3-unit1.html)  
 Unit II: Classical themes (with chromaticism and modulation) – approx. weeks 7–10  
 Unit III: Sonata theory – approx. weeks 11–15  
 
@@ -33,7 +33,7 @@ The goal of this course (and the entire music theory and aural skills sequences)
 
 This semester will introduce concepts of large-scale musical form, and the connections of formal structure to harmony, melody, and voice-leading. We will explore these concepts in the context of commercial pop/rock music and sonata-form movements of the classical era. The course will be divided into three units:
 
-- Unit I: pop/rock music (form and voice-leading) – approx. weeks 1–6  
+- Unit I: pop/rock music (form, harmony, voice-leading) – approx. weeks 1–6  
 - Unit II: Classical themes (with chromaticism and modulation) – approx. weeks 7–10  
 - Unit III: Sonata theory – approx. weeks 11–15  
 
