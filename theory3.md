@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 ## Unit guides ##
 
-Unit I: pop/rock music (form and voice-leading) – approx. weeks 1–6  
+Unit I: pop/rock music (form, harmony, voice-leading) – approx. weeks 1–6  
 Unit II: Classical themes (with chromaticism and modulation) – approx. weeks 7–10  
 Unit III: Sonata theory – approx. weeks 11–15  
 
