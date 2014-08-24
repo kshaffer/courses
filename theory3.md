@@ -6,6 +6,8 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
+[Assignments and due dates](mt3-assign.html)
+
 ## Unit guides ##
 
 [Unit I: pop/rock music (form, harmony, voice-leading) – approx. weeks 1–6](mt3-unit1.html)  

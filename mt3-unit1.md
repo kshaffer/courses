@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit I&#58; Pop/rock music (form, harmony, voice-leading) (Music Theory IV)
+title: Unit I&#58; Pop/rock music (form, harmony, voice-leading) (Music Theory III)
 author: Kris Shaffer
 ---
 
@@ -13,6 +13,8 @@ The overall goal for this unit is for all students to be able to identify, inter
 ## Materials ##
 
 We will primarily be following the theories of Jason Summach, John Covach, Walter Everett, Mark Spicer, and Daniel Harrison. A very detailed exploration of the pop/rock repertoire from 1955–1990 can be found in Summach's dissertation (Yale, 2012). However, all required material for this unit (much of which is based on his work) will be posted here as we progress through the unit.
+
+[Assignments and due dates](mt3-assign.html)
 
 [specific materials to be added throughout the course of the unit]
 
