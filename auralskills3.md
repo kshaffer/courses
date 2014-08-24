@@ -6,6 +6,8 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
+[Assignments and due dates](as3-assign.html)
+
 ## Unit guides ##
 
 [Unit I: pop/rock transcription and performance](as3-unit1.html) – approx. weeks 1–7  
