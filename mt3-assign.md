@@ -12,7 +12,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 Read the following and come to class with any questions you have.
 
-- course [Syllabus](theory3.html)  
+- [Syllabus](theory3.html)  
 - [Unit I Guide](mt3-unit1.html)  
 - ["An Open Letter to My Students"](http://www.hybridpedagogy.com/journal/open-letter-students/)  
 - [Introduction to Musical Functions](http://openmusictheory.com/functions.html)
