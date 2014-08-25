@@ -6,9 +6,11 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
+[Assignments and due dates.](mt1-assign.html)
+
 ## Unit guides ##
 
-Unit I: fundamentals & cognition – approx. weeks 1–5  
+[Unit I: fundamentals & cognition](mt1-unit1.html) – approx. weeks 1–5  
 Unit II: strict composition in two voices – approx. weeks 6–10  
 Unit III: strict composition in four voices – approx. weeks 11–15
 
@@ -47,7 +49,7 @@ Generally, students will be given multiple opportunities during each unit to dem
 
 - **meter** – recognize the meter of a short musical excerpt from the musical notation and time signature (simple/compound, duple/triple/quadruple).  
 - **time signatures** – write the appropriate time signature given a specified meter.  
-- **rhythmic notation** – write the appropriate rhythmic notation (including beaming) for a passage of music, given a *protonotation* version of that pasage.  
+- **rhythmic notation** – write the appropriate rhythmic notation (including beaming) for a passage of music, given a *protonotation* version of that passage.  
 - **clefs** – draw treble, alto, and bass clefs appropriately on the staff (30 seconds – one of each clef).  
 - **key signature ID** – identify major and minor key signatures on treble, alto, and bass staves.  
 - **key signature writing** – write major and minor key signatures on treble, alto, and bass staves.  
