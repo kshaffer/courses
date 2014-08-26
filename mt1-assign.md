@@ -16,6 +16,8 @@ Read the following and come to class with any questions you have.
 - [Unit I Guide](mt1-unit1.html)  
 - ["An Open Letter to My Students"](http://www.hybridpedagogy.com/journal/open-letter-students/)  
 
+Those interested in following up on the "Tritone Paradox" can [read more about it here.](http://deutsch.ucsd.edu/psychology/pages.php?i=206)
+
 Also, come prepared for the following *timed* quizzes at the beginning of class. Use the readings at [Open Music Theory](http://openmusictheory.com) to help you prepare, if necessary.
 
 - **meter** – recognize the meter of a short musical excerpt from the musical notation and time signature (simple/compound, duple/triple/quadruple).  

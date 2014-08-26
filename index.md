@@ -22,9 +22,8 @@ Music Cognition (MUSC  6801)
 
 ## Online resources ##
 
-[Musicianship Resources](http://kris.shaffermusic.com/musicianship) – online "textbook" for music theory and aural skills.  
+[Open Music Theory](http://openmusictheory.com) – online textbook for music theory.  
 [Spotify](http://www.spotify.com).  
-<!--[Learning Catalytics](http://www.learningcatalytics.com) – peer instruction, clicker questions, online quizzes and review. -->  
 
 ## Assignments ##
 
