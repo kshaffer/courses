@@ -11,7 +11,7 @@ upcoming courses (incomplete and/or in draft form):
 [Music Theory I (MUSC 1101)](theory1.html)  
 [Music Theory III (MUSC 2101)](theory3.html)  
 [Aural Skills III (MUSC 2121)](auralskills3.html)  
-Music Cognition (MUSC  6801)  
+[Music Cognition (MUSC  6801)](cognition.html)  
 
 ## Past courses ##
 
