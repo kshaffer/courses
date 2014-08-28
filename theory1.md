@@ -20,7 +20,7 @@ Unit III: strict composition in four voices – approx. weeks 11–15
 
 Course title: Semester 1 Theory  
 Course number: MUSC 1101
-Semester: Spring 2013  
+Semester: Fall 2014  
 Meeting time: TR 8:00am–8:50am  
 Meeting location: MUS C199  
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
