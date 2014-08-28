@@ -6,6 +6,8 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+[Assignments, readings, quizzes, schedule](cognition-schedule.html)
+
 ## Syllabus 
 
 Music is an art. Music is a language. Music is therapy. Music is [a clinical tool](http://www.musictherapy.org). Music is a [weapon](https://en.wikipedia.org/wiki/Music_in_psychological_operations). Music is an area of humanistic inquiry. Music is math. Music is neuroscience. Music is communal. Music is deeply personal. Music is [bug spray](http://articles.latimes.com/2005/feb/13/entertainment/ca-musichurts13). Music is religion. Music is [identity formation](https://openlibrary.org/works/OL3505052W/Music_in_Everyday_Life). Music is culture. Music is psychology.
@@ -24,7 +26,7 @@ We will begin the course with several weeks exploring the basic concepts underly
 
 We will meet every Friday during the semester, with the exception of Nov. 7 (SMT/AMS), and Fall/Thanksgiving Break. On Nov. 21 (the day before Fall Break), we will be joined by Ian Quinn, professor of music theory and cognitive science at Yale University.
 
-In Weeks 2–7, we will explore some of the "nuts and bolts" of music cognition. These topics and readings will be determined by me, and will come largely (but not exclusively) from Patrick Colm Hogan's *Cognitive Science, Literature, and the Arts: A Guide for Humanists* and Bob Snyder's *Music and Memory: An Introduction*.
+In Weeks 1–7, we will explore some of the "nuts and bolts" of music cognition. These topics and readings will be determined by me, and will come largely (but not exclusively) from Patrick Colm Hogan's *Cognitive Science, Literature, and the Arts: A Guide for Humanists* and Bob Snyder's *Music and Memory: An Introduction*.
 
 In Weeks 8–15, we will explore more advanced and discipline-specific topics, based on discussions and negotiations we have as a class during weeks 5–7. Some of these discussions will be student-led, and some will be based around summative student projects.
 

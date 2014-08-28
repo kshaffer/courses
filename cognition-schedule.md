@@ -10,14 +10,14 @@ author: Kris Shaffer
 
 Review the [course syllabus](cognition.html), and bring any questions or suggestions to class.
 
-Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents):
+Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
 
 - Patrick Colm Hogan, *Cognitive Science, Literature, and the Arts*, Chapter 2, "Is It Cognitive Science Yet?"  
 - Bob Snyder, *Music and Memory*, Chapter 1, "Auditory Memory: An Overview"
 
-***By Wednesday, 10am***, submit two factual questions about the readings (one question per reading) to the quiz preparation Google Doc for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
+***By Wednesday, 10am***, submit two factual questions about the readings (one question per reading) to the [quiz preparation Google Doc](https://docs.google.com/a/colorado.edu/document/d/1rvwR5ID0MzQMD6l_8SvVj5igCbOsWuzwdr-mx7Gfi88/edit?usp=sharing) for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
 
-Then find and memorize answers to all of the questions in the document and be prepared to answer 10 of them on a quiz at the beginning of Friday's class.
+Then find and memorize answers to all of the questions in the document and be prepared to answer them on a quiz at the beginning of Friday's class. (I will choose 10 of your 24 questions.)
 
 If you have questions about these readings in advance of class, you can discuss them with each other in person, stop by my office, use the comments feature of Google Drive, or tweet questions with the course hashtag.
 
