@@ -16,9 +16,9 @@ Download and install [Variations Audio Timeliner](http://variations.sourceforge.
 
 Watch [my demo video](http://vimeo.com/42041355) on how to use Variations.
 
-Make a timeline (individually or with one other person) of "Pleasant Valley Sunday" in light of your new analysis (audio is in the class shared Google Drive folder). Make a single layer of formal divisions, and use only the following terms: intro, outro, strophe, bridge, verse, prechorus, chorus. (Essentially, choose one of the two analyses presented in class and make it into a timeline.)
+Make a timeline (individually or with one other person) of "Pleasant Valley Sunday" in light of your new analysis (audio is in the class shared [Google Drive folder](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cT29FblliMTk0NUE&usp=sharing); Log in as if your email address is YourIdentiKey@colorado.edu, and use your IdentiKey password.). Make a single layer of formal divisions, and use only the following terms: intro, outro, strophe, bridge, verse, prechorus, chorus. (Essentially, choose one of the two analyses presented in class and make it into a timeline.)
 
-Name the file "LASTNAME Pleasant Valley Sunday Timeline.v2t" (be sure to include both last names if working in pairs). Upload the timeline file (not the audio) to Google Drive and share it with me (kris.shaffer@colorado.edu) before the beginning of class. See [this short video](https://vimeo.com/73001492) for uploading/sharing instructions of you are new to Google Drive. Make sure you share it from your CU Google Apps account. (Log in as if your email address is YourIdentiKey@colorado.edu, and use your IdentiKey password.)
+Name the file "LASTNAME Pleasant Valley Sunday Timeline.v2t" (be sure to include both last names if working in pairs). Upload the timeline file (not the audio) to Google Drive and share it with me (kris.shaffer@colorado.edu) before the beginning of class. See [this short video](https://vimeo.com/73001492) for uploading/sharing instructions of you are new to Google Drive. Make sure you share it from your CU Google Apps account.
 
 Finally, be sure to bring a web-enabled device to class.
 
