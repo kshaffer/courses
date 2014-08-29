@@ -8,6 +8,27 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 4 prep
+
+We will begin class with a quiz on the following six concepts:
+
+- **meter** – recognize the meter of a short musical excerpt from the musical notation and time signature (simple/compound, duple/triple/quadruple).  
+- **time signatures** – write the appropriate time signature given a specified meter.  
+- **clefs** – draw treble, alto, and bass clefs appropriately on the staff (30 seconds – one of each clef).  
+- **key signature ID** – identify major and minor key signatures on treble, alto, and bass staves.  
+- **key signature writing** – write major and minor key signatures on treble, alto, and bass staves.  
+- **chromatic scale** – write a chromatic scale, ascending with sharps/naturals, descending with flats/naturals.  
+
+Prepare for these quizzes by reviewing materials on [Open Music Theory](http://openmusictheory.com), performing practice exercises on [Teoria.com](http://teoria.com), and/or drilling/discussing with a classmate.
+
+Please bring a pencil (or two) and a web-enabled device to class.
+
+## September 2 prep
+
+There will be no quizzes on Tuesday, September 2 (see Sep 4 prep for Thursday's quizzes). Instead, we will discuss the [Open Letter](http://www.hybridpedagogy.com/journal/open-letter-students/) I shared with you last week, and solidify understanding of meter.
+
+*Please be sure to bring a web-enabled device to class.*
+
 ## August 28 prep
 
 Read the following and come to class with any questions you have.
