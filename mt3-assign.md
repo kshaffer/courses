@@ -12,7 +12,12 @@ Find assignments under the class date in which the assignment is due. They are i
 
 Read the entire glossary of terms for [Form in pop/rock music](http://openmusictheory.com/popRockForm.html). Familiarize yourself generally with the glossary, but focus in detail on things related to *phrases* and *cycles*.
 
-Make a timeline of "Please, Please Me" by The Beatles. Audio is in the same Google Drive folder as the previous assignment. Submit according to the same instructions.
+In light of that reading and the timeline of "Pleasant Valley Sunday" that I placed in the Google Drive folder along with the audio from last week, come to class with *written* answers to the following questions. (Feel free to work with others to figure out answers to these questions, but make sure that you write the answers in your own words and that you understand what you are writing.)
+
+- In the timeline of "Pleasant Valley Sunday," some phrases are labeled with *s*, *r*, *d*, and *c*. What do those mean? Why were those labels used for those phrases?  
+- In the bridge, phrases were labeled *a* and *a'*. Why not *a* and *a*? Why not *a* and *b*?  
+- What does the **J** in this timeline mean? Why are those two passages labeled **J**?
+
 
 ## September 3 prep
 
