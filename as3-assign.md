@@ -8,6 +8,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 8 prep
+
+Listen to “I Am the Walrus” following along with the model transcription distributed in class (not posted on the open web because of copyright concerns). Play special attention to areas that gave you trouble, and use a keyboard or another instrument to guide you in singing and/or playing the chord progressions in the song.
+
+Read/watch the [Open Music Theory resource](http://openmusictheory.com/syncopation.html) on transcribing syncopated rhythms in pop/rock music before Monday’s class. Come with any questions you have.
+
+
 ## September 3 prep
 
 Read about Rock's "tonal systems" at [Open Music Theory](http://openmusictheory.com/popRockHarmony.html) (bottom of the page; follow all four links).
