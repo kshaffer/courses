@@ -8,6 +8,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 8 prep
+
+Read the entire glossary of terms for [Form in pop/rock music](http://openmusictheory.com/popRockForm.html). Familiarize yourself generally with the glossary, but focus in detail on things related to *phrases* and *cycles*.
+
+Make a timeline of "Please, Please Me" by The Beatles. Audio is in the same Google Drive folder as the previous assignment. Submit according to the same instructions.
+
 ## September 3 prep
 
 Review [the notes from class](https://docs.google.com/document/d/1Bzqo3JGihPOrlvmtDI5pAZeyg4wDJT77MFfJ1L35-Vg/edit?usp=sharing). Then read Section III (Formal functions) in [Form in pop/rock music](http://openmusictheory.com/popRockForm.html) and use the definitions provided there to mediate the competing claims in the class notes and make a definitive decision as to the form of the piece.
