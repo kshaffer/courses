@@ -15,7 +15,7 @@ Transcribe two of the following elements of the first cycle (through the end of 
 
 ## September 10 prep
 
-1. Transcribe the melody of the first cycle of St. Vincent, “Digital Witness”: 0:00–1:05 ([Spotify web](http://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [Spotify app](spotify:track:5L16tlSHNt93RiiRiCc8ya)). Be sure to include key signature, and be precise as possible with the rhythm and pitch of the melody. Though not required, both using notation software and transcribing the lyrics may help you in the transcription process.
+1. Transcribe the melody of the first cycle of St. Vincent, “Digital Witness”: 0:00–1:05 ([Spotify web](http://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya), [Spotify app](spotify:track:5L16tlSHNt93RiiRiCc8ya)). Be sure to include key signature, and be precise as possible with the rhythm and pitch of the melody. Though not required, both using notation software and transcribing the lyrics may help you in the transcription process.
 
 2. Choose a song for big transcription project. Either select a song from the list provided, or suggest a song of your own choosing for instructor approval. The project will involve the transcription of melody, bass, chords, and any vocal or instrumental parts that constitute something other than block chords, so take all of those parameters into account when choosing a song. Transcription project details can be found [here](as3-trans.html).
 
