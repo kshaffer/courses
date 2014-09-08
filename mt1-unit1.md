@@ -17,7 +17,7 @@ All required material for this unit will be posted here as we progress through t
 [Open Music Theory: contents](http://openmusictheory.com/contents.html) – see topics listed under "Fundamentals."
 
 [Quiz 1 (August 28) key](materials/mt1-quiz1-key.pdf) - note an incorrect answer for the last example in Part 8. The answer should be G-flat2, not G-flat3.  
-
+[Quiz 2 (September 4) key](materials/mt1-quiz2-key.pdf)
 
 ## Concepts and assessment
 
