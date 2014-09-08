@@ -8,7 +8,9 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## September 11 quizzes
+## September 11 prep
+
+We will begin class with a quiz on the following six concepts:
 
 - **clefs** – draw treble, alto, and bass clefs appropriately on the staff (30 seconds – one of each clef).  
 - **key signature writing** – write major and minor key signatures on treble, alto, and bass staves.  
@@ -17,6 +19,15 @@ Find assignments under the class date in which the assignment is due. They are i
 - **minor scales** – write minor scales on the treble, alto, and bass staves.  
 - **pitch writing** – write pitches on the treble, alto, and bass staves.  
 
+These quizzes will be *electronic* (using [Socrative](http://socrative.com)). Please bring a web-friendly device. If you cannot, or if you would prefer paper, contact me by noon on Monday, and I will print you a paper quiz.
+
+After the quizzes, we will do some work on the concept of scale degrees, and the application of that concept in transposition. (This will prepare you for quizzes next week on **scale-degree ID** and **transposition.**) To prepare, please read the following resource from [Open Music Theory](http://openmusictheory.com):
+
+- [Scales and scale degrees](http://openmusictheory.com/scales.html)
+
+This may also be helpful to prepare for scale- and pitch-writing quizzes on the 10th.
+
+Additionally, (re-)read any resources on OMT that may be helpful in your quiz preparation, and/or visit [Teoria.com](http://teoria.com) for practice exercises.
 
 ## September 9 prep
 
