@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 10 prep
+
+Examine your colleagues' timelines for "The Moment I Said It" (in the [Google Drive folder](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6ca1lYNUtpWTd6V1E&usp=sharing)) from the Sept. 8 class activity. Where others' timelines differ from yours, evaluate the differences critically and decide if their's is an improvement on yours. If so, come to your group on Wednesday with specific suggestions on how to improve your timeline, with explanations of *why* those specific changes are improvements.
+
+Additionally, for any unfinished aspects of your timeline (the final timeline should have all phrases, modules, cycles, and the overall song form denoted and labeled), come with ideas for your group to decide on as you finish. Listen to the piece again (audio is in the shared GDrive folder) and consult the [Form in pop/rock music](http://openmusictheory.com/popRockForm.html) resource as appropriate.
+
+There will be a major individual assessment due Monday, September 15, that will consist of making formal timelines on your own, so invest in doing this group analysis well. Take this opportunity to clear up questions about the concepts, as well as the technology, before the individual assessment.
+
 ## September 8 prep
 
 Read the entire glossary of terms for [Form in pop/rock music](http://openmusictheory.com/popRockForm.html). Familiarize yourself generally with the glossary, but focus in detail on things related to *phrases* and *cycles*.
