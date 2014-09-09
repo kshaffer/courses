@@ -19,13 +19,14 @@ We will begin class with a quiz on the following six concepts:
 - **minor scales** – write minor scales on the treble, alto, and bass staves.  
 - **pitch writing** – write pitches on the treble, alto, and bass staves.  
 
-These quizzes will be *electronic* (using [Socrative](http://socrative.com)). Please bring a web-friendly device. If you cannot, or if you would prefer paper, contact me by noon on Monday, and I will print you a paper quiz.
+These quizzes will be *paper-based*. Please bring a pencil (or two, just in case).
 
-After the quizzes, we will do some work on the concept of scale degrees, and the application of that concept in transposition. (This will prepare you for quizzes next week on **scale-degree ID** and **transposition.**) To prepare, please read the following resource from [Open Music Theory](http://openmusictheory.com):
+After the quizzes, we will revisit protonotation and rhythmic notation. Please bring back the worksheet we began on the 9th and review the following resources from [Open Music Theory](http://openmusictheory.com):
 
-- [Scales and scale degrees](http://openmusictheory.com/scales.html)
+- [Rhythmic values](http://openmusictheory.com/rhythmicValues.html)  
+- [Protonotation](http://openmusictheory.com/protonotation.html)
 
-This may also be helpful to prepare for scale- and pitch-writing quizzes on the 10th.
+It is absolutely essential that you read these resources and come ready to apply them, and with specific questions about things that you don't understand.
 
 Additionally, (re-)read any resources on OMT that may be helpful in your quiz preparation, and/or visit [Teoria.com](http://teoria.com) for practice exercises.
 
