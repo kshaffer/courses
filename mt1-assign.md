@@ -21,7 +21,7 @@ We will begin class with a quiz on the following six concepts:
 
 These quizzes will be *paper-based*. Please bring a pencil (or two, just in case).
 
-After the quizzes, we will revisit protonotation and rhythmic notation. Please bring back the worksheet we began on the 9th and review the following resources from [Open Music Theory](http://openmusictheory.com):
+After the quizzes, we will revisit protonotation and rhythmic notation. Please finish the first page (staff notation to protonotation) of the worksheet we began on the 9th and bring it to class. Also, please review the following resources from [Open Music Theory](http://openmusictheory.com):
 
 - [Rhythmic values](http://openmusictheory.com/rhythmicValues.html)  
 - [Protonotation](http://openmusictheory.com/protonotation.html)
