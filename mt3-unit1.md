@@ -14,9 +14,12 @@ The overall goal for this unit is for all students to be able to identify, inter
 
 We will primarily be following the theories of Jason Summach, John Covach, Walter Everett, Mark Spicer, and Daniel Harrison. A very detailed exploration of the pop/rock repertoire from 1955–1990 can be found in Summach's dissertation (Yale, 2012). However, all required material for this unit (much of which is based on his work) will be posted here as we progress through the unit.
 
-[Assignments and due dates](mt3-assign.html)
+[Assignments and due dates](mt3-assign.html)  
 
-[specific materials to be added throughout the course of the unit]
+[Assessment 1 (September 15)](materials/mt3-PopRockAnalysis1.html)
+
+[Form in pop/rock music](http://openmusictheory.com/popRockForm.html) (Open Music Theory)  
+[Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html)
 
 
 ## Concepts ##

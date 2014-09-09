@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 15 assessment
+
+Please see details for Pop/Rock Assessment 1 [here](materials/mt3-PopRockAnalysis1.html).
+
 ## September 10 prep
 
 Examine your colleagues' timelines for "The Moment I Said It" (in the [Google Drive folder](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6ca1lYNUtpWTd6V1E&usp=sharing)) from the Sept. 8 class activity. Where others' timelines differ from yours, evaluate the differences critically and decide if their's is an improvement on yours. If so, come to your group on Wednesday with specific suggestions on how to improve your timeline, with explanations of *why* those specific changes are improvements.
