@@ -16,7 +16,7 @@ For paper timelines, bracket phrases and modules, and label them as discussed in
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6IZ8Yy58OhCOAizaGWNsTg" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-If using Variations Audio Timeliner, follow the instructions in [this video](http://kris.shaffermusic.com/musicianship/VAT.html) and be sure to create layers for phrases, modules, cycles, and the overall song form, and label them as discussed in the [Pop/rock form resource](http://openmusictheory.com/popRockForm.html) (capital letters for modules according to function—I, O, A, B, etc.—and lower-case letters showing phrase relationships—aa'b, srdc, etc.). There is an example analysis of "The Moment I Said It" in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1).
+If using Variations Audio Timeliner, follow the instructions in [this video](http://openmusictheory.com/VAT.html) and be sure to create layers for phrases, modules, cycles, and the overall song form, and label them as discussed in the [Pop/rock form resource](http://openmusictheory.com/popRockForm.html) (capital letters for modules according to function—I, O, A, B, etc.—and lower-case letters showing phrase relationships—aa'b, srdc, etc.). There is an example analysis of "The Moment I Said It" in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1).
 
 Make sure the file is named "LASTNAME - Song Title", and then upload it to Google Drive and share it with me (kris.shaffer@colorado.edu). You do not need to upload the audio, only the .v2t file.
 
