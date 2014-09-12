@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 17 prep
+
+Fix any issues noted by your classmate(s) on 9/15. Take note of both specific notes/chords/passages *and* any general trends noted that may come up elsewhere.
+
+Then complete your transcription of the remainder of the musical texture for your first cycle (i.e., all vocals, instrumental lines, bass, chords). 
+
+If your transcription is not already in notation software, typeset it in Finale, Sibelius, MuseScore, NoteFlight, Lilypond, etc., and bring it to class. (You can bring your own computer, or you can upload it to your Google Drive account and open it on the lab computer, assuming software and versions are the same. – I know MuseScore is up-to-date, and NoteFlight is web-based, so that will work with little/no difficulty, as well.)
+
 ## September 15 prep
 
 Transcribe two of the following elements of the first cycle (through the end of the first chorus or first AABA unit) of your transcription project song: melody, bass, chords (lead-sheet and RNs). Bring the transcription to class. If the song is not on Spotify, bring audio to share with a classmate as you critique each other’s transcriptions. Notation software is not required, but you may want to begin entering it into Finale, Sibelius, MuseScore, NoteFlight, or Lilypond, since your transcription should be in notation software for the 17th. If you have never used notation software before, I highly recommend [MuseScore](http://musescore.org).
