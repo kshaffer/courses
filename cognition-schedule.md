@@ -6,6 +6,24 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## September 19 prep
+
+First, I thought it might be nice to have class in a more cozy location, at least once or twice to see how it goes. Please respond to [this poll](https://docs.google.com/a/colorado.edu/forms/d/1wNc302IqO_85xnkhEbhMECHReaXDjfBx5qB4HMSA-EQ/viewform) by **Wednesday, 10am** with your preference, and watch your CU email Wednesday & Thursday for an announcement after the poll results are in.
+
+Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
+
+- Bob Snyder, *Music and Memory*, [Chapter 6, "Long-term memory"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNjlrY2JKY3JlV0E/edit?usp=sharing)  
+- Bob Snyder, *Music and Memory*, [Chapter 7, "Categories"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cTnBfa1NCSVctaHM/edit?usp=sharing)  
+- Bob Snyder, *Music and Memory*, [Chapter 8, "Schemas"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cTzRqZVphaUlRVDA/edit?usp=sharing)  
+
+***By Wednesday, 10am***, submit three factual questions about the readings (one question per chapter) to the [quiz preparation Google Doc](https://docs.google.com/a/colorado.edu/document/d/144vgL_LnmnsuNkM1Jldv-Q0ShmVMZ0ZNfC81coV8Sl4/edit?usp=sharing) for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
+
+Then find and memorize answers to all of the questions in the document and be prepared to answer them on a quiz at the beginning of Friday's class. (I will choose 9–10 of your 24 questions.)
+
+If you have questions about these readings in advance of class, you can discuss them with each other in person, stop by my office, use the comments feature of Google Drive, or tweet questions with the course hashtag (#muscog).
+
+Finally, continue to ponder the question we left with at the end of class on the 12th: *What is the cognitive basis (or explanation) of our Western conception of consonance & dissonance?*
+
 ## September 12 prep
 
 Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
