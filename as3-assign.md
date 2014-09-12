@@ -12,7 +12,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 Fix any issues noted by your classmate(s) on 9/15. Take note of both specific notes/chords/passages *and* any general trends noted that may come up elsewhere.
 
-Then complete your transcription of the remainder of the musical texture for your first cycle (i.e., all vocals, instrumental lines, bass, chords). 
+Then complete your [transcription](as3-trans.html) of the remainder of the musical texture for your first cycle (i.e., all vocals, instrumental lines, bass, chords). 
 
 If your transcription is not already in notation software, typeset it in Finale, Sibelius, MuseScore, NoteFlight, Lilypond, etc., and bring it to class. (You can bring your own computer, or you can upload it to your Google Drive account and open it on the lab computer, assuming software and versions are the same. – I know MuseScore is up-to-date, and NoteFlight is web-based, so that will work with little/no difficulty, as well.)
 
