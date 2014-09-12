@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 17 prep
+
+Review the [Form in pop/rock music](http://openmusictheory.com/popRockForm.html) resource as necessary, and come to class with a *written* answer to the following question:
+
+> What is the difference between strophic form and AABA form?
+
+Also, review the model analyses for Assessment 1 (in the class shared folder on Google Drive), compare them with your own, and come to class with questions about any differences between them that you cannot explain or figure out for yourself. Getting these questions answered will help you on Assessment 2, which will be due on September 22.
+
 ## September 15 assessment
 
 Please see details for Pop/Rock Assessment 1 [here](materials/mt3-PopRockAnalysis1.html).
