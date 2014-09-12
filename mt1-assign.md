@@ -8,6 +8,40 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 18 quizzes
+
+Quizzes will include **meter ID**, **time signature writing**, **rhythmic notation**, and possibly others (based on 9/16 quiz results). 
+
+## September 16 prep
+
+We will begin class with *four* quizzes: one 1-minute quiz, one 1.5-minute quiz, and two 3-minute quizzes. Choose which of the following you will prepare to pass.
+
+Choose *one* of the following 1-minute quizzes:
+
+- **key signature ID** – identify major and minor key signatures on treble, alto, and bass staves.  
+- **pitch ID** – identify pitches (both pitch-class and register) on the treble, alto, and bass staves.  
+
+Choose *one* of the following 1.5-minute quizzes:
+
+- **key signature writing** – write major and minor key signatures on treble, alto, and bass staves.  
+- **chromatic scale** – write a chromatic scale, ascending with sharps/naturals, descending with flats/naturals.  
+
+Choose *two* of the following 3-minute quizzes:
+
+- **pitch writing** – write pitches on the treble, alto, and bass staves.  
+- **major scales** – write major scales on the treble, alto, and bass staves.  
+- **minor scales** – write minor scales on the treble, alto, and bass staves.  
+
+Since Socrative does not support multiple quizzes simultaneously in the same online "classroom" (that I know of), all of these quizzes will be paper-based.
+
+We will spend the remainder of class focusing on rhythmic notation. To prepare, *attempt to translate the protonotation rhythms in [the worksheet from class](materials/protoToRhythm.pdf) to staff notation, according to the instructions provided.*
+
+It may be helpful to review the following resources from [Open Music Theory](http://openmusictheory.com):
+
+- [Rhythmic values](http://openmusictheory.com/rhythmicValues.html)  
+- [Protonotation](http://openmusictheory.com/protonotation.html)
+
+
 ## September 11 prep
 
 We will begin class with a quiz on the following six concepts:
