@@ -22,6 +22,8 @@ Then find and memorize answers to all of the questions in the document and be pr
 
 If you have questions about these readings in advance of class, you can discuss them with each other in person, stop by my office, use the comments feature of Google Drive, or tweet questions with the course hashtag (#muscog).
 
+Also, come to class with a couple topic ideas for readings & discussions in the middle part of the semester (examples could include things like *origins of music*, *relationship of music to language*, *learning (dis)abilities and music pedagogy*, etc.).
+
 Finally, continue to ponder the question we left with at the end of class on the 12th: *What is the cognitive basis (or explanation) of our Western conception of consonance & dissonance?*
 
 ## September 12 prep
