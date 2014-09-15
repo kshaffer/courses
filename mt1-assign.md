@@ -8,9 +8,19 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## September 18 quizzes
+## September 18 prep
 
-Quizzes will include **meter ID**, **time signature writing**, **rhythmic notation**, and possibly others (based on 9/16 quiz results). 
+We will begin class with three quizzes on the following topics (see [Unit I Guide](http://courses.shaffermusic.com/mt1-unit1.html) for topic details):
+
+- **meter ID**  
+- **time signature writing**  
+- **rhythmic notation**
+
+After the quizzes, we will explore the topics of scale degrees and melodic transposition (two concepts to be added to the quiz rotation next week). To prepare, please read the following resource from [Open Music Theory](http://openmusictheory.com):
+
+- [Scales and scale degrees](http://openmusictheory.com/scales.html)
+
+Most of this will be review, especially after the work you've done in Aural Skills so far, but come with the information fresh in your mind (and, if possible, loaded on your phone/tablet/laptop).
 
 ## September 16 prep
 
