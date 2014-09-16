@@ -16,7 +16,8 @@ We will primarily be following the theories of Jason Summach, John Covach, Walte
 
 [Assignments and due dates](mt3-assign.html)  
 
-[Assessment 1 (September 15)](materials/mt3-PopRockAnalysis1.html)
+[Assessment 1 (September 15)](materials/mt3-PopRockAnalysis1.html)  
+[Assessment 2 (September 22)](materials/mt3-PopRockAnalysis2.html)  
 
 [Form in pop/rock music](http://openmusictheory.com/popRockForm.html) (Open Music Theory)  
 [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html)
