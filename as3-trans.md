@@ -44,7 +44,7 @@ When you think that a classmate's transcription is performance-ready, send an em
 
 ## Deadline
 
-While there is no hard deadline for this transcription keep in mind that 1) you cannot move on to the next stage (prepared performance) until you have successfully passed this assessment, and 2) you cannot move on to the next stage until others in the class have successfully passed the assessment (since you will be performing their transcriptions). So please make every attempt to successfully complete this project quickly, and to provide copious and timely feedback to your colleagues.
+While there is no hard deadline for this transcription aside from the end of Unit I, keep in mind that 1) you cannot move on to the next stage (prepared performance) until you have successfully passed this assessment, and 2) you cannot move on to the next stage until others in the class have successfully passed the assessment (since you will be performing their transcriptions). So please make every attempt to successfully complete this project quickly, and to provide copious and timely feedback to your colleagues.
 
 ## Submission instructions
 
