@@ -33,3 +33,21 @@ Song possibilities:
 - ["God Only Knows,"](http://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) The Beach Boys (syncopated compound meter, small background orchestra, substantial vocal counterpoint near end of song)
 
 Any other songs *must be approved by your instructor by the end of Week 3*.
+
+## Crowdsourced assessment
+
+In the spirit of further training your ears, your transcription must be approved by *three* classmates before submitting it for final assessment. This will require you all to hone your error-detection skills and your feedback-providing skills, as well as your transcribing skills. All three of these are essential to your professional musical development. It will also give me more time to help those who need assistance beyond what peers are able to assist them with, rather than being the sole (and therefore slow) provider of feedback.
+
+Once you believe your transcription is up to performance-ready standard, enlist three colleagues to look it over for you. 
+
+When you think that a classmate's transcription is performance-ready, send an email to me stating that you believe it is up to standard, and be sure to CC your classmate so that they have a record of your approval, as well. If you think it is not ready, provide them feedback as to what is good and what needs improvement, as well as strategic tips on how they might improvement. (That is, do *not* give them what you think the "answer" is, simply direct their attention to where you believe the errors are, and suggest strategies, software, etc. that could assist them in improving the transcription.)
+
+## Deadline
+
+While there is no hard deadline for this transcription keep in mind that 1) you cannot move on to the next stage (prepared performance) until you have successfully passed this assessment, and 2) you cannot move on to the next stage until others in the class have successfully passed the assessment (since you will be performing their transcriptions). So please make every attempt to successfully complete this project quickly, and to provide copious and timely feedback to your colleagues.
+
+## Submission instructions
+
+When you are ready to submit (both initial and final drafts), upload *two* files to your CU Google Drive account: the notation software file (if you prepared your score in NoteFlight, this should be a MusicXML file that you download from the website), and a PDF of the score. (If your notation application does not support PDF creation, Mac OS X—and maybe Windows?—supports *printing* to PDF. Simply begin the print process, but before clicking "OK" click "PDF" for options.) Make sure both files are named "LASTNAME - Title of song". 
+
+Then share both files with kris.shaffer@colorado.edu. See [this short video](https://vimeo.com/73001492) for uploading/sharing instructions if you are new to Google Drive. Make sure you share it from your CU Google Apps account.

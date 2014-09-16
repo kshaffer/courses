@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 22 transcription draft
+
+Based on the feedback received from classmates on the 17th and from me online (hopefully by the 19th), prepare a complete draft of your [transcription project](as3-trans.html) in notation software. By the beginning of class, submit it to me by sharing it via Google Drive.  (Be sure to follow the *complete* instructions on the transcription project page). Also, bring it to class in a form easily readable by a classmate and projectable on the screen. (A PDF in Google Drive would be simplest.)
+
 ## September 17 prep
 
 Fix any issues noted by your classmate(s) on 9/15. Take note of both specific notes/chords/passages *and* any general trends noted that may come up elsewhere.
