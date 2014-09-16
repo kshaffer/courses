@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 22 assessment
+
+Please see details for [Pop/Rock Assessment 2](materials/mt3-PopRockAnalysis2.html). Be sure to make use of the [Pop/rock form resource](http://openmusictheory.com/popRockForm.html) and the model analyses from Assessment 1 (in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1)).
+
 ## September 17 prep
 
 Review the [Form in pop/rock music](http://openmusictheory.com/popRockForm.html) resource as necessary, and come to class with a *written* answer to the following question:
