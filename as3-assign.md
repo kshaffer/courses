@@ -8,9 +8,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## September 22 transcription draft
+## September 22 peer-review assignment
 
-Based on the feedback received from classmates on the 17th and from me online (hopefully by the 19th), prepare a complete draft of your [transcription project](as3-trans.html) in notation software. By the beginning of class, submit it to me by sharing it via Google Drive.  (Be sure to follow the *complete* instructions on the transcription project page). Also, bring it to class in a form easily readable by a classmate and projectable on the screen. (A PDF in Google Drive would be simplest.)
+Send an electronic copy of your transcription (PDF required; notation program file optional) as well as a link to your recording online to the partner you worked with in class on the 17th. Also, send me a copy of your transcription as it currently stands (email is fine, or share on Google Drive).
+
+Then provide detailed, strategic feedback on your partner's transcription in an email to them that is copied to me (kris.shaffer@colorado.edu), before Monday's class.
+
+Finally, come to class ready to sing (some of) your colleagues' transcriptions with a critical eye/ear.
 
 ## September 17 prep
 
