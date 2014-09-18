@@ -20,7 +20,9 @@ All required material for this unit will be posted here as we progress through t
 [Quiz 2 (September 4) key](materials/mt1-quiz2-key.pdf)  
 [Quiz 3 (September 11) key](materials/mt1-quiz3-key.pdf)  
 [Quiz 4 (September 16) key](materials/mt1-quiz4-key.pdf)  
-[In-class protonotation worksheet key](materials/protoToRhythm-key.pdf)
+[In-class protonotation worksheet key](materials/protoToRhythm-key.pdf)  
+[Quiz 5 (September 18) key](materials/mt1-quiz5-key.pdf)  
+
 
 ## Concepts and assessment
 
