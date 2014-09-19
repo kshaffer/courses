@@ -14,7 +14,7 @@ Read the following (you must be logged in to Google Drive with your CU IdentiKey
 - David Huron, *Sweet Anticipation*, [Chapter 1, "Introduction"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cT093OW1DdlIyejQ/edit?usp=sharing)  
 - David Huron, *Sweet Anticipation*, [Chapter 2, "Surprise"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cU3J1aVVtV2RUTkk/edit?usp=sharing)  
 
-***By Wednesday, 10am***, submit three factual questions about the readings (one question per reading) to the [quiz preparation Google Doc]() for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
+***By Wednesday, 10am***, submit three factual questions about the readings (one question per reading) to the [quiz preparation Google Doc](https://docs.google.com/a/colorado.edu/document/d/1cWLhDOFoOXCuVcMvd3c9_rFTJpFanZ0FAAgPdINq7Nk/edit?usp=sharing) for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
 
 Then find and memorize answers to all of the questions in the document and be prepared to answer them on a quiz at the beginning of Friday's class. (I will choose 9–10 of your 24 questions.)
 
