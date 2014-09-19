@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 24 prep
+
+Fix your transcription based on the comments you received from you colleague. *Do not* simply make changes they suggest, but examine their comments carefully to see if they are helpful/correct or not. (You will receive many comments for musical improvement in your career, and not all of them will be helpful.) If you are in good shape, you can also begin to work on the remainder of the song. Complete drafts will be due on Sept. 29.
+
 ## September 22 peer-review assignment
 
 Send an electronic copy of your transcription (PDF required; notation program file optional) as well as a link to your recording online to the partner you worked with in class on the 17th. Also, send me a copy of your transcription as it currently stands (email is fine, or share on Google Drive).
