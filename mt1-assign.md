@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 23 prep
+
+We will begin class with a quiz on **pitch ID**. Please review the [Pitches and octave designations](http://openmusictheory.com/pitches.html) resource on OMT. And keep in mind that since we are quizzing less topics per day now, it is absolutely important that you come prepared to pass each one. It will be some time before this quiz will be offered again.
+
+We will spend the bulk of class time beginning of our exploration of strict voice-leading, beginning with basic properties of well formed melodies. Please read the [Introduction to strict voice-leading](http://openmusictheory.com/speciesIntro.html) resource on OMT. Based on that reading, answer the following questions on the form below before the beginning of class. (These questions will help ensure that you have engaged *some* of the important concepts in the reading, and they will help me know what you did or did not understand before class, so we can clarify things as necessary.)
+
+<iframe src="https://docs.google.com/forms/d/1pyGjUeErOhp12cORqLWK-gQQAuu_aPQiGeG-ChFz5WM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 ## September 18 prep
 
 We will begin class with three quizzes on the following topics (see [Unit I Guide](http://courses.shaffermusic.com/mt1-unit1.html) for topic details):
