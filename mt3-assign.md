@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## *September 23* prep
+
+I am giving you all a choice of topic for Wednesday's class. However, in order to prepare, I need to know your preference in advance. So please fill out the following form ***by 9am, Tuesday, Sep. 23*** so I can use the results to plan class for Wednesday. 
+
+<iframe src="https://docs.google.com/forms/d/1rBzEpJsbrL3u7Mk1GMi5Q5WOG4RTvtX9No5fxiNoglw/viewform?embedded=true" width="600" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+Also, please compare your Assessment 2 submission with the model analyses that I posted in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1). Note any questions you have, and bring them to class on Wednesday.
+
 ## September 22 assessment
 
 Please see details for [Pop/Rock Assessment 2](materials/mt3-PopRockAnalysis2.html). Be sure to make use of the [Pop/rock form resource](http://openmusictheory.com/popRockForm.html) and the model analyses from Assessment 1 (in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1)).
