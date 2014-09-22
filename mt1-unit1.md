@@ -49,4 +49,6 @@ To pass the course, students must pass all of the following *fundamentals* asses
 - **seventh writing** – write major, minor, dominant, fully diminished, and half-diminished seventh chordss given root and quality.  
 - **Roman numerals** – label a triad or seventh chord with the appropriate Roman numeral given a specified key.
 
+These concepts must be passed *by the end of Unit II.*
+
 See [syllabus](theory1.html) for end-of-unit reassessment policy.

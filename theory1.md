@@ -10,8 +10,8 @@ author: Kris Shaffer
 
 ## Unit guides ##
 
-[Unit I: fundamentals & cognition](mt1-unit1.html) – approx. weeks 1–5  
-Unit II: strict composition in two voices – approx. weeks 6–10  
+[Unit I: fundamentals & cognition](mt1-unit1.html) – approx. weeks 1–4  
+Unit II: strict composition in two voices – approx. weeks 5–10  
 Unit III: strict composition in four voices – approx. weeks 11–15
 
 ## Syllabus ##
@@ -45,7 +45,9 @@ All work will be graded pass/fail, and each specific objective need only be met 
 
 Generally, students will be given multiple opportunities during each unit to demonstrate mastery of each concept, or a significant amount of time in which to work on (and seek feedback on) a major project. More details are provided in the unit guides, and below under *reassessment*.
 
-**To obtain a D in this course,** students must pass all of the following *fundamentals* assessments. These will be given as timed quizzes (60 seconds, unless noted otherwise below), either in class or online. Once passed, a student does not need to take a quiz on that concept again. Read all as "I can . . ."
+**Unit I and II assessments are due at the end of Unit II. Unit III assessments are due at the end of Unit III.**
+
+**To obtain a D in this course,** students must pass all of the following *fundamentals* assessments *by the end of Unit II*. These will be given as timed quizzes (60 seconds, unless noted otherwise below), either in class or online. Once passed, a student does not need to take a quiz on that concept again. Read all as "I can . . ."
 
 - **meter** – recognize the meter of a short musical excerpt from the musical notation and time signature (simple/compound, duple/triple/quadruple).  
 - **time signatures** – write the appropriate time signature given a specified meter.  
