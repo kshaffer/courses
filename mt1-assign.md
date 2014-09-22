@@ -8,6 +8,22 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 25 prep
+
+We will begin class with a single quiz: your choice between either **major scales** or **minor scales**. Please review the [Scales and scale degrees](http://openmusictheory.com/scales.html) resource on OMT. And keep in mind that since we are quizzing less topics per day now, it is absolutely important that you come prepared to pass each one. It will be some time before this quiz will be offered again.
+
+The bulk of class will be devoted to work on cantus firmus composition. To prepare, please do the following:
+
+- Review the [class notes from our collaborative *cantus firmus* analysis](https://docs.google.com/a/colorado.edu/document/d/184qg4LBiNK_R_mw61a813upINOe2hBsr13yIZRyh6zE/edit?usp=sharing).  
+- Read the [Composing a cantus firmus](http://openmusictheory.com/cantusFirmus.html) resource on OMT.  
+- Read the resource and watch the video on using the Trinket modules embedded in OMT.  
+- Attempt the practice exercise at the end of the cantus firmus resource. Before doing so, [watch the instruction video](http://vimeo.com/106846278). (Hang on to your solution, so you can submit it in the form.)  
+- Finally, fill out the form below.
+
+<iframe src="https://docs.google.com/a/colorado.edu/forms/d/1UND4FHCiZ1nQtf1xmu0qbCTK28b5oKcCc742af05muk/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+Lastly, be sure to bring staff paper, a pencil, and a web-enabled device (phone is fine) to class on Thursday.
+
 ## September 23 prep
 
 We will begin class with a quiz on **pitch ID**. Please review the [Pitches and octave designations](http://openmusictheory.com/pitches.html) resource on OMT. And keep in mind that since we are quizzing less topics per day now, it is absolutely important that you come prepared to pass each one. It will be some time before this quiz will be offered again.
