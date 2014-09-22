@@ -15,7 +15,7 @@ We will begin class with a single quiz: your choice between either **major scale
 The bulk of class will be devoted to work on cantus firmus composition. To prepare, please do the following:
 
 - Review the [class notes from our collaborative *cantus firmus* analysis](https://docs.google.com/a/colorado.edu/document/d/184qg4LBiNK_R_mw61a813upINOe2hBsr13yIZRyh6zE/edit?usp=sharing).  
-- Read the [Composing a cantus firmus](http://openmusictheory.com/cantusFirmus.html) resource on OMT.  
+- Read the [Composing a cantus firmus](http://openmusictheory.com/cantusFirmus.html) resource on OMT. Note the differences between these two resources to enter in the form below.  
 - Read the resource and watch the video on using the Trinket modules embedded in OMT.  
 - Attempt the practice exercise at the end of the cantus firmus resource. Before doing so, [watch the instruction video](http://vimeo.com/106846278). (Hang on to your solution, so you can submit it in the form.)  
 - Finally, fill out the form below.
