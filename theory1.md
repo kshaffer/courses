@@ -11,7 +11,7 @@ author: Kris Shaffer
 ## Unit guides ##
 
 [Unit I: fundamentals & cognition](mt1-unit1.html) – approx. weeks 1–4  
-[Unit II: strict composition in two voices](mt1-unit2.html – approx. weeks 5–10  
+[Unit II: strict composition in two voices](mt1-unit2.html) – approx. weeks 5–10  
 Unit III: strict composition in four voices – approx. weeks 11–15
 
 ## Syllabus ##
