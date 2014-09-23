@@ -8,6 +8,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 29 assessment
+
+Please see details for [Pop/Rock Assessment 3](materials/mt3-PopRockAnalysis3.html). Be sure to make use of the [Pop/rock form resource](http://openmusictheory.com/popRockForm.html) and the model analyses from Assessments  1 & 2 (in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1)).
+
+Note that this is the *last* timeline assessment opportunity of the unit.
+
 ## *September 23* prep
 
 I am giving you all a choice of topic for Wednesday's class. However, in order to prepare, I need to know your preference in advance. So please fill out the following form ***by 9am, Tuesday, Sep. 23*** so I can use the results to plan class for Wednesday. 
