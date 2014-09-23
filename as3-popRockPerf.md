@@ -6,9 +6,9 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
-Students wishing to pursue an A or a B for Unit I must submit a video of a prepared performance of a pop/rock song by **8am on Monday, October 13.** Three different project options are listed below, with both individual and collaborative options provided. ***All performances must be of songs in the Aural Skills 3 transcription repertoire.***
+Students wishing to pursue an A or a B for Unit I must submit a video of a prepared performance of a pop/rock song by **8am on Monday, October 13.** Three different project options are listed below, with both individual and collaborative options provided. ***All performances must be of songs in the Aural Skills 3 transcription repertoire.*** (This will be added to Google Drive and shared with all students once final transcriptions start arriving.)
 
-Students must successfully complete the transcription project in order to be eligible for the performance project. Successful completion of this project will fulfill the contract requirements for a B for the unit and make the student eligible for the A-level sight-reading assessment.
+Students must successfully complete the transcription project in order to be eligible for the performance project. Successful completion of the performance project will fulfill the contract requirements for a B for the unit and make the student eligible for the A-level sight-reading assessment.
 
 Any of the following three options will fulfill the requirements of this project.
 
