@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 29 prep
+
+Based on the comments you have received thus far (comments from me are coming soon if you haven't already received them), finish a complete draft of your transcription for Monday. Please send to me electronically (email or GDrive) before class.
+
 ## September 24 prep
 
 Fix your transcription based on the comments you received from you colleague. *Do not* simply make changes they suggest, but examine their comments carefully to see if they are helpful/correct or not. (You will receive many comments for musical improvement in your career, and not all of them will be helpful.) If you are in good shape, you can also begin to work on the remainder of the song. Complete drafts will be due on Sept. 29.
