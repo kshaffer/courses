@@ -25,16 +25,15 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 Read all concept/skill objectives as "I can . . ."
 
 - Transcribe all pitched elements of a pop/rock song of moderate complexity.  
-- Perform a complete pop/rock song of moderate complexity in a group, with preparation. (This objective may be skipped if the following objective is successfully completed.)  
-- Perform the melody of a pop/rock song of moderate complexity, with preparation.  
+- Perform a complete pop/rock song of moderate complexity, with preparation.  
 - Perform the melody of a pop/rock song of moderate complexity, at sight.
 
 All performance objectives may be completed on the instrument or voice of the student's choosing.
 
 To obtain a P, the objective must be completed perfectly or nearly so. The end-of-unit grade for this category will be determined by the number of objectives successfully met (in order):
 
-- A: all four objectives met  
-- B: 3 objectives met  
-- C: 2 objectives met  
-- D: 1 objective met  
-- F: 0 objectives met
+- A: all three objectives met (transcription, prepared performance, sight-reading)  
+- B: two objectives met (transcription and prepared performance)  
+- C: one objectives met (transcription)  
+- D: no objectives fully met, but at least one element (bass, melody, etc.) of the transcription solid   
+- F: no objectives met
