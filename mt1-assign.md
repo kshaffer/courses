@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## September 30 prep
+
+Read the [Unit II Guide](mt1-unit2.html) on the course website. Bring any questions you have to class.
+
+Review the [Composing a cantus firmus](http://openmusictheory.com/cantusFirmus.html) resource.
+
+Find a partner, and together compose two *cantus firmi* that follow the principles laid out in the resource—one in major and one in minor. Notate them on the staff (with alto clef). Then make a video of you and your partner singing each *cantus firmus* in unison.
+
+Take a picture of the notated *cantus firmi* and name the file "LASTNAME1 LASTNAME2 cantus firmi". Name the video(s) "LASTNAME1 LASTNAME2 cantus firmi performance".
+
+Upload both files to your Google Drive account, and share both files with kris.shaffer@colorado.edu *and* ashley.appel@colorado.edu, granting us permission to edit the files. See [this short video](https://vimeo.com/73001492) for uploading/sharing instructions of you are new to Google Drive. Make sure you share it from your CU Google Apps account.
+
 ## September 25 prep
 
 We will begin class with a single quiz: your choice between either **major scales** or **minor scales**. Please review the [Scales and scale degrees](http://openmusictheory.com/scales.html) resource on OMT. And keep in mind that since we are quizzing less topics per day now, it is absolutely important that you come prepared to pass each one. It will be some time before this quiz will be offered again.
@@ -16,7 +28,7 @@ The bulk of class will be devoted to work on cantus firmus composition. To prepa
 
 - Review the [class notes from our collaborative *cantus firmus* analysis](https://docs.google.com/a/colorado.edu/document/d/184qg4LBiNK_R_mw61a813upINOe2hBsr13yIZRyh6zE/edit?usp=sharing).  
 - Read the [Composing a cantus firmus](http://openmusictheory.com/cantusFirmus.html) resource on OMT. Note the differences between these two resources to enter in the form below.  
-- Read the resource and watch the video on using the Trinket modules embedded in OMT.  
+- [Watch the video](http://vimeo.com/106846278) on using the Trinket modules embedded in OMT.  
 - Attempt the practice exercise at the end of the cantus firmus resource. Before doing so, [watch the instruction video](http://vimeo.com/106846278). (Hang on to your solution, so you can submit it in the form.)  
 - Finally, fill out the form below.
 
