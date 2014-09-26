@@ -6,6 +6,20 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## October 3 prep
+
+Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
+
+- David Huron, *Sweet Anticipation*, [Chapter 3, "Measuring musical expectation"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cZnhZN3ltRFBvNUE/edit?usp=sharing)  
+- David Huron, *Sweet Anticipation*, [Chapter 4, "Auditory learning"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cSjBScVpSSUtYd1U/edit?usp=sharing)  
+- Kris Shaffer, *Open Music Theory*, ["Composing a cantus firmus"](http://openmusictheory.com/cantusFirmus.html), only the section on "Melodic tendencies" (this is a summary of the details we need from Huron's Chapter 4)
+
+***By Wednesday, 10am***, submit three factual questions about the readings (one question per reading) to the [quiz preparation Google Doc](https://docs.google.com/a/colorado.edu/document/d/137vVmcydFQRnPry3DEdaQOuWQgFmSGEUkzSBfQZrwq8/edit?usp=sharing) for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
+
+Then find and memorize answers to all of the questions in the document and be prepared to answer them on a quiz at the beginning of Friday's class. (I will choose 9–10 of your 24 questions.)
+
+If you have questions about these readings in advance of class, you can discuss them with each other in person, stop by my office, use the comments feature of Google Drive, or tweet questions with the course hashtag (#muscog).
+
 ## September 26 prep
 
 Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
