@@ -8,6 +8,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## *September 30* prep
+
+Review the [class notes from Sept. 29](https://docs.google.com/a/colorado.edu/document/d/1INlUI_em3mfsqS7rC6rrUZq9WZxLdG4qE5PHaITfRt8/edit?usp=sharing) in Google Drive.
+
+**Before 9am on Tuesday, Sept. 30,** add one insight to the document. This can either be a new passage that "breaks the rules" in terms of classical voice-leading practices, or a factor that makes one of the listed examples of "rule-breaking" okay in this context. We will discuss your insights in class on Wednesday.
+
 ## September 29 assessment
 
 Please see details for [Pop/Rock Assessment 3](materials/mt3-PopRockAnalysis3.html). Be sure to make use of the [Pop/rock form resource](http://openmusictheory.com/popRockForm.html) and the model analyses from Assessments  1 & 2 (in the [class shared folder on Google Drive](https://drive.google.com/open?id=0B9o4hmKNoi6cT29FblliMTk0NUE&authuser=1)).
