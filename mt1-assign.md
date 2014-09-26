@@ -10,7 +10,9 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## September 30 prep
 
-Read the [Unit II Guide](mt1-unit2.html) on the course website. Bring any questions you have to class.
+We will begin class with two quizzes. Choose two of the following three concepts, and prepare to pass those quizzes: **meter ID**, **time signature writing**, and/or **pitch ID**.
+
+Please read the [Unit II Guide](mt1-unit2.html) on the course website. Bring any questions you have to class.
 
 Review the [Composing a cantus firmus](http://openmusictheory.com/cantusFirmus.html) resource.
 
