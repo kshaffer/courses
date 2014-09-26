@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 1 prep
+
+If you are confident in the status of your transcription project, seek out classmates to provide official approval, per [the project guidelines](as3-trans.html). Otherwise, seek feedback (from me or your peers) or wait for feedback from me before proceeding.
+
+Also, start thinking about options for the [performance project](as3-popRockPerf.html).
+
+Finally, if practical, please bring your primary instrument to class on Wednesday.
+
 ## September 29 prep
 
 Based on the comments you have received thus far (comments from me are coming soon if you haven't already received them), finish a complete draft of your transcription for Monday. Please send to me electronically (email or GDrive) before class.

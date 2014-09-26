@@ -24,16 +24,16 @@ You are encouraged to practice and re-record yourself until you have a (nearly) 
 
 ## Option 2: solo multitrack performance
 
-Make a video of yourself performing *either* the melody, block chords, or bass line of a song in the repertoire. Then use software such as Audacity, GarageBand, iMovie, etc. to record audio of your performance of the other elements of the transcription. Finally splice all of the audio and video tracks together into a single "performance."
-
-Your final product should include video and/or audio of all of the following (same list as required transcription elements):
+Make a multitrack audio recording of yourself performing all of the following (same list as required transcription elements):
 
 - all vocal parts  
 - all instrumental lines
 - bass line  
 - block chords – arpeggios or rhythmicized chords are fine as well, but block chords are the minimum, one per lead-sheet symbol. (Rearticulate downbeats for chords that last more than one bar.) A root-position, closed-position triad is fine.
 
-These can be sung/played on any instrument you like. While you are free to change the register to adapt them to your playability, try to keep your "arrangement" musical (bass on the bottom, melody on the top, or at least slightly louder than the other voices).
+Start by recording one of the above parts. Then use software such as Audacity, GarageBand, ProTools, etc. to record audio of your performance of the other elements of the transcription as new layers. When finished, export a single audio file (decent-quality mp3 or aac is fine) of your combined "performance."
+
+These parts can be sung/played on any instrument you like. While you are free to change the register to adapt them to your playability, try to keep your "arrangement" musical (bass on the bottom, melody on the top, or at least slightly louder than the other voices).
 
 You are encouraged to practice and re-record yourself until you have a (nearly) flawless performance. (Slight variations in tempo or tuning between the different tracks are okay.) Then submit according to the instructions below.
 
@@ -55,6 +55,6 @@ Performance submissions are due at the end of Unit I: **8am on Monday, October 1
 
 ## Submission instructions
 
-When you are ready to submit, upload *two* files to your CU Google Drive account: the score (PDF) and the video performance. (If your notation application does not support PDF creation, Mac OS X—and maybe Windows?—supports *printing* to PDF. Simply begin the print process, but before clicking "OK" click "PDF" for options.) Make sure both files are named "LASTNAME - Title of song (performance)". If collaborating, make sure all names are in the file name. 
+When you are ready to submit, upload *two* files to your CU Google Drive account: the score (PDF) and the audio/video performance. (If your notation application does not support PDF creation, Mac OS X—and maybe Windows?—supports *printing* to PDF. Simply begin the print process, but before clicking "OK" click "PDF" for options.) Make sure both files are named "LASTNAME - Title of song (performance)". If collaborating, make sure all names are in the file name. 
 
 Then share both files with kris.shaffer@colorado.edu. See [this short video](https://vimeo.com/73001492) for uploading/sharing instructions if you are new to Google Drive. Make sure you share it from your CU Google Apps account.
