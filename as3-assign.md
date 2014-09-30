@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 6 prep
+
+*Either* find three classmates to approve your performance-ready transcription *or* get your transcription into performance-ready shape by Monday. Let's get all the transcriptions finished, solid, and in for assessment this week.
+
 ## October 1 prep
 
 If you are confident in the status of your transcription project, seek out classmates to provide official approval, per [the project guidelines](as3-trans.html). Otherwise, seek feedback (from me or your peers) or wait for feedback from me before proceeding.
