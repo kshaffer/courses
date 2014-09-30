@@ -16,6 +16,7 @@ The bulk of class will be devoted to work on issues related to first-species cou
 
 - Review the [class notes from our collaborative *first-species* analysis](https://docs.google.com/document/d/1uPRS-B1e03pdwIG9Cvxq__KdveDK-oxyRBLY3bp1e1U/edit?usp=sharing).  
 - Read the [Composing a first-species counterpoint](http://openmusictheory.com/firstSpecies.html) resource on OMT. Note the differences between these two resources to enter in the form below.  
+- Read the (very short) resource on [Types of contrapuntal motion](http://openmusictheory.com/motionTypes.html).  
 - Attempt the practice exercises at the end of the first-species resource.
 - For each practice exercise, click on the arrow button ("Share this trinket with my friends"), copy the link, and paste it in the form below.  
 - Finally, fill out the form below.

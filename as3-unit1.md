@@ -15,7 +15,8 @@ This unit will be centered around the creation of a set of transcriptions of pop
 This list will grow throughout the unit as new resources are created or assigned.
 
 [Assignments and deadlines](as3-assign.html)  
-[Unit I transcription project](as3-trans.html)
+[Unit I transcription project](as3-trans.html)  
+[Unit I performance project](as3-popRockPerf.html)
 
 
 ## Concepts and assessment ##
