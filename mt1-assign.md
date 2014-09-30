@@ -8,6 +8,22 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 2 prep
+
+We will begin class with a single quiz: your choice between either **rhythmic notation writing** or **pitch writing**. Please review the relevant resource(s) on OMT.
+
+The bulk of class will be devoted to work on issues related to first-species counterpoint composition. To prepare, please do the following:
+
+- Review the [class notes from our collaborative *first-species* analysis](https://docs.google.com/document/d/1uPRS-B1e03pdwIG9Cvxq__KdveDK-oxyRBLY3bp1e1U/edit?usp=sharing).  
+- Read the [Composing a first-species counterpoint](http://openmusictheory.com/firstSpecies.html) resource on OMT. Note the differences between these two resources to enter in the form below.  
+- Attempt the practice exercises at the end of the first-species resource.
+- For each practice exercise, click on the arrow button ("Share this trinket with my friends"), copy the link, and paste it in the form below.  
+- Finally, fill out the form below.
+
+<iframe src="https://docs.google.com/forms/d/1zrXfR-32mwDiSG1-XqVOadmGoqaY0g0Y0yAR_Kz1sRI/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+Lastly, be sure to bring staff paper, a pencil, and a web-enabled device (phone is fine) to class on Thursday.
+
 ## September 30 prep
 
 We will begin class with two quizzes. Choose two of the following three concepts, and prepare to pass those quizzes: **meter ID**, **time signature writing**, and/or **pitch ID**.
