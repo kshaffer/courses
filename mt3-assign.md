@@ -8,6 +8,21 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 6 prep
+
+**If you have passed all four pop/rock form concepts on one of the three assessments,** please do the following:
+
+- Choose a partner with whom you will work well (and with whose schedule you will be able to coordinate).  
+- Choose a song that has interesting formal, harmonic, and/or voice-leading features. (You may run an idea by me in advance, but I will leave you all to pick your own songs.)  
+- [Sign up for a 20-minute time slot](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) for an oral exam with me on either **Monday, Oct. 6, or Wednesday, Oct. 8, between 9am and noon.** (Please be sure when you sign up for a time that your Google Calendar is showing Mountain Time. If you have issues signing up, please email me or stop by my office.)  
+- Prepare a 5–10 minute presentation, video, slideshow, etc. according to the guidelines on the [Unit I Guide](mt3-unit1.html).  
+- Come to your oral exam ready to explain to me, with nuance, the musical structure of your song, and be prepared to field questions from me about the song's form, harmony, and/or voice-leading.
+
+**If you have not passed all four pop/rock form concepts on one of the three assessments,** please do the following:
+
+- For each of the four concepts that you did not pass *on the last assessment you attempted*, write a single paragraph (in a Google Doc, please—not a Word doc uploaded to Google Drive) or make a video of less than 3 minutes. In each paragraph or video, explain your understanding of the concept and how it plays out in pop/rock music. Reference pieces covered in class or on assignments. Be sure to demonstrate that you have come to a solid understanding of the concept since that last assessment, or that you understand it solidly in spite of that last assessment.  
+- Submit your writing or video via Google Drive, per the usual instructions, by **Wednesday, October 8, 9am at the latest.**
+
 ## *September 30* prep
 
 Review the [class notes from Sept. 29](https://docs.google.com/a/colorado.edu/document/d/1INlUI_em3mfsqS7rC6rrUZq9WZxLdG4qE5PHaITfRt8/edit?usp=sharing) in Google Drive.
