@@ -6,6 +6,18 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## October 10 prep
+
+Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
+
+- Ani Patel, *Music, Language, and the Brain*, [Chapter 7, "Evolution"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNEd2eFc4NTdwYzA/view?usp=sharing)  
+
+***By Wednesday, 10am***, submit three factual questions about the readings to the [quiz preparation Google Doc](https://docs.google.com/a/colorado.edu/document/d/112SUboxbMQrJeIKojtOgn3MI2hT7dUQMeqOplMCBLXE/edit?usp=sharing) for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
+
+Please focus your questions on what you find to be the most important issues in this text. There are a lot of terms defined and experiments described, not all of which need to be memorized. Simply focus on what seems to be foundational, what strikes you as interesting, or what you think would be the most useful to know given your particular musical goals.
+
+Also, start to mull over possible individual, small-group, or large-group project ideas for the end of the semester. We'll discuss things as they come up, and plan on finalizing plans on October 31.
+
 ## October 3 prep
 
 Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
