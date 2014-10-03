@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 7 prep
+
+We will begin class with two quizzes. Choose two of the following concepts to prepare: **rhythmic notation writing**, **pitch writing**, **major scales**, and/or **minor scales.** 
+
+Also, please submit the next stage in your counterpoint work with your partner as follows:
+
+- **If you passed both major and minor cantus firmi,** compose and perform two well-formed first-species exercises with your partner. Choose one major cantus firmus and one minor cantus firmus—choose from the models provided in class (and linked on the [cantus firmus resource](http://openmusictheory.com/cantusFirmus.html) or use the ones you composed this past week. (In most cases, using the models will be easier, since they have been used extensively in contrapuntal studies.) Compose a counterpoint *above* one of the cantus firmi, and another *below* the other cantus firmus. (For example, compose one above a major CF and one below a minor CF; or compose one above a minor CF and one below a major CF.) Submit your scores and performances the same way you submitted your cantus firmus assignment. (See instructions below.)  
+- **If you did not pass your cantus firmus assignment,** correct your cantus firmi according to the feedback you received and re-submit the new score(s) and performance video(s) the same way you submitted them the first time.  
+- **If you passed one cantus firmus and only require minor changes to the other,** submit the corrected cantus firmus and feel free to go ahead and attempt the first-species assignment, as well.
+
+N.B.: if you are at all confused about the first-species assignment, please attempt at least one exercise (minor or major) and submit it. If it's good, you can do the other for Thursday. If not, you will get feedback and can schedule a meeting with Ashley or me, if necessary.
+
 ## October 2 prep
 
 We will begin class with a single quiz: your choice between either **rhythmic notation writing** or **pitch writing**. Please review the relevant resource(s) on OMT.
