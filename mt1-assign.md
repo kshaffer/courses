@@ -8,6 +8,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 9 prep
+
+We will begin class with two quizzes. Choose two of the following three concepts to prepare: **time signature writing**, **key signature ID**, and **pitch ID**. Review the resources on OMT as necessary.
+
+Also, please read the Open Music Theory resource on [Intervals](http://openmusictheory.com/intervals.html). 
+
+Then do the following practice exercise, replacing all of the rests with notes that correctly make the harmonic intervals listed.
+
+<iframe src="https://trinket.io/embed/music/c6089e7eec" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Finally, copy the *link* to your practice exercise and paste it below along with your answer to the question.
+
+<iframe src="https://docs.google.com/forms/d/130VACDpj40jEkgRxiiI4M7Hvs-ccdUoAlcCfMMWrFwQ/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## October 7 prep
 
 We will begin class with two quizzes. Choose two of the following concepts to prepare: **rhythmic notation writing**, **pitch writing**, **major scales**, and/or **minor scales.** 
