@@ -14,9 +14,9 @@ We will begin class with two quizzes. Choose two of the following three concepts
 
 Also, please read the Open Music Theory resource on [Intervals](http://openmusictheory.com/intervals.html). 
 
-Then do the following practice exercise, replacing all of the rests with notes that correctly make the harmonic intervals listed.
+Then do the following practice exercise, replacing all of the rests with notes that correctly make the harmonic intervals listed. (Note: the musical result will *not* be a well-formed species exercise!)
 
-<iframe src="https://trinket.io/embed/music/c6089e7eec" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/c6089e7eec" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Finally, copy the *link* to your practice exercise and paste it below along with your answer to the question.
 
