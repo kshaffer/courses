@@ -22,7 +22,7 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 - Transcribe the melody of a classical-style instrumental theme.  
 - Transcribe the harmonic progression of a classical-style instrumental theme.  
-- Identify the formal structure (period, sentence, hybrid, compound theme, or a single phrase) of a classical-style instrumental theme.  
+- Recognize by ear the formal structure (period, sentence, hybrid, compound theme, or a single phrase) of a classical-style instrumental theme.  
 - Recognize by ear the *galant* schemata of a classical-style instrumental theme.  
 
 Assessment tasks will include multiple short classical themes or phrases, or one longer theme. Each assessment will receive four marks of N/A/P, corresponding to these four objectives. Perfect or near-perfect accuracy is required for a mark of P. Assessments will take place in-class and will involve either a short number of hearings (via a recording or a piano performance) or a short amount of time in which to transcribe a passage while listening via Spotify (or the like). Half-credit will be given for objectives that are completed outside of class and/or with the assistance of an instrument or software.
