@@ -6,7 +6,15 @@ author: Kris Shaffer
 
 # Unit II: Classical-era transcription and improvisation #
 
-Unit II will comprise an in-depth study of the fast transcription and the improvisation of short passages in the style of classical-era instrumental music. The goal is both to build fluent knowledge of the structural elements of this style and to build facility with the tasks of transcription and improvisation.
+Musicians are not simply people who can play notes, rhythms, and chords correctly. Musicians know what they are hearing when they hear it, and they know when expectations are being played with. Musicians can verbally describe what they hear, can mimic it, notate it, riff on it. Musicians can play all the notes, rhythms, and chords correctly, while still paying attention to what they hear, what is coming next, what is going wrong, and adjust their performance accordingly. This is the kind of musicianship we are going for in this class.
+
+In Unit I, we did some "[scuba diving](http://www.flipcamp.org/engagingstudents2/essays/alegant.html)" in pop/rock music, taking our time as we explored a few things very deeply. In this unit, we will speed things up: exploring smaller snippets of music, and trying to come to the same deep understanding of them, but much more quickly. Doing so will help us speed up our ability to identify and analyze what we hear, so that we can make use of that understanding in real time. 
+
+In Unit I (and last year), we studied the performance of composed music. In this unit, we will take our performance to the next level, exploring the art of improvisation in a musical style. The goal is not to become musicians who can improvise an entire classical piece in a concert setting—though classical-style improvisation skills can come in handy in more musical situations than you might think. The goal is to become musicians who can pay full attention to the notes on the page, the music being played around you, and the fundamental structures underlying that music, and then using all of that information to guide decisions about the performance— all the while maintaining composure (and quality) while performing.
+
+In both transcription and performance, we will be returning to the classical style, tying some of the skills we developed in Unit I to some of the musical structures you studied in Music Theory II. (This will, in turn, support the work we will do in Music Theory III this semester.)
+
+Details for this unit are provided below.
 
 ## Materials ##
 
