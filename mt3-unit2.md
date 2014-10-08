@@ -18,34 +18,34 @@ We will be following the theories of [William E. Caplin](https://openlibrary.org
 
 [Assignments and due dates](mt3-assign.html)  
 
-[Style and tendency.](tendency.html)  
+[Style and tendency.](http://openmusictheory.com/tendency.html)  
 
-[Introduction to musical functions.](functions.html)  
-[Harmonic functions.](harmonicFunctions.html)  
-[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
-[Harmonic syntax - prolongation.](harmonicSyntax2.html)  
-[Classical cadence types.](cadenceTypes.html)  
-[Chromatically altered subdominant chords.](alteredSubdominants.html)  
-[Applied chords.](appliedChords.html)  
-[Modal mixture.](modalMixture.html)  
-[Modulation.](Modulation.html)  
+[Introduction to musical functions.](http://openmusictheory.com/functions.html)  
+[Harmonic functions.](http://openmusictheory.com/harmonicFunctions.html)  
+[Harmonic syntax - the idealized phrase.](http://openmusictheory.com/harmonicSyntax1.html)  
+[Harmonic syntax - prolongation.](http://openmusictheory.com/harmonicSyntax2.html)  
+[Classical cadence types.](http://openmusictheory.com/cadenceTypes.html)  
+[Chromatically altered subdominant chords.](http://openmusictheory.com/alteredSubdominants.html)  
+[Applied chords.](http://openmusictheory.com/appliedChords.html)  
+[Modal mixture.](http://openmusictheory.com/modalMixture.html)  
+[Modulation.](http://openmusictheory.com/Modulation.html)  
 
-[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
-[Classical theme types.](classicalThemes.html)   
-[The sentence.](sentence.html)  
-[The period.](period.html)  
-[Hybrid themes.](hybridThemes.html)  
-[Compound themes.](compoundThemes.html)  
-[External Expansions.](externalExpansions.html)  
-[Internal Expansions.](internalExpansions.html)  
+[Introduction to Thematic Structure in the Classical Style.](http://openmusictheory.com/thematicStructureInTheClassicalStyle.html)   
+[Classical theme types.](http://openmusictheory.com/classicalThemes.html)   
+[The sentence.](http://openmusictheory.com/sentence.html)  
+[The period.](http://openmusictheory.com/period.html)  
+[Hybrid themes.](http://openmusictheory.com/hybridThemes.html)  
+[Compound themes.](http://openmusictheory.com/compoundThemes.html)  
+[External Expansions.](http://openmusictheory.com/externalExpansions.html)  
+[Internal Expansions.](http://openmusictheory.com/internalExpansions.html)  
 
 
 
 ### Handouts, exercises, other class materials ###
 
 [Blank timelines]({{ root_url }}/materials/timeline-blank.pdf) (for diagramming formal structure).  
-[Lead-sheet and figured-bass symbols.](Graphics/Handouts/LSandFBsymbols.pdf)  
-[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
+[Lead-sheet and figured-bass symbols.](http://openmusictheory.com/Graphics/Handouts/LSandFBsymbols.pdf)  
+[Harmonies (Roman numerals and functional bass) by bass scale degree.](http://openmusictheory.com/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
 ### Assessments
 
