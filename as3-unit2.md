@@ -18,7 +18,7 @@ Details for this unit are provided below.
 
 ## Materials ##
 
-This list will grow throughout the unit as new resources are created or assigned.
+This list will grow throughout the unit as new resources are assigned.
 
 
 
