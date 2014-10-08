@@ -8,6 +8,16 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 14 prep
+
+***Quizzes will be announced after the October 9 quizzes are graded.***
+
+**If you have not passed major and minor cantus firmi,** complete that assessment. (See instructions below.)
+
+**If you have passed major and minor cantus firmi but not major and minor first-species,** complete the first-species assessment. (See instructions below.)
+
+**If you have passed all cantus firmus and first-species objectives,** enjoy the weekend. :)
+
 ## October 9 prep
 
 We will begin class with two quizzes. Choose two of the following three concepts to prepare: **time signature writing**, **key signature ID**, and **pitch ID**. Review the resources on OMT as necessary.
