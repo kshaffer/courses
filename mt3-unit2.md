@@ -44,7 +44,7 @@ We will be following the theories of [William E. Caplin](https://openlibrary.org
 ### Handouts, exercises, other class materials ###
 
 [Blank timelines]({{ root_url }}/materials/timeline-blank.pdf) (for diagramming formal structure).  
-[Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
+[Lead-sheet and figured-bass symbols.](Graphics/Handouts/LSandFBsymbols.pdf)  
 [Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
 ### Assessments
