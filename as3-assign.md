@@ -8,6 +8,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 15 prep
+
+Read the [Unit II Guide](as3-unit2.html), and bring to class any questions you have about it. Optionally, bring your primary instrument to class.
+
+## October 13 prep
+
+All transcriptions must be completed, approved by at least two classmates, and submitted by the start of class in order to count toward the Unit II grade. You will have until Oct. 20 to complete performances.
+
 ## October 6 prep
 
 *Either* find three classmates to approve your performance-ready transcription *or* get your transcription into performance-ready shape by Monday. Let's get all the transcriptions finished, solid, and in for assessment this week.
