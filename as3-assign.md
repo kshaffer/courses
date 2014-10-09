@@ -4,6 +4,8 @@ title: Assignments and due dates (Aural Skills III)
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills3.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-assign.html">assignments</a></div><br/>
+
 # {{ page.title }} #
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).

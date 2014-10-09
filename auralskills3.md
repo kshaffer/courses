@@ -8,9 +8,6 @@ author: Kris Shaffer
 
 <div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills3.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-assign.html">assignments</a></div><br/>
 
-
-[Assignments and due dates](as3-assign.html)
-
 ## Unit guides ##
 
 [Unit I: pop/rock transcription and performance](as3-unit1.html) – approx. weeks 1–7  

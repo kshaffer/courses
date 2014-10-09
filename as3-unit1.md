@@ -4,6 +4,8 @@ title: Unit I&#58; Pop/rock transcription and performance (Aural Skills III)
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills3.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-assign.html">assignments</a></div><br/>
+
 # Unit I: Pop/rock transcription and performance #
 
 Unit I will comprise an in-depth study of the transcription and performance of commercial pop/rock music. There will be a particular emphasis on the unique rhythmic and harmonic elements of this style. The goal is both to build fluent knowledge of the structural elements of this style and to build facility with the tasks of transcription and performance—both prepared and at sight.

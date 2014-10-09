@@ -4,6 +4,8 @@ title: Unit II&#58; Classical-era transcription and improvisation (Aural Skills 
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills3.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as3-assign.html">assignments</a></div><br/>
+
 # Unit II: Classical-era transcription and improvisation #
 
 Musicians are not simply people who can play notes, rhythms, and chords correctly. Musicians know what they are hearing when they hear it, and they know when expectations are being played with. Musicians can verbally describe what they hear, can mimic it, notate it, riff on it. Musicians can play all the notes, rhythms, and chords correctly, while still paying attention to what they hear, what is coming next, what is going wrong, and adjust their performance accordingly. This is the kind of musicianship we are going for in this class.
