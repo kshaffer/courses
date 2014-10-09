@@ -18,8 +18,20 @@ Details for this unit are provided below.
 
 ## Materials ##
 
-This list will grow throughout the unit as new resources are assigned.
+[Assignments and deadlines](as3-assign.html)
 
+[Style and tendency](http://openmusictheory.com/tendency.html)  
+[Galant schemata – summary](http://openmusictheory.com/schemataSummary.html)  
+[Introduction to Thematic Structure in the Classical Style](http://openmusictheory.com/thematicStructureInTheClassicalStyle.html)  
+[Classical theme types](http://openmusictheory.com/classicalThemes.html)  
+[The sentence](http://openmusictheory.com/sentence.html)  
+[The period](http://openmusictheory.com/period.html)  
+[Hybrid themes](http://openmusictheory.com/hybridThemes.html)  
+[Compound themes](http://openmusictheory.com/compoundThemes.html)  
+[Classical cadence types](http://openmusictheory.com/cadenceTypes.html)  
+
+
+This list will grow throughout the unit as new resources are assigned.
 
 
 ## Concepts and assessment ##
