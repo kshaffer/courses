@@ -8,9 +8,15 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 16 quizzes
+
+We will have quizzes on **interval ID** and **pitch ID**. Since it appears that the big problem remaining on pitch ID is time, I will extend this quiz from 1 minute to 1.5 minutes. The interval ID quiz will be as described in class (and practiced) on Thursday: you will be given a second-species exercise and asked to label all melodic and harmonic intervals (m2, P5, A4, etc.).
+
+***Homework will be posted before Tuesday.***
+
 ## October 14 prep
 
-***Quizzes will be announced after the October 9 quizzes are graded.***
+We will begin class with a quiz on **scale-degree ID.** On this quiz, I will give you two well-formed cantus firmi: one in major, one in minor, each in a different clef. You should then write the solfège syllable for each note in the melodies. I will not tell you what the keys are; you must discern that from the key signature and the first/last notes.
 
 **If you have not passed major and minor cantus firmi,** complete that assessment. (See instructions below.)
 
