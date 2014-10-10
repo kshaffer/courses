@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 15 prep
+
+First, read the [Unit II Guide](mt3-unit2.html). Then read two resources on Open Music Theory: [Composing in basso-continuo style](http://openmusictheory.com/bassoContinuo.html) (think "keyboard-style four-part writing") and [Tendency tones and functional harmonic dissonances](http://openmusictheory.com/tendencyTonesFunctionalDissonances.html). Though some of the terms may be different, these should generally be a review of some of your studies from last semester.
+
+After reading these materials, please fill out the following form **before 7:30am on Wednesday** (so I can look them over before class).
+
+<iframe src="https://docs.google.com/forms/d/1blWgGtDKM674oyBbJDh2uEZR_blSxfmp0fw3FM9mP0Y/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+## October 13 prep
+
+None.
+
 ## October 6 prep
 
 **If you have passed all four pop/rock form concepts on one of the three assessments,** please do the following:
