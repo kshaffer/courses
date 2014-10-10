@@ -6,6 +6,20 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## October 17 prep
+
+Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
+
+- Hébert & Cuddy, ["Music-reading deficiencies and the brain"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cdE9KX1hSa1pqbnc/view?usp=sharing)  
+- Hébert, et al., ["A case study of music and text dyslexia"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cSUhMUEhZV0VpelE/view?usp=sharing)  
+- Karpinski, [*Aural Skills Acquisition*, pp. 36–50](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cLUV6SGRhTTJZSk0/view?usp=sharing)
+
+***By Wednesday, 10am***, submit three factual questions about the readings (one question per reading) to the [quiz preparation Google Doc](https://docs.google.com/a/colorado.edu/document/d/1gG6gjxMhbQnwSONUAsm4scxsCZjLtoCbZHWZXyVA1_M/edit?usp=sharing) for the week. Your quiz cannot count as passing if you do not submit these questions on time. 
+
+Then find and memorize answers to all of the questions in the document and be prepared to answer them on a quiz at the beginning of Friday's class. (I will choose 9–10 of your 24 questions.)
+
+Finally, bring to class a question to which you would like to pursue an answer about either *pedagogy* or *learning disabilities* in relation to music cognition. These could be things like *How can I better teach my students [concept/skill]?* or *How does [learning disability] affect [musical skill]?* We won't answer all of them in class on Friday! But we can start to open up a few of them, and perhaps get some mental juices going for final projects.
+
 ## October 10 prep
 
 Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
