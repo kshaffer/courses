@@ -12,7 +12,16 @@ Find assignments under the class date in which the assignment is due. They are i
 
 We will have quizzes on **interval ID** and **pitch ID**. Since it appears that the big problem remaining on pitch ID is time, I will extend this quiz from 1 minute to 1.5 minutes. The interval ID quiz will be as described in class (and practiced) on Thursday: you will be given a second-species exercise and asked to label all melodic and harmonic intervals (m2, P5, A4, etc.).
 
-***Homework will be posted before Tuesday.***
+The bulk of class will be devoted to work on issues related to second-species counterpoint composition. To prepare, please do the following:
+
+- Review the [class notes from our collaborative *second-species* analysis](https://docs.google.com/a/colorado.edu/document/d/1EOSMdmb9ljGs8AB3sefz-wfFLmVReDGLaGQ4bdl5VbY/edit?usp=sharing).  
+- Read the [Composing a second-species counterpoint](http://openmusictheory.com/secondSpecies.html) resource on OMT. Note the differences between these two resources to enter in the form below.  
+- Fill out the form below.
+
+<iframe src="https://docs.google.com/forms/d/1b6qZiG1kZuVniiTa0qUWOaZvUBXOXn5797On2-wVbb8/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
+Lastly, be sure to bring staff paper, a pencil, and a web-enabled device (phone is fine) to class on Thursday.
+
 
 ## October 14 prep
 
