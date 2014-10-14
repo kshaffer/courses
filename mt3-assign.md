@@ -8,6 +8,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 17 prep
+
+Please read [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html) on Open Music Theory. Review the [worksheet](materials/alteredSChords-WS.pdf) and [model solutions](materials/alteredSChords-key.pdf) from Monday's class alongside the reading. Then fill out the following form.
+
+<iframe src="https://docs.google.com/forms/d/1yOJD4CZKpAw55EEY3afUmSSAAH09z6gOLPdGmD6TzXA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## October 15 prep
 
 First, read the [Unit II Guide](mt3-unit2.html). Then read two resources on Open Music Theory: [Composing in basso-continuo style](http://openmusictheory.com/bassoContinuo.html) (think "keyboard-style four-part writing") and [Tendency tones and functional harmonic dissonances](http://openmusictheory.com/tendencyTonesFunctionalDissonances.html). Though some of the terms may be different, these should generally be a review of some of your studies from last semester.
