@@ -10,6 +10,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 20 prep
+
+For Monday, please put together and submit your [pop/rock performance project](as3-popRockPerf.html).
+
 ## October 15 prep
 
 Read the [Unit II Guide](as3-unit2.html), and bring to class any questions you have about it. Optionally, bring your primary instrument to class.
