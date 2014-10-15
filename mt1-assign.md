@@ -8,7 +8,15 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## October 16 quizzes
+## October 21 prep
+
+Quizzes will be announced after the 10/16 quizzes are graded. Note that all quizzes (except for triads, seventh chords, and Roman numerals) must be completed by November 4.
+
+In addition to preparing for the quizzes, check your assessment report and your species feedback, and revise/complete the next stage in your species composing and performing to submit for Monday. If you are ready to begin second species, the requirements are the same as first species: one major, one minor, one above, one below, and use cantus firmi from the same set that you used for first species.
+
+Finally, bring a web-enabled device to class on Tuesday.
+
+## October 16 prep
 
 We will have quizzes on **interval ID** and **pitch ID**. Since it appears that the big problem remaining on pitch ID is time, I will extend this quiz from 1 minute to 1.5 minutes. The interval ID quiz will be as described in class (and practiced) on Thursday: you will be given a second-species exercise and asked to label all melodic and harmonic intervals (m2, P5, A4, etc.).
 

@@ -64,11 +64,11 @@ Generally, students will be given multiple opportunities during each unit to dem
 - **transposition** – transpose a melody from one key into another.  
 - **interval ID** – identify the diatonic interval of a dyad.  
 - **interval writing** – write a specified diatonic interval above or below a given pitch.  
-- **triad ID** – identify root and quality of major, minor, diminished, and augmented triads.  
-- **triad writing** – write major, minor, diminished, and augmented triads given root and quality.  
-- **seventh ID** – identify root and quality of major, minor, dominant, fully diminished, and half-diminished seventh chords.  
-- **seventh writing** – write major, minor, dominant, fully diminished, and half-diminished seventh chords given root and quality.  
-- **Roman numerals** – label a triad or seventh chord with the appropriate Roman numeral given a specified key.
+- **triad ID** – identify root and quality of major, minor, diminished, and augmented triads. (This will count as a Unit III objective.)  
+- **triad writing** – write major, minor, diminished, and augmented triads given root and quality. (This will count as a Unit III objective.)  
+- **seventh ID** – identify root and quality of major, minor, dominant, fully diminished, and half-diminished seventh chords. (This will count as a Unit III objective.)  
+- **seventh writing** – write major, minor, dominant, fully diminished, and half-diminished seventh chords given root and quality. (This will count as a Unit III objective.)  
+- **Roman numerals** – label a triad or seventh chord with the appropriate Roman numeral given a specified key. (This will count as a Unit III objective.)
 
 **To obtain a C in this course,** a student must fulfill all D-level objectives as well as the following:
 
