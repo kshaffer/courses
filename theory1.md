@@ -45,9 +45,9 @@ All work will be graded pass/fail, and each specific objective need only be met 
 
 Generally, students will be given multiple opportunities during each unit to demonstrate mastery of each concept, or a significant amount of time in which to work on (and seek feedback on) a major project. More details are provided in the unit guides, and below under *reassessment*.
 
-**Unit I and II assessments are due at the end of Unit II. Unit III assessments are due at the end of Unit III.**
+**Unit I and II assessments are due at the end of Unit II (November 4). Unit III assessments are due at the end of Unit III.**
 
-**To obtain a D in this course,** students must pass all of the following *fundamentals* assessments *by the end of Unit II*. These will be given as timed quizzes (60 seconds, unless noted otherwise below), either in class or online. Once passed, a student does not need to take a quiz on that concept again. Read all as "I can . . ."
+**To obtain a D in this course,** students must pass all of the following *fundamentals* assessments *by the end of Unit II*. These will be given as timed quizzes, either in class or online. Once passed, a student does not need to take a quiz on that concept again. Read all as "I can . . ."
 
 - **meter** – recognize the meter of a short musical excerpt from the musical notation and time signature (simple/compound, duple/triple/quadruple).  
 - **time signatures** – write the appropriate time signature given a specified meter.  
@@ -67,20 +67,19 @@ Generally, students will be given multiple opportunities during each unit to dem
 - **triad ID** – identify root and quality of major, minor, diminished, and augmented triads.  
 - **triad writing** – write major, minor, diminished, and augmented triads given root and quality.  
 - **seventh ID** – identify root and quality of major, minor, dominant, fully diminished, and half-diminished seventh chords.  
-- **seventh writing** – write major, minor, dominant, fully diminished, and half-diminished seventh chordss given root and quality.  
+- **seventh writing** – write major, minor, dominant, fully diminished, and half-diminished seventh chords given root and quality.  
 - **Roman numerals** – label a triad or seventh chord with the appropriate Roman numeral given a specified key.
 
 **To obtain a C in this course,** a student must fulfill all D-level objectives as well as the following:
 
 - **cantus firmus** – compose and perform (video) a well formed *cantus firmus* in a major key and another in a minor key, with a partner.  
 - **first species** – compose and perform (video) a well formed first-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
-- **second species** – compose and perform (video) a well formed second-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
 - **basso continuo** – realize (notate and perform—video) a figured bass line in four-part, *basso continuo* keyboard style. No partner. One realization in major, one in minor.  
 - **melodic keyboard style** – realize (notate and perform—video) a figured bass line in four-part, *melodic* keyboard style. No partner. One realization in major, one in minor.  
 
 **To obtain a B in this course,** a student must fulfill all C-level objectives as well as the following:
 
-- **third species** – compose and perform (video) a well formed third-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
+- **second species** – compose and perform (video) a well formed second-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
 - **fourth species** – compose and perform (video) a well formed fourth-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
 - **unfigured basso continuo** – realize (notate and perform—video) an unfigured bass line in four-part, *basso continuo* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
 - **unfigured melodic keyboard style** – realize (notate and perform—video) an unfigured bass line in four-part, *melodic* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  

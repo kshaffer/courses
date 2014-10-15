@@ -25,11 +25,10 @@ All required material for this unit will be posted here as we progress through t
 
 - **cantus firmus** – compose and perform (video) a well formed *cantus firmus* in a major key and another in a minor key, with a partner.  
 - **first species** – compose and perform (video) a well formed first-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
-- **second species** – compose and perform (video) a well formed second-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
 
 **We will engage two concepts in this unit that will contribute to B-level contract assessments.** They are:
 
-- **third species** – compose and perform (video) a well formed third-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
+- **second species** – compose and perform (video) a well formed second-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
 - **fourth species** – compose and perform (video) a well formed fourth-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.   
 
 **To obtain an A in this course,** a student must fulfill all B-level objectives from Units II and III, as well as the following, which includes work from Unit II:
