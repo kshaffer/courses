@@ -8,6 +8,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 23 quizzes
+
+Quizzes will be **Interval ID** and **Interval writing**. 
+
+Other plans will be posted before class on the 21st.
+
 ## October 21 prep
 
 We will begin with three quizzes. Choose *two* of the following 3-minute quizzes: **major scales**, **minor scales**, or **rhythmic notation**. Also, choose *one* of the following 1-minute quizzes: **time signature writing** or **key signature ID**. Please review old quizzes (on the [Unit I Guide](mt1-unit1.html)) and [Open Music Theory](http://openmusictheory.com) as appropriate.
