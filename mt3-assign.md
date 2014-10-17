@@ -8,7 +8,7 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## October 17 prep
+## October 20 prep
 
 Please read [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html) on Open Music Theory. Review the [worksheet](materials/alteredSChords-WS.pdf) and [model solutions](materials/alteredSChords-key.pdf) from Monday's class alongside the reading. Then fill out the following form.
 
