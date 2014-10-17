@@ -24,6 +24,8 @@ Details for this unit are provided below.
 
 [Style and tendency](http://openmusictheory.com/tendency.html)  
 [Galant schemata – summary](http://openmusictheory.com/schemataSummary.html)  
+[Improvising a sentence with galant schemata.](http://openmusictheory.com/schemata-improv.html)  
+
 [Introduction to Thematic Structure in the Classical Style](http://openmusictheory.com/thematicStructureInTheClassicalStyle.html)  
 [Classical theme types](http://openmusictheory.com/classicalThemes.html)  
 [The sentence](http://openmusictheory.com/sentence.html)  
