@@ -8,11 +8,12 @@ author: Kris Shaffer
 
 ## October 24 prep
 
-There will be no quiz this week. Instead, we'll do a couple short readings in support of a focus on some key questions that arose in class on 10/17, or that you brought to class on 10/17. Those questions are:
+There will be no quiz this week. Instead, we'll do a few short readings in support of a focus on some key questions that you brought to class or arose in class on 10/17. Those questions are:
 
 - Sight-reading is a professional activity that is discriminatory against musicians with certain cognitive differences. What is the most just response to that reality for our students: 1) to discourage students with those differences/disabilities from pursuing a career that requires sight-reading? or 2) to cultivate pedagogical strategies that can help those students develop cognitive and professional work-arounds? (And if the latter, what might those strategies be?)  
 - How can we use our new-found knowledge of memory and cognition to help ourselves and our students to memorize music more effectively?  
-- What are the cognitive dangers of an excess of rote learning? (Suzuki string method, disproportionate focus on marching band or on performance over creative and critical activities, etc.) How can we compensate for those dangers in our own musical practice and our teaching?
+- What are the cognitive dangers of an excess of rote learning? (Suzuki string method, disproportionate focus on marching band or on performance over creative and critical activities, etc.) How can we compensate for those dangers in our own musical practice and our teaching?  
+- Are "learning styles" real? If so/if not, how does that impact our teaching?
 
 Before Friday, please read the following and come prepared to discuss:
 
