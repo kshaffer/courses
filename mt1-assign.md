@@ -10,7 +10,9 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## October 21 prep
 
-Quizzes will be announced after the 10/16 quizzes are graded. Note that all quizzes (except for triads, seventh chords, and Roman numerals) must be completed by November 4.
+We will begin with three quizzes. Choose *two* of the following 3-minute quizzes: **major scales**, **minor scales**, or **rhythmic notation**. Also, choose *one* of the following 1-minute quizzes: **time signature writing** or **key signature ID**. Please review old quizzes (on the [Unit I Guide](mt1-unit1.html)) and [Open Music Theory](http://openmusictheory.com) as appropriate.
+
+*Note that all quizzes (except for triads, seventh chords, and Roman numerals) must be completed by November 4.*
 
 In addition to preparing for the quizzes, check your assessment report and your species feedback, and revise/complete the next stage in your species composing and performing to submit for Monday. If you are ready to begin second species, the requirements are the same as first species: one major, one minor, one above, one below, and use cantus firmi from the same set that you used for first species.
 
