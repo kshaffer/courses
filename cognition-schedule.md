@@ -22,7 +22,7 @@ Before Friday, please read the following and come prepared to discuss:
 - Association for Psychological Science, ["Learning Styles Debunked: There is No Evidence Supporting Auditory and Visual Learning, Psychologists Say"](http://www.psychologicalscience.org/index.php/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html)
 - [Universal Design for Learning, Guidelines 2.0](http://www.udlcenter.org/aboutudl/udlguidelines) (be sure to follow the "learn more" links for each of the guidelines)
 
-Finally, choose one of the three questions above and seek out a helpful resource that speaks to that question. Come prepared to share insights from that resource.
+Finally, choose one of the four questions above and seek out a helpful resource that speaks to that question. Come prepared to share insights from that resource.
 
 Because of the diffuse nature of this assignment, and because 3 hours is not enough time to discuss all of this in depth, please feel free to read early and tweet your thoughts/questions using the #muscog hashtag. :)
 
