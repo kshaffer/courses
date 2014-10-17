@@ -12,7 +12,9 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## October 20 prep
 
-For Monday, please put together and submit your [pop/rock performance project](as3-popRockPerf.html).
+For Monday, please put together and submit your [pop/rock performance project](as3-popRockPerf.html). (Shaffer section has an extension on this—we'll discuss in class on Monday.)
+
+Also, please read the OMT page on [Improvizing a sentence with galant schemata](http://courses.shaffermusic.com/cognition-schedule.html) and watch the (9 minute) video at the end. Please omit the material and exercises that follow the video under "Putting it together." That will be for Wednesday.
 
 ## October 15 prep
 
