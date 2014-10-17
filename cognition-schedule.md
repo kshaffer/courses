@@ -6,6 +6,25 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## October 24 prep
+
+There will be no quiz this week. Instead, we'll do a couple short readings in support of a focus on some key questions that arose in class on 10/17, or that you brought to class on 10/17. Those questions are:
+
+- Sight-reading is a professional activity that is discriminatory against musicians with certain cognitive differences. What is the most just response to that reality for our students: 1) to discourage students with those differences/disabilities from pursuing a career that requires sight-reading? or 2) to cultivate pedagogical strategies that can help those students develop cognitive and professional work-arounds? (And if the latter, what might those strategies be?)  
+- How can we use our new-found knowledge of memory and cognition to help ourselves and our students to memorize music more effectively?  
+- What are the cognitive dangers of an excess of rote learning? (Suzuki string method, disproportionate focus on marching band or on performance over creative and critical activities, etc.) How can we compensate for those dangers in our own musical practice and our teaching?
+
+Before Friday, please read the following and come prepared to discuss:
+
+- Kris Shaffer, ["Promoting musical fluency -or- Why I de-emphasize sight-singing and dictation in class"](http://kris.shaffermusic.com/2013/04/promoting-musical-fluency-or-why-i-de-emphasize-sight-singing-and-dictation-in-class/)  
+- Howard Gardner, ["‘Multiple intelligences’ are not ‘learning styles’"](http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/10/16/howard-gardner-multiple-intelligences-are-not-learning-styles/)  
+- Association for Psychological Science, ["Learning Styles Debunked: There is No Evidence Supporting Auditory and Visual Learning, Psychologists Say"](http://www.psychologicalscience.org/index.php/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html)
+- [Universal Design for Learning, Guidelines 2.0](http://www.udlcenter.org/aboutudl/udlguidelines) (be sure to follow the "learn more" links for each of the guidelines)
+
+Finally, choose one of the three questions above and seek out a helpful resource that speaks to that question. Come prepared to share insights from that resource.
+
+Because of the diffuse nature of this assignment, and because 3 hours is not enough time to discuss all of this in depth, please feel free to read early and tweet your thoughts/questions using the #muscog hashtag. :)
+
 ## October 17 prep
 
 Read the following (you must be logged in to Google Drive with your CU IdentiKey to access these documents in the class shared folder):
