@@ -8,11 +8,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## October 23 quizzes
+## October 23 prep
 
-Quizzes will be **Interval ID** and **Interval writing**. 
+Quizzes will be **Interval ID** and **Interval writing**. Review the [Intervals](http://openmusictheory.com/intervals.html) resource on OMT as necessary. Interval practice on [teoria.com](http://teoria.com) may also be helpful.
 
-Other plans will be posted before class on the 21st.
+For Thursday's class, please make an initial attempt at second-species composition with a partner. The procedure is the same as first-species: one major, one minor, one above, one below, and use cantus firmi from [the same set](http://openmusictheory.com/Graphics/counterpoint/cantusFirmi.pdf) that you used for first species. Submit via Google Drive, as we have been doing.
+
+If, however, you are behind in passing the cantus firmus or first-species objective(s), please revise those rather than go on to something new (and more complicated) in second species.
 
 ## October 21 prep
 
