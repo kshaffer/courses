@@ -8,6 +8,16 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 22 prep
+
+Please complete the exercise from class today: look at mm. 1–24 of Mozart's "Rondo alla Turca" (from his piano sonata, K. 331, A minor) and mm. 1–28 of Schubert's "Der Müller und der Bach" (movement 19 of *Die schöne Müllerin*) and find as many [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html) as you can. (Both scores are on [IMSLP](http://imslp.org).) For each chord you find, answer the following questions:
+
+- What is the chord's function in the harmonic progression (tonic prolongation? setting up a phrase-ending cadence? etc.)  
+- Is there any non-standard voice-leading? If so, what and why?  
+- What is the effect of Mozart or Schubert using the chord the way he did?
+
+We will begin class discussing these questions. For the remainder of the class, please be sure you have 1) a pencil and 2) an electronic device with [Open Music Theory](http://openmusictheory.com) loaded.
+
 ## October 20 prep
 
 Please read [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html) on Open Music Theory. Review the [worksheet](materials/alteredSChords-WS.pdf) and [model solutions](materials/alteredSChords-key.pdf) from Monday's class alongside the reading. Then fill out the following form.
