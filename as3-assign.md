@@ -10,11 +10,15 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 22 prep
+
+Please take a look at the additional materials on [Improvizing a sentence with galant schemata](http://openmusictheory.com/schemata-improv.html) and review the cadence schemata that were added to the [schema summary page](http://openmusictheory.com/schemataSummary.html). We will spend some time working further on improvising complete themes using these schemata.
+
 ## October 20 prep
 
 For Monday, please put together and submit your [pop/rock performance project](as3-popRockPerf.html). (Shaffer section has an extension on this—we'll discuss in class on Monday.)
 
-Also, please read the OMT page on [Improvizing a sentence with galant schemata](http://courses.shaffermusic.com/cognition-schedule.html) and watch the (9 minute) video at the end. Please omit the material and exercises that follow the video under "Putting it together." That will be for Wednesday.
+Also, please read the OMT page on [Improvizing a sentence with galant schemata](http://openmusictheory.com/schemata-improv.html) and watch the (9 minute) video at the end. Please omit the material and exercises that follow the video under "Putting it together." That will be for Wednesday.
 
 ## October 15 prep
 
