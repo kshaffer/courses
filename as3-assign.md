@@ -10,6 +10,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 27 exam and assignment
+
+Complete the [pop/rock performance project](as3-popRockPerf.html) and submit before the normal class time on Monday.
+
+Sign up for a sight-reading exam. You can practice by sight-reading passages in the collection approved transcriptions. (More will be added as they are assessed.) Though keep in mind that the sight-reading exam will include simpler melodies than these. You can sight-read on voice (with solfège) or on your primary instrument (if not voice).
+
+Shaffer students, please sign up on Google Calendar by [following this link](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). Please double-check your time zone first! (All exam times are between 7:50am and 8:50am on Monday morning.)
+
 ## October 22 prep
 
 Please take a look at the additional materials on [Improvizing a sentence with galant schemata](http://openmusictheory.com/schemata-improv.html) and review the cadence schemata that were added to the [schema summary page](http://openmusictheory.com/schemataSummary.html). We will spend some time working further on improvising complete themes using these schemata.
