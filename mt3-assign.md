@@ -8,6 +8,28 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 27 prep
+
+Please finish the [Mozart K. 332, II., analysis](materials/Mozart-K332-II-mm1-8.pdf) that we began in class. This analysis will form the basis of our in-class work on Monday. The analysis should contain the following:
+
+- a complete *thoroughbass reduction* (bass line with figures above)  
+- a Roman numeral analysis below the bass line (one per bass note, and be sure to include the key(s))  
+- a functional analysis (T/S/D) below the Roman numerals, showing which harmonic functions are being prolonged  
+- all cadences (HC, IAC, PAC)
+
+Also, please read (or, hopefully, review) the following OMT resources:
+
+- [Introduction to Thematic Structure in the Classical Style](http://openmusictheory.com/thematicStructureInTheClassicalStyle.html)  
+- [Classical theme types](http://openmusictheory.com/classicalThemes.html)  
+- [The sentence](http://openmusictheory.com/sentence.html)  
+- [The period](http://openmusictheory.com/period.html)  
+- [Hybrid themes](http://openmusictheory.com/hybridThemes.html)  
+- [Compound themes](http://openmusictheory.com/compoundThemes.html)  
+
+Finally, submit answers to the following questions.
+
+<iframe src="https://docs.google.com/forms/d/1GVym2g2Cid158rsHrrafi7fDRyh5Dc-r2DFvxFrLNWc/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## October 22 prep
 
 Please complete the exercise from class today: look at mm. 1–24 of Mozart's "Rondo alla Turca" (from his piano sonata, K. 331, A minor) and mm. 1–28 of Schubert's "Der Müller und der Bach" (movement 19 of *Die schöne Müllerin*) and find as many [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html) as you can. (Both scores are on [IMSLP](http://imslp.org).) For each chord you find, answer the following questions:
