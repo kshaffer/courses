@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 28 prep
+
+Please prepare for the following quizzes:
+
+- **transposition** – I will give you a single melody and ask you to transpose it to another key.  
+- *one* of the following 1-minute quizzes: **meter ID**, **time signature writing**, or **key signature ID**.  
+- *one* of the following 1.5-minute quizzes: **key signature writing**, **pitch ID**, **chromatic scale writing**.
+
+Be sure to consult old quizzes (keys for most are posted on the [Unit I Guide](mt1-unit1.html)) and prepare helpful notes to bring. The deadline for passing these is November 4.
+
+Also, proceed to the next step in your species writing. Either correct errors in something attempted but not passed, or proceed onto the next new species. Do *not* attempt second species until cantus firmus and first species are passed. Submit per the usual arrangement.
+
 ## October 23 prep
 
 Quizzes will be **Interval ID** and **Interval writing**. Review the [Intervals](http://openmusictheory.com/intervals.html) resource on OMT as necessary. Interval practice on [teoria.com](http://teoria.com) may also be helpful.
