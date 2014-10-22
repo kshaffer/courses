@@ -16,7 +16,13 @@ All required material for this unit will be posted here as we progress through t
 
 [Assignments and due dates](mt1-assign.html)
 
-[Open Music Theory: contents](http://openmusictheory.com/contents.html) – see topics listed under "Voice-leading."
+[Open Music Theory: contents](http://openmusictheory.com/contents.html) – see topics listed under "Voice-leading."  
+
+[Second species error detection trinket (October 16)](https://trinket.io/library/trinkets/b704fec85f)  
+[Second species error detection trinkey – model correction (October 16)](https://trinket.io/library/trinkets/6e2405d612)  
+[Second species practice trinket (October 21)](https://trinket.io/library/trinkets/e76f699410)  
+[Second species practice trinket – model solution (October 21)](https://trinket.io/library/trinkets/356f92b6c3)  
+
 
 
 ## Concepts and assessment
