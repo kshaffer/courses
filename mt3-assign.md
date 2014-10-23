@@ -10,7 +10,11 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## October 27 prep
 
-Please finish the [Mozart K. 332, II., analysis](materials/Mozart-K332-II-mm1-8.pdf) that we began in class. This analysis will form the basis of our in-class work on Monday. The analysis should contain the following:
+Please finish the [Mozart K. 332, II., analysis](materials/Mozart-K332-II-mm1-8.pdf) that we began in class. This analysis will form the basis of our in-class work on Monday. 
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0TpJ4SxLnFpJMYjkc5VtnQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+The analysis should contain the following:
 
 - a complete *thoroughbass reduction* (bass line with figures above)  
 - a Roman numeral analysis below the bass line (one per bass note, and be sure to include the key(s))  
