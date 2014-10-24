@@ -12,7 +12,7 @@ I would like to propose two changes to the syllabus. Neither of these will chang
 
 As the [syllabus](theory1.html) currently stands, *all* 20 fundamentals concepts must be passed to get a D or higher in the course. In other words, none of the species or keyboard harmony work "counts" until all quizzes are passed. This made sense at the beginning of the semester, when I was requiring all of them to be passed before Unit II began. However, it became clear that that was an undue burden on many of you, and that it was musically unnecessary for us to proceed on to a study of species counterpoint. Thus, there is now a question of fairness in my mind. Is it more fair to stick to the syllabus put forward at the beginning of the semester, or is it more fair to change the assessment scheme to better match how we are progressing through our musical studies?
 
-I propose a change whereby we require roughly the same *number* of concepts to receive a D, C, B, or A, but remove the requirements surrounding *which* concepts those must be. In other words, 20 concepts would still need to be passed to earn a D, but it could be a mix of fundamentals and counterpoint, for example. 
+I propose a change whereby we require roughly the same *number* of concepts to receive a D, C, B, or A, but remove the requirements surrounding *which* concepts those must be. In other words, 20 concepts would still need to be passed to earn a D, but it could be a mix of fundamentals and counterpoint, for example, instead of *all* fundamentals. 
 
 Here's the scheme I propose, based on a total of 40 concepts (if you count major and minor versions of each species and four-part scheme as two separate concepts to pass).
 
@@ -35,8 +35,6 @@ This is, of course, dependent on Proposal 1 being approved, as the syllabus curr
 
 ## Voting
 
-Please vote on the following form by Thursday, October 30. You will have an opportunity to ask questions about this via email or in class on Tuesday. If it is clear, and you know what you want to do, you can vote right away. Note that I am asking for names simply as a backup, in case it looks like something went wrong with the voting. (I want to make sure it is fair.) When I download the results, I will look at names separate from the votes, in case it looks like there is a software error (votes registered more than once), or something like that.
+We will vote in class on Thursday, October 30. You will have an opportunity to ask questions about this via email or in class on Tuesday. 
 
-Thanks! And choose wisely.
-
-<iframe src="https://docs.google.com/forms/d/1o2QfoXoSBKl8angeeTM25906nbmh_fAZRNHtdmiF25Q/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Thanks!
