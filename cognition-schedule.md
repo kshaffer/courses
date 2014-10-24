@@ -6,6 +6,17 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## October 31 prep
+
+We will spend the bulk of class negotiating final project expectations—both the content/goals, and the assessment standards/procedures. This is where you all should really take over in leading the class as much as possible, with me here to support your work (and to ensure institutionally that appropriate standards of education are being met).
+
+For next time, please mull over possible final project ideas—either individual projects, small-group projects, or whole-class projects. Consider what they might look like, how we might schedule work,presentations, papers, online publications, etc. And try to get at least a preliminary grasp of what the "state of the field" looks like for the topic(s) you are considering.
+
+Please add any ideas, definitive articles/books, etc. to [the Google Doc that I slaved over this afternoon.](https://docs.google.com/a/colorado.edu/document/d/1wktTcnnqiMvWHjwCh550P9BtxKPnUM0emKTFTvXHNtk/edit?usp=sharing) Try to do so by Wednesday, 10am (our usual quiz deadline), and then use Wednesday and/or Thursday to look over each other's ideas, offer suggestions, read articles that are shared...anything that can help you come prepared for our negotiation session on Friday.
+
+See you then!
+
+
 ## October 24 prep
 
 There will be no quiz this week. Instead, we'll do a few short readings in support of a focus on some key questions that you brought to class or arose in class on 10/17. Those questions are:
