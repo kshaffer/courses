@@ -14,7 +14,14 @@ For next time, please mull over possible final project ideas—either individual
 
 Please add any ideas, definitive articles/books, etc. to [the Google Doc that I slaved over this afternoon.](https://docs.google.com/a/colorado.edu/document/d/1wktTcnnqiMvWHjwCh550P9BtxKPnUM0emKTFTvXHNtk/edit?usp=sharing) Try to do so by Wednesday, 10am (our usual quiz deadline), and then use Wednesday and/or Thursday to look over each other's ideas, offer suggestions, read articles that are shared...anything that can help you come prepared for our negotiation session on Friday.
 
-See you then!
+Finally, the following are the articles/books shared during class today (taken from the Twitter stream):
+
+- ["My pretent music school"](http://t.co/JyDYdonP96)  
+- [*Repeating Ourselves*](http://t.co/s9whZGhxkn)  
+- ["The Learning Theories of David P. Ausubel: The Importance of Meaningful and Reception Learning"](http://ww2.coastal.edu/dsmith/edet720/ausubelref.htm)  
+- ["Practice for knowledge (not drill and kill)"](http://t.co/6A80KiPykE)  
+- ["Mental practice in music memorization"](http://www.academia.edu/5008839/Mental_practice_in_music_memorization_An_ecological-empirical_study)  
+
 
 
 ## October 24 prep
