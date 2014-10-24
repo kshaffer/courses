@@ -6,7 +6,7 @@ author: Kris Shaffer
 
 # Proposal for syllabus changes
 
-I would like to propose two changes to the syllabus. Neither of these will change the content of the course, nor will they significantly change the standard required to pass the course with various grades. They *will*, however, provide some additional flexibility regarding how you demonstrate fleuncy in the musical concepts and skills we are exploring this semester. I would like to propose these changes to the class and ask you all to vote on them. The decision of the simple majority will stand.
+I would like to propose two changes to the syllabus. Neither of these will change the content of the course, nor will they significantly change the standard required to pass the course with various grades. They *will*, however, provide some additional flexibility regarding how you demonstrate fleuncy in the musical concepts and skills we are exploring this semester. I would like to propose these changes to the class and ask you all to vote on them.
 
 ## Proposal 1: assessment 
 
