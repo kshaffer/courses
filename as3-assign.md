@@ -16,19 +16,23 @@ In order to assist you in matching the "galant"/"classical" style in your improv
 
 Try listening without a score first, and see if you can hear the hallmark elements of the schemas listed. Then load up the score and listen again, noting which elements of the schema(s) are and aren't present, as well as how they are embellished. If you can't find evidence of a particular schema, take note, and we can discuss it in class.
 
-- Haydn, Piano Sonata in C Major, Hob. XVI:21, I., mm. 1–4. *sol–fa–mi*.  
-- Haydn, Piano Sonata in E-flat Major, Hob. XVI:28, II., mm. 1–12. *modulating Prinner* in mm. 4–6.  
-- Mozart, Piano Sonata in C Major, K. 545, I., mm. 1–12. *sol–fa–mi* in mm. 3–4, *Prinner* in mm. 5–8, *fa–fi–sol HC* in mm. 9–12.  
-- Haydn, Piano Sonata in A-flat Major, Hob. XVI:46, III. Finale, mm. 1–8. *Prinner* in mm. 2–4 and in mm. 6–8. (Also a *fa–fi–sol HC* in mm. 16–17.)  
-- Haydn, Piano Sonata in C Major, XVI:35, II. Adagio, mm. 1–4. *Meyer* in mm. 1–2, *Passo Indietro* in m. 3, *Compound HC* in m. 4.
+Haydn, Piano Sonata in C Major, Hob. XVI:21, I., mm. 1–4. *sol–fa–mi*.  
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:7IBaSfRTuU1ePWRnUsYmMS" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
+Haydn, Piano Sonata in E-flat Major, Hob. XVI:28, II., mm. 1–12. *modulating Prinner* in mm. 4–6.  
+
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2viOYhIpaq2xZG76gZExcx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Mozart, Piano Sonata in C Major, K. 545, I., mm. 1–12. *sol–fa–mi* in mm. 3–4, *Prinner* in mm. 5–8, *fa–fi–sol HC* in mm. 9–12.  
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:53UhuMOWGBOgA69CNS8qIv" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
+Haydn, Piano Sonata in A-flat Major, Hob. XVI:46, III. Finale, mm. 1–8. *Prinner* in mm. 2–4 and in mm. 6–8. (Also a *fa–fi–sol HC* in mm. 16–17.)  
+
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2GJhi0uH5sq99Rkd269mcz" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Haydn, Piano Sonata in C Major, XVI:35, II. Adagio, mm. 1–4. *Meyer* in mm. 1–2, *Passo Indietro* in m. 3, *Compound HC* in m. 4.
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6C1H4yqEPQPSecc5Njwckm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
