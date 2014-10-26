@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 29 prep
+
+Download and print the [Theme Analysis Practice](materials/ThemeAnalysis-practice.pdf) worksheet. Listen to the excerpts (Spotify recordings embedded below) and construct a timeline analysis like those shown on the [Classical theme types](http://openmusictheory.com/classicalThemes.html) page of OMT. Be sure to include everything listed on the worksheet. Though this will not be graded, it will serve as the basis for class discussion on Wednesday, as well as preparation for the first graded assessment, which will take place on Monday, Nov. 3.
+
 ## October 27 prep
 
 Please finish the [Mozart K. 332, II., analysis](materials/Mozart-K332-II-mm1-8.pdf) that we began in class. This analysis will form the basis of our in-class work on Monday. 
