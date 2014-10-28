@@ -8,6 +8,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 3 prep
+
+In response to some difficulties (and differences of past instruction) that have surfaced, we're going to take some time for a crash course/review session on tonal functions and their prolongation within the phrase. Please read the following resources and respond to the questions below **by Friday, October 31, noon** (so I have time to plan Monday's class accordingly).
+
+- [Harmonic functions](http://openmusictheory.com/harmonicFunctions.html)  
+- [Harmonic syntax – The idealized phrase](http://openmusictheory.com/harmonicSyntax1.html)  
+- [Harmonic syntax – Prolongation](http://openmusictheory.com/harmonicSyntax2.html)  
+
+Note that some of this reading is review from a few weeks ago. However, I have made some updates *and* it will be important to have it fresh in your mind for class activity.
+
+Please fill out the following form **by Friday noon**.
+
+<iframe src="https://docs.google.com/forms/d/1kRXPSCisi5LP0wP1D6je5xutakgVmOZC9pfp0sg0Qcs/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## October 29 prep
 
 Download and print the [Theme Analysis Practice](materials/ThemeAnalysis-practice.pdf) worksheet. Listen to the excerpts (Spotify recordings embedded below) and construct a timeline analysis like those shown on the [Classical theme types](http://openmusictheory.com/classicalThemes.html) page of OMT. Be sure to include everything listed on the worksheet. Though this will not be graded, it will serve as the basis for class discussion on Wednesday, as well as preparation for the first graded assessment, which will take place on Monday, Nov. 3.
