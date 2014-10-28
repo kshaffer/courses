@@ -8,6 +8,23 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## October 30 prep
+
+We will begin class with three quizzes. Choose from the following: **interval ID**, **interval writing**, **rhythmic notation**, and **minor scales**. If you have passed all of these, feel free to come to class at 8:10.
+
+The bulk of class will be devoted to work on issues related to fourth-species counterpoint composition. To prepare, please do the following:
+
+- Review the [class notes from our collaborative *fourth-species* analysis](https://docs.google.com/a/colorado.edu/document/d/1xTCp8GG8y3v9_ttmJIQlclJMigvU7VvqTe7N_MoHarI/edit?usp=sharing).  
+- Read the [Composing a fourth-species counterpoint](http://openmusictheory.com/fourthSpecies.html) resource on OMT. Note the differences between these two resources to enter in the form below.  
+- Be sure to watch both videos, as there are some tricky situations in fourth-species, and we will begin wrestling with them in class on Thursday.  
+- Do the recomposition exercise at the end of the fourth-species. Copy the link to your solution and paste it in the form below.  
+- Fill out the form below.
+
+<iframe src="https://docs.google.com/forms/d/1ZmKZFOQ857jL9vNDXlzNoTJsTVYUlKbZEgmCSdcvODU/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
+Lastly, be sure to bring staff paper, a pencil, and a web-enabled device (phone is fine) to class on Thursday.
+
+
 ## October 28 prep
 
 Please prepare for the following quizzes:
