@@ -66,7 +66,7 @@ The end-of-unit grade for this category will be the average of the highest two o
 
 **Classical improvisation (Unit II)**
 
-Students will be assessed for their ability to perform an improvised melody on any instrument (or voice) they choose that is idiomatic to the classical instrumental style. Students will be given a formal scheme (sentence, period, or hybrid theme), a harmonic progression (typically 1–2 chords per bar), and (optionally) *galant* schemata to reflect in the melody.
+Students will be assessed for their ability to perform an improvised melody in the form of a [sentence](http://openmusictheory.com/sentence.html) on any instrument (or voice) they choose that is idiomatic to the classical instrumental style. Students will be given a harmonic progression (typically 1–2 chords per bar) and *galant* schemata to reflect in the melody.
 
 In improvisation assessments, students will be allowed to choose both the instrument and the level of difficulty for the melody they improvise. The highest level of difficulty successfully performed during the unit will determine the unit grade for this objective. Students will be allowed at least two assessment attempts (and one reassessment during finals week). Additional attempts are at the discretion of the instructor/TA.
 
