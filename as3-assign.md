@@ -10,6 +10,24 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 3 assignment
+
+Record yourself (audio or video, whichever is most convenient) improvising a sentence melody on your primary instrument (with solfège, if voice) that follows one of the following schema sequences:
+
+- Meyer – 5-phase Prinner  
+- Jupiter – Passo Indietro – Compound HC  
+- Jupiter – Passo Indietro – Compound PAC  
+- Sol–fa–mi – Prinner – Fa–fi–sol HC  
+- Sol–fa–mi – Prinner – Simple PAC
+
+Note that these are the five example sentences provided at the end of the OMT resource on [Improvising a sentence with galnt schemata](http://openmusictheory.com/schemata-improv.html). Look to those examples for guidance. Your melodies can be in any key and in any standard meter (simple/compound, duple/triple/quadruple).
+
+Since you are submitting a recording, you are free to prepare your improvisation by practicing different possibilities. To do so, you can play along with the audio excerpts added to the [Improvising a sentence](http://openmusictheory.com/schemata-improv.html) resource, all of which are in C major and simple quadruple time. (Thanks to Mark Arnett for making these!) You may also record multiple takes and submit the best one. (Since preparing and making multiple attempts at an improvisation looks a like composition, we're dubbing this a "comprovisation.")
+
+As you practice, you may want to work your way up the [assessment rubric](http://courses.shaffermusic.com/as3-unit2.html), beginning with D-level or C-level melodies, and then adding embellishments to reach B-level and A-level complexity that makes good musical sense. Aim for A-level, but submit the highest level that you are able to accomplish with musicality.
+
+Submit your "comprovisation" before class according to the same procedures that you submitted your pop/rock performance on Google Drive.
+
 ## October 29 assignment
 
 In order to assist you in matching the "galant"/"classical" style in your improvisations, please listen to the opening themes of the following movements. Spotify recordings are embedded below. You can find scores on [IMSLP.org](http://imslp.org) or in the library. 
