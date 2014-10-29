@@ -8,6 +8,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 4 prep
+
+***This is the Unit II deadline.*** That means that all species assignments must be submitted by the beginning of class to "count" towards the grade. There will be one reassessment opportunity per concept after Nov 4., but *only for concepts that were attempted by the deadline*. There is one exception: fourth-species counterpoint will have November 11 as its deadline, since we just started exploring that concept.
+
+This is also the last opportunity for timed quizzes for all concepts except triads, seventh chords, and Roman numerals. Specific quizzes will be announced on Friday, October 31, after October 30 quizzes have been graded.
+
+Prep work: 
+
+First, please read the [Triads and seventh chords](http://openmusictheory.com/triads.html) page on OMT. Come to class ready to practice building and IDing chords, as well as applying the appropriate lead-sheet and Roman numeral symbols.
+
+Second, complete any outstanding species counterpoint work, especially first and second species. (If you have passed up through second species, you can make an attempt at fourth species.) Once you have completed your work, share it with Ashley and me on Google Drive ***and*** paste the link for each file in the form below. (We've been losing some things in the submission process. This will help us make sure nothing is lost or late.)
+
+<iframe src="https://docs.google.com/forms/d/1aC1uE5i-PFHywRcXsXjuqkABWhi-4PaNw66TaS4_0XM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## October 30 prep
 
 We will begin class with three quizzes. Choose from the following: **interval ID**, **interval writing**, **rhythmic notation**, and **minor scales**. If you have passed all of these, feel free to come to class at 8:10.
