@@ -16,9 +16,7 @@ This is also the last opportunity for timed quizzes for all concepts except tria
 
 Prep work: 
 
-First, please read the [Triads and seventh chords](http://openmusictheory.com/triads.html) page on OMT. Come to class ready to practice building and IDing chords, as well as applying the appropriate lead-sheet and Roman numeral symbols.
-
-Second, complete any outstanding species counterpoint work, especially first and second species. (If you have passed up through second species, you can make an attempt at fourth species.) Once you have completed your work, share it with Ashley and me on Google Drive ***and*** paste the link for each file in the form below. (We've been losing some things in the submission process. This will help us make sure nothing is lost or late.)
+Complete any outstanding species counterpoint work, especially first and second species. (If you have passed up through second species, you can make an attempt at fourth species.) Once you have completed your work, share it with Ashley and me on Google Drive ***and*** paste the link for each file in the form below. (We've been losing some things in the submission process. This will help us make sure nothing is lost or late.)
 
 <iframe src="https://docs.google.com/forms/d/1aC1uE5i-PFHywRcXsXjuqkABWhi-4PaNw66TaS4_0XM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
 
