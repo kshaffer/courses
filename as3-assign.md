@@ -10,6 +10,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 4 improv assessments
+
+SHAFFER SECTION ONLY: Time slots are now available for improvisation assessments on November 4, 9:30–10:00am and 2:00–2:30pm. You can sign up [here.](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) If none of these times work for you, please let me know ASAP, since I am leaving first thing Wednesday morning for my conference.
+
 ## November 3 assignment
 
 Record yourself (audio or video, whichever is most convenient) improvising a sentence melody on your primary instrument (with solfège, if voice) that follows one of the following schema sequences:
