@@ -10,9 +10,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## November 4 improv assessments
+## November 4–6 improv assessments
 
-SHAFFER SECTION ONLY: Time slots are now available for improvisation assessments on November 4, 9:30–10:00am and 2:00–2:30pm. You can sign up [here.](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) If none of these times work for you, please let me know ASAP, since I am leaving first thing Wednesday morning for my conference.
+This will be the first of two regular attempts at assessing classical theme improvisation. Details can be found [here](as3-improvAssess.html).
+
+SHAFFER SECTION ONLY: Time slots are now available for improvisation assessments on **November 4, 9:30–10:00am and 2:00–2:30pm.** You can sign up [here.](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) If none of these times work for you, please let me know ASAP, since I am leaving first thing Wednesday morning for my conference.
+
+ARNETT & SIMMONS SECTIONS: Sign up in accordance with the instructions provided by your instructor.
 
 ## November 3 assignment
 
