@@ -10,7 +10,11 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## November 11 prep
 
-Please read the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource on Open Music Theory. Come ready to ask questions about the resource, and then to work on building fluency with identifying and notating these chords.
+Please work with a partner and submit an attempt at fourth-species counterpoint, per the usual procedures. As on November 4, please use the following form to provide a link to each of your submitted videos and pictures.
+
+<iframe src="https://docs.google.com/forms/d/1gZxRICuhnVHIwzX49KZJLk9nLFQSZJ8xpBxUwVA7cbc/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
+Then, read the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource on Open Music Theory. Come ready to ask questions about the resource, and then to work on building fluency with identifying and notating these chords.
 
 For the first time since August, there is *no quiz!*
 
