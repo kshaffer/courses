@@ -8,6 +8,30 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 10 prep
+
+We will begin class with a quiz analyzing classical thematic and harmonic structure. To prepare, please review the relevant OMT resources and decide which ones to have open as you work on the quiz.
+
+Also, please take a stab at the [practice quiz](materials/mt3-ThemeAnalysisPractice.pdf) distributed in class on Nov. 3. Use the Spotify recordings below (or play them at the keyboard yourself) as you work. When you complete the quiz, or when you hit a mental block, view [the "key" (i.e., my analyses)](materials/mt3-ThemeAnalysisPractice-key.pdf). Note what is the same and different between your analysis and mine. Focus on the elements that are analyzed differently, and see if you can figure out the logic behind my analysis. Then compare that logic with yours. If your logic is equally strong and you can make a solid case for your analysis, you're good. If you cannot defend your analysis logically, if your analysis's logic seems weaker than the logic behind my analysis, or if you simply cannot make sense of the analyses, then *consult with a classmate* and see if you can make sense of it together. If all of that fails, note any questions you have, and bring them to class on the 10th.
+
+Good luck!
+
+Mozart, K. 331, I., Glenn Gould. (This recording is really weird, but kind of cool. If it's too stilted to you, find another on Spotify or in the library.)
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5dO1LMGcrvWEdqc5qGpKQN" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Beethoven Op. 10/1, II., Richard Goode. (This one is perfectly normal.)
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:53uSmEPYmZDsFkzeZ1I4Ow" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Mozart, K. 283, II., Glenn Gould.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:4RlcLS5P1mfduOXF6lisq7" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Beethoven, Op. 10/2, I., Richard Goode.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:3ywUJBbrni4ANrsP8fXLjv" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
 ## November 3 prep
 
 In response to some difficulties (and differences of past instruction) that have surfaced, we're going to take some time for a crash course/review session on tonal functions and their prolongation within the phrase. Please read the following resources and respond to the questions below **by Friday, October 31, noon** (so I have time to plan Monday's class accordingly).
