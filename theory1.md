@@ -47,7 +47,7 @@ Generally, students will be given multiple opportunities during each unit to dem
 
 **Unit I and II assessments are due at the end of Unit II (November 4). Unit III assessments are due at the end of Unit III.**
 
-**To obtain a D in this course,** students must pass all of the following *fundamentals* assessments *by the end of Unit II*. These will be given as timed quizzes, either in class or online. Once passed, a student does not need to take a quiz on that concept again. Read all as "I can . . ."
+Following are the *fundamentals* concepts, due by the end of Unit II. Once passed, a student does not need to take a quiz on that concept again. Read all as "I can . . ."
 
 - **meter** – recognize the meter of a short musical excerpt from the musical notation and time signature (simple/compound, duple/triple/quadruple).  
 - **time signatures** – write the appropriate time signature given a specified meter.  
@@ -70,25 +70,39 @@ Generally, students will be given multiple opportunities during each unit to dem
 - **seventh writing** – write major, minor, dominant, fully diminished, and half-diminished seventh chords given root and quality. (This will count as a Unit III objective.)  
 - **Roman numerals** – label a triad or seventh chord with the appropriate Roman numeral given a specified key. (This will count as a Unit III objective.)
 
-**To obtain a C in this course,** a student must fulfill all D-level objectives as well as the following:
+*Strict voice-leading in two parts* concepts (species counterpoint), due at the end of Unit II (note that major and minor versions each count as their own concept for final-grade purposes):  
 
 - **cantus firmus** – compose and perform (video) a well formed *cantus firmus* in a major key and another in a minor key, with a partner.  
 - **first species** – compose and perform (video) a well formed first-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
-- **basso continuo** – realize (notate and perform—video) a figured bass line in four-part, *basso continuo* keyboard style. No partner. One realization in major, one in minor.  
-- **melodic keyboard style** – realize (notate and perform—video) a figured bass line in four-part, *melodic* keyboard style. No partner. One realization in major, one in minor.  
-
-**To obtain a B in this course,** a student must fulfill all C-level objectives as well as the following:
-
 - **second species** – compose and perform (video) a well formed second-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
 - **fourth species** – compose and perform (video) a well formed fourth-species counterpoint exercise in a major key and another in a minor key, with a partner. One exercise should have the counterpoint above the CF, the other below.  
+
+*Strict voice-leading in four parts* concepts (keyboard style), due at the end of Unit III (again, major and minor versions each count as their own concept for final-grade purposes):
+
+- **basso continuo** – realize (notate and perform—video) a figured bass line in four-part, *basso continuo* keyboard style. No partner. One realization in major, one in minor.  
+- **melodic keyboard style** – realize (notate and perform—video) a figured bass line in four-part, *melodic* keyboard style. No partner. One realization in major, one in minor.  
 - **unfigured basso continuo** – realize (notate and perform—video) an unfigured bass line in four-part, *basso continuo* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
 - **unfigured melodic keyboard style** – realize (notate and perform—video) an unfigured bass line in four-part, *melodic* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
 
-**To obtain an A in this course,** a student must fulfill all B-level objectives as well as the following:
+*Theoretical thinking* objectives for the semester (each of the four count as a concept for final-grade purposes):
 
-- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.).
+- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph, or create a video of no more than 1.5 minutes, explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.).
 
-A-level work can be submitted at any time in Unit II, Unit III, or Finals Week.
+Final grades will be determined by the number of concepts successfully passed. There are 20 *fundamentals* concepts, 8 *species counterpoint* concepts, 8 *keyboard voice-leading* concepts, and 4 *theoretical thinking* objectives. The following numbers of concepts must be passed to receive the corresponding grades:
+
+- 39 concepts passed: A+  
+- 37 concepts passed: A  
+- 36 concepts passed: A–  
+- 34 concepts passed: B+  
+- 32 concepts passed: B  
+- 31 concepts passed: B–  
+- 29 concepts passed: C+  
+- 27 concepts passed: C  
+- 26 concepts passed: C–  
+- 24 concepts passed: D+
+- 22 concepts passed: D
+- 20 concepts passed: D–
+- 18 concepts passed: F+
 
 ### Reassessment ###
 
