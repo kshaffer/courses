@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 11 prep
+
+Please read the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource on Open Music Theory. Come ready to ask questions about the resource, and then to work on building fluency with identifying and notating these chords.
+
+For the first time since August, there is *no quiz!*
+
+## November 6 prep
+
+Check your assessment reports for November 4 quiz updates. For any of the first 15 fundamentals objectives that you have not passed, you will have the opportunity to take an untimed quiz on Thursday to pass them for half-credit. (Though untimed, all materials will still need to be completed by the end of class.) This quiz will include all 15 concepts and follow the same patterns as the timed quizzes. You will have the duration of Thursday's class to pass as many of your outstanding concepts as possible in the alotted time. This quiz will be administered by Ashley, as I will be presenting at a conference.
+
+There is no prep work aside from studying for the quizzes. If you have passed all 15, you need not attend class. If you finish your outstanding objectives before 8:50, you can leave early.
+
 ## November 4 prep
 
 ***This is the Unit II deadline.*** That means that all species assignments must be submitted by the beginning of class to "count" towards the grade. There will be one reassessment opportunity per concept after Nov 4., but *only for concepts that were attempted by the deadline*. There is one exception: fourth-species counterpoint will have November 11 as its deadline, since we just started exploring that concept.
