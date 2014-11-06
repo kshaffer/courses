@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 12 prep
+
+Please read the beginning of OMT's [Introduction to sonata theory](http://openmusictheory.com/SonataTheory-intro.html). Stop at "Formal functions in a sonata movement." Write down any questions you have, and bring them to class.
+
 ## November 10 prep
 
 We will begin class with a quiz analyzing classical thematic and harmonic structure. To prepare, please review the relevant OMT resources and decide which ones to have open as you work on the quiz.
