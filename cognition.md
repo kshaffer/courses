@@ -46,6 +46,10 @@ In order to ensure that all serious students in the class attain a basic working
 
 How exactly students may demonstrate the nuance, critique, and application required for an A or B will be negotiated among the class about half-way through the semester. This will ensure every student has a chance to align the course goals (contributing to human knowledge) with their own musical goals in their end-of-semester work, and it will ensure that students gain experience setting their own goals and assessing their own progress towards them.
 
+### Final project (as decided by class consensus on 10/31)
+
+
+
 ### General course information
 
 Course title: Advanced Topics in Music Theory: Music Cognition  

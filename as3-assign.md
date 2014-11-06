@@ -10,6 +10,24 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 12 prep
+
+Please review any of the following, as necessary based on Monday's/Tuesday's class activity:
+
+- [Meter and time signatures](http://openmusictheory.com/meter.html)  
+- [Introduction to Thematic Structure in the Classical Style](http://openmusictheory.com/thematicStructureInTheClassicalStyle.html)  
+- [Classical theme types](http://openmusictheory.com/classicalThemes.html)  
+- [The sentence](http://openmusictheory.com/sentence.html)  
+- [The period](http://openmusictheory.com/period.html)  
+- [Hybrid themes](http://openmusictheory.com/hybridThemes.html)  
+- [Compound themes](http://openmusictheory.com/compoundThemes.html)  
+- [Classical cadence types](http://openmusictheory.com/cadenceTypes.html)  
+
+
+## November 10 prep
+
+There is no homework. See you in class!
+
 ## November 4–6 improv assessments
 
 This will be the first of two regular attempts at assessing classical theme improvisation. Details can be found [here](as3-improvAssess.html).
