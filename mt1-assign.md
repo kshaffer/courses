@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 13 prep
+
+Finish the [seventh-chords practice worksheet](materials/seventhChordsPractice.pdf) begun in class. Optionally, review the [triads practice worksheet](materials/triadsPractice.pdf) done in class. Review the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource on Open Music Theory, as necessary.
+
 ## November 11 prep
 
 Please work with a partner and submit an attempt at fourth-species counterpoint, per the usual procedures. As on November 4, please use the following form to provide a link to each of your submitted videos and pictures.
