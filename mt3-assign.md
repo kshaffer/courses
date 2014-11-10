@@ -10,7 +10,9 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## November 12 prep
 
-Please read the beginning of OMT's [Introduction to sonata theory](http://openmusictheory.com/SonataTheory-intro.html). Stop at "Formal functions in a sonata movement." Write down any questions you have, and bring them to class.
+First, please review [the key to Monday's theme analysis quiz](materials/mt3-themeQuiz1-key.pdf) in light of what you remember from class. Write down any questions you have, and bring them to class.
+
+Also, please read the beginning of OMT's [Introduction to sonata theory](http://openmusictheory.com/SonataTheory-intro.html). Stop at "Formal functions in a sonata movement." Write down any questions you have, and bring them to class.
 
 ## November 10 prep
 
