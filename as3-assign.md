@@ -10,6 +10,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 17 assignment
+
+On the [Unit II Guide](as3-unit2.html), find the audio for Haydn's string quartet, Hob. III:66, third movement. For the first 11 seconds (mm. 1–8), transcribe the four elements listed under the **Classical transcription (Unit II)** assessment information: the melody (Violin I part), the harmony (Roman numerals and figured bass), the formal structure (just label sentence/period/hybrid/compound), and label any *galant* schemata you hear.
+
+This is the first of several transcription assessments. Keep in mind (per the unit guide) that take-home transcriptions are half-credit for grades, but it will be both a good opportunity to get the transcription right on the first attempt, as well as practice for developing strategies that will work "live" when we do fast transcriptions in class.
+
+Unless your instructor informs you otherwise, you are welcome to submit via paper in class, or electronically before the start of class.
+
 ## November 12 prep
 
 Please review any of the following, as necessary based on Monday's/Tuesday's class activity:
