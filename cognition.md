@@ -48,7 +48,22 @@ How exactly students may demonstrate the nuance, critique, and application requi
 
 ### Final project (as decided by class consensus on 10/31)
 
+The class will collaborate on a blog, in which each student writes about a topic of their choice. Topics will include applications of music cognition studies to each students own professional goals and/or interests. Each student will also offer comments to each other's posts and help publicize them on Twitter (and other social media as desired). 
 
+To receive an A for the course, a student will:
+
+- write two blog posts at the appointed time.  
+- lead discussion for 20–30 of class in response to each post.  
+- comment on at least two posts by classmates, with new ideas or constructive criticism. (I.e., more than "this is interesting" or "good job" comments.)  
+- vote on whether or not classmates' posts meet the objectives (see above on contributing to new knowledge, demonstrating nuance, etc.).  
+- revise any posts that did not meet the class's standard by the following Wednesday to bring them up to standard.  
+- write either a third blog post, or an expanded synthesis of the original two posts, at the end of the semester.
+
+If not all of these objectives are met, each *up-to-standard* write-up and each leading of class discussion will be worth one "point"; the blog comments together will make up one "point" and the up-to-standard final write-up will be worth two "points." Each point will increase the final grade one +/–. Everyone is starting at a C, after the quizzes, so 1 point is C+, 2 points B–, . . . 6 points an A.
+
+Write-ups are due at 10am on Wednesday for each week assigned. Between that time and Friday's class, all of the class will read the posts, and those not scheduled to write will provide insightful, constructive comments. Then the authors will lead discussion in class on their post/topic.
+
+Posts will be published on the [class Wordpress blog](http://shaffermusic.com/muscog/). Please submit write-ups by posting them there, or by posting them to the [Google Drive folder](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cTDlyeURLcHdxQ28&usp=sharing).
 
 ### General course information
 

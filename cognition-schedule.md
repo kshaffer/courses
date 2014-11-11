@@ -6,6 +6,14 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## November 14 prep
+
+If you are on the schedule to lead discussion this week (LE, LS, TK, JJ, MA), please complete your write-up and submit it into the class WordPress website or the Google Drive folder by **Wednesday, 10am.** Then be prepared to lead discussion for 25–30 minutes of class. This can begin with a brief introduction on your part, or a response to comments left on your write-up, but otherwise it should be open for full-class discussion.
+
+All members of the class should read all posts. Posts will be published on the [class Wordpress blog](http://shaffermusic.com/muscog/). Please submit write-ups by posting them there, or by posting them to the [Google Drive folder](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cTDlyeURLcHdxQ28&usp=sharing). And be sure to check in both places when reading materials for Friday.
+
+If you are not on the schedule to write/lead this week, please comment on at least two of the posts. (Try to ensure that each post gets at least one comment by someone other than me.) Then come to class ready to discuss what you read or ask questions of the researcher that wrote it.
+
 ## October 31 prep
 
 We will spend the bulk of class negotiating final project expectations—both the content/goals, and the assessment standards/procedures. This is where you all should really take over in leading the class as much as possible, with me here to support your work (and to ensure institutionally that appropriate standards of education are being met).
