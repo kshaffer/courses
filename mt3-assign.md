@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 17 prep
+
+Read the following resources on OMT:
+
+- [Introduction to sonata theory](http://openmusictheory.com/SonataTheory-intro.html) (review what you already read and continue to the end)  
+- [Sonata form – exposition types](http://openmusictheory.com/SonataTheory-exposition.html) (only read the two-part exposition material, not "Multiple MCs" or "The Continuous Exposition")  
+- [Sonata form – structural points of arrival](http://openmusictheory.com/sonataStructuralPointsOfArrival.html)
+
+Then, in light of the readings, please fill out the following form.
+
+<iframe src="https://docs.google.com/a/colorado.edu/forms/d/1XVsJJy2os20fLDSZ9tE6rdQfKTensJVwI6VLyGCa7DA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## November 12 prep
 
 First, please review [the key to Monday's theme analysis quiz](materials/mt3-themeQuiz1-key.pdf) in light of what you remember from class. Write down any questions you have, and bring them to class.
