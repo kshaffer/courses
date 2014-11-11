@@ -35,8 +35,17 @@ Details for this unit are provided below.
 [Classical cadence types](http://openmusictheory.com/cadenceTypes.html)  
 
 
-This list will grow throughout the unit as new resources are assigned.
+### Audio for transcriptions
 
+Haydn, String Quartet in D, "The Lark," Hob. III:63, third movement, mm. 1–8 (0:00–0:10). November 12, in-class.
+
+Spotify browser app: [http://open.spotify.com/track/30JaDI8y2i14mqoWJ5NfJU](http://open.spotify.com/track/30JaDI8y2i14mqoWJ5NfJU)  
+Spotify URI (copy paste this into Spotify app's search bar): spotify:track:30JaDI8y2i14mqoWJ5NfJU
+
+Haydn, String Quartet in G, Hob. III:66, third movement, mm. 1–8 (0:00–0:11). Homework for November 17.
+
+Spotify browser app: [http://open.spotify.com/track/2Dyh8LMXHEv4Hxchepyubj](http://open.spotify.com/track/2Dyh8LMXHEv4Hxchepyubj)  
+Spotify URI: spotify:track:2Dyh8LMXHEv4Hxchepyubj
 
 ## Concepts and assessment ##
 
