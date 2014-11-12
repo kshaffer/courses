@@ -8,6 +8,22 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 18 prep
+
+We will begin class with two quizzes: **triad writing** and **triad ID**. These will be similar in format to (though shorter than) the exercises we did in class on Tuesday. For triad ID, you will be asked to give the proper [lead-sheet symbol](http://openmusictheory.com/Graphics/Handouts/LSandFBsymbols.pdf), including slashes for inversions, for various close-position triads. For triad writing, you will be given lead-sheet symbols and asked to notate those chords. (Treble, alto, and bass clefs are all fair game.)
+
+In preparation for the remainder of our class time (as well as for the triad ID quiz), finish the [harmonic reduction exercise](materials/reduction-K331.pdf) from Thursday's class. Then compare your analysis with [the key](materials/reduction-K331-key.pdf). Note what is different, and consult the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource or the [Harmonies by bass scale degree handout](http://openmusictheory.com/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) to figure out why. If questions remain, note them in the form below.
+
+Then read the following resources on OMT:
+
+- [Introduction to thoroughbass](http://openmusictheory.com/thoroughbassFigures.html)  
+- [A brief history of basso continuo keyboard-style voice-leading](http://openmusictheory.com/bassoContinuo-history.html)  
+- [Generating Roman numerals from a figured bass line](http://openmusictheory.com/RNfromFB.html) (this is more of a reference that can serve you later)
+
+Finally, fill out the form below.
+
+<iframe src="https://docs.google.com/forms/d/1QVaDvSJqsThWH0GBOOKczhn3Xa99O373ZWf0QJMEzlo/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## November 13 prep
 
 Finish the [seventh-chords practice worksheet](materials/seventhChordsPractice.pdf) begun in class. Optionally, review the [triads practice worksheet](materials/triadsPractice.pdf) done in class. Review the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource on Open Music Theory, as necessary.
