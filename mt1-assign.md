@@ -10,6 +10,10 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## November 18 prep
 
+This is the last day to submit regular fourth-species assignments and any Unit II reassessments. Be sure to post links to your work on the form below. If they are not posted to the form, they will not be assessed. This video provides directions.
+
+<iframe src="https://docs.google.com/forms/d/1aXRW1ELI_i6VpEEiuop-sGErEj40uORvOBAbehD4BVM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 We will begin class with two quizzes: **triad writing** and **triad ID**. These will be similar in format to (though shorter than) the exercises we did in class on Tuesday. For triad ID, you will be asked to give the proper [lead-sheet symbol](http://openmusictheory.com/Graphics/Handouts/LSandFBsymbols.pdf), including slashes for inversions, for various close-position triads. For triad writing, you will be given lead-sheet symbols and asked to notate those chords. (Treble, alto, and bass clefs are all fair game.)
 
 In preparation for the remainder of our class time (as well as for the triad ID quiz), finish the [harmonic reduction exercise](materials/reduction-K331.pdf) from Thursday's class. Then compare your analysis with [the key](materials/reduction-K331-key.pdf). Note what is different, and consult the [Triads and seventh chords](http://openmusictheory.com/triads.html) resource or the [Harmonies by bass scale degree handout](http://openmusictheory.com/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) to figure out why. If questions remain, note them in the form below.
