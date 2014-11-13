@@ -10,7 +10,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## November 18 prep
 
-This is the last day to submit regular fourth-species assignments and any Unit II reassessments. Be sure to post links to your work on the form below. If they are not posted to the form, they will not be assessed. This video provides directions.
+This is the last day to submit regular fourth-species assignments and any Unit II reassessments. Be sure to post links to your work on the form below. If they are not posted to the form, they will not be assessed. [This video](https://vimeo.com/111704047) provides directions.
 
 <iframe src="https://docs.google.com/forms/d/1aXRW1ELI_i6VpEEiuop-sGErEj40uORvOBAbehD4BVM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
 
