@@ -10,6 +10,26 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 1 prep
+
+None. Please bring staff paper, a pencil, and (Shaffer section) headphones.
+
+## November 19 assignment
+
+Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)). Elements completed accurately in class will receive full credit, elements completed accurately as homework will receive half credit. You may use an instrument if you like—whatever will help you figure out good strategies for fast transcription in the future. Be sure *not* to consult a score, until after you have submitted your transcription.
+
+Transcribe the following elements:
+
+- Melody (first violin part)  
+- Harmony (Roman numerals and figured bass)  
+- Schemas (any that you hear from our list of common schema; if you hear none, write that on the score, or you will not get credit.)  
+- Form (simply label it sentence, period, hybrid, or compound)
+
+To submit, please write on the score "I reaffirm the CU honor code," indicating that you have not consulted a score or other people in your transcription attempts. Then submit to your instructor by uploading it to Google Drive and sharing it with him. You may put it in notation software, export a PDF, and share that file. Or you may simply take a picture of your paper and upload that picture. Please do not upload Finale/Sibelius/etc. files unless your instructor asks for them in class, as we don't all have the same software and versions. Use PDFs instead.
+
+Also, if you did not achieve the grade you desire in the first attempt of improvisation recitations, sign up for a time on Wednesday/Thursday for a second (and final) attempt. Shaffer students can [sign up here](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). (Check your timezone first!)
+
+
 ## November 17 assignment
 
 On the [Unit II Guide](as3-unit2.html), find the audio for Haydn's string quartet, Hob. III:66, third movement. For the first 11 seconds (mm. 1–8), transcribe the four elements listed under the **Classical transcription (Unit II)** assessment information: the melody (Violin I part), the harmony (Roman numerals and figured bass), the formal structure (just label sentence/period/hybrid/compound), and label any *galant* schemata you hear.
