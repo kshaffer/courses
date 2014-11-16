@@ -14,6 +14,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 None. Please bring staff paper, a pencil, and (Shaffer section) headphones.
 
+
 ## November 19 assignment
 
 Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)). Elements completed accurately in class will receive full credit, elements completed accurately as homework will receive half credit. You may use an instrument if you like—whatever will help you figure out good strategies for fast transcription in the future. Be sure *not* to consult a score, until after you have submitted your transcription.
