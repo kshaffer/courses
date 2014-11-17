@@ -47,6 +47,18 @@ Spotify URI (copy paste this into Spotify app's search bar): spotify:track:30JaD
 Spotify browser app: [http://open.spotify.com/track/2Dyh8LMXHEv4Hxchepyubj](http://open.spotify.com/track/2Dyh8LMXHEv4Hxchepyubj)  
 Spotify URI: spotify:track:2Dyh8LMXHEv4Hxchepyubj
 
+**Beethoven, Op. 18/2, ii., mm. 1–6 (0:00–0:31). In-class practice, November 17.**
+
+Spotify browser app: [http://open.spotify.com/track/1bNdUNSthx8TPfOVHuojBZ](http://open.spotify.com/track/1bNdUNSthx8TPfOVHuojBZ)  
+Spotify URI: spotify:track:1bNdUNSthx8TPfOVHuojBZ
+
+**Mendelssohn, Op. 12 (MWV R25), iii., mm. 1–12 (0:00–0:44). Assessment, November 17, homework for Nomvember 19.**
+
+Spotify browser app: [http://open.spotify.com/track/0VuHElgzb0n7ElysCfaipo](http://open.spotify.com/track/0VuHElgzb0n7ElysCfaipo)  
+Spotify URI: spotify:track:0VuHElgzb0n7ElysCfaipo
+
+
+
 ## Concepts and assessment ##
 
 The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [syllabus]({{ root_url }}/auralskills3.html)) are divided into two categories: *classical transcription* and *classical improvisation*. They are listed below, followed by assessment criteria. Read all concept/skill objectives as "I can . . ."
