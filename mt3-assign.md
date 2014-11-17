@@ -8,6 +8,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 19 prep
+
+Listen to Mozart's piano sonata, K. 309, first movement (audio in the class shared folder in GDrive under "Sonata timelines"). Compare the harmonic and thematic structure of the exposition cycle to that of the recapitulation cycle (beginning at 4:30). Note the similarities and differences that you hear. Then fill out the following form.
+
+<iframe src="https://docs.google.com/forms/d/1y3J-mlyW9UPutr5AVb-t0cIKLU_bbw-yXR42QM2dFJE/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## November 17 prep
 
 Read the following resources on OMT:
