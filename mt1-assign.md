@@ -8,6 +8,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 20 prep
+
+We will begin class with quizzes on **triad ID**, **triad writing**, and **Roman numerals**. The RN quiz will involve writing the appropriate Roman numeral for a chord when given a key and a lead-sheet symbol.
+
+The bulk of class will explore *basso continuo* voice-leading. To prepare, please read the following:
+
+- [the "rules" predicted in class](https://docs.google.com/a/colorado.edu/document/d/1GS7moAnesc3og4YLf-NpbL4xUEt2uYiHrlXAFDTuA8c/edit?usp=sharing)  
+- [Composing in *basso continuo* style](http://openmusictheory.com/bassoContinuo.html)  
+- [Style and tendency](http://openmusictheory.com/tendency.html)
+
+Then fill out the following form.
+
+<iframe src="https://docs.google.com/forms/d/1cwdW-0CvpMicKLzAU7SRxdjNu1F_2_QNZXOcn11VZ80/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## November 18 activity
 
 Based on your knowledge of species counterpoint (two-part voice-leading), chordal structure (triads and seventh chords), and the music that you’ve performed/studied/composed…
