@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 1 prep
+
+Complete [Sonata Assessment 1](mt3-sonataAssess.html).
+
 ## November 19 prep
 
 Listen to Mozart's piano sonata, K. 309, first movement (audio in the class shared folder in GDrive under "Sonata timelines"). Compare the harmonic and thematic structure of the exposition cycle to that of the recapitulation cycle (beginning at 4:30). Note the similarities and differences that you hear. Then fill out the following form.
