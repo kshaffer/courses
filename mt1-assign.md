@@ -8,6 +8,21 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## November 18 activity
+
+Based on your knowledge of species counterpoint (two-part voice-leading), chordal structure (triads and seventh chords), and the music that you’ve performed/studied/composed…
+
+What do you predict are the core “rules” of four-part voice-leading?
+
+Keep in mind the following limitations:
+
+There will always be four voices.
+All voices will be played on the keyboard—one in the left hand, and three in the right hand.
+
+Organize the “rules” according to the five principles laid out in the [Introduction to strict voice-leading.](http://www.google.com/url?q=http%3A%2F%2Fopenmusictheory.com%2FspeciesIntro.html&sa=D&sntz=1&usg=AFQjCNH3bFlSxXogvnDUDHCQRLLBmnV8NQ)
+
+Have one person in your group serve as the "scribe," taking notes in [this Google doc.](https://docs.google.com/a/colorado.edu/document/d/1GS7moAnesc3og4YLf-NpbL4xUEt2uYiHrlXAFDTuA8c/edit?usp=sharing)
+
 ## November 18 prep
 
 This is the last day to submit regular fourth-species assignments and any Unit II reassessments. Be sure to post links to your work on the form below. If they are not posted to the form, they will not be assessed. [This video](https://vimeo.com/111704047) provides directions.
