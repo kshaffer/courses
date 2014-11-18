@@ -10,7 +10,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## December 1 prep
 
-Complete [Sonata Assessment 1](mt3-sonataAssess1.html).
+Complete [Sonata Assessment 1](materials/mt3-sonataAssess1.html).
 
 ## November 19 prep
 

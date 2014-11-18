@@ -39,7 +39,7 @@ Model analyses/assessments from previous courses.
 
 ### Assessments ###
 
-[Sonata assessment 1 (due Dec. 1)](mt3-sonataAssess1.html)  
+[Sonata assessment 1 (due Dec. 1)](materials/mt3-sonataAssess1.html)  
 
 ## Concepts ##
 
