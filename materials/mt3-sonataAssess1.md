@@ -6,7 +6,10 @@ author: Kris Shaffer
 
 ## {{ page.title }} ##
 
-Download a score and find a recording for ______ and ______.  
+Analyze the sonata structure of the following two movements (audio is in the class GDrive shared folder under [Sonata Timelines](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cLWhieUx0WTN4YUk&usp=sharing)):
+
+- [Mozart, Piano Sonata in F, K. 332, first movement](http://javanese.imslp.info/files/imglnks/usimg/1/1c/IMSLP56438-PMLP01848-Mozart_Werke_Breitkopf_Serie_20_KV332.pdf)  
+- [Haydn, Piano Sonata in G, Hob. XVI:27, first movement](http://javanese.imslp.info/files/imglnks/usimg/5/58/IMSLP00143-Haydn_-_Piano_Sonata_No_27_in_G.pdf)  
 
 After listening and studying these movements, as well as exploring the model analyses I provided to you (on the [Unit III guide]({{ root_url }}/mt3-unit3.html)), make a timeline (using Variations Audio Timeline or [paper]({{ root_url }}/materials/timeline-blank.pdf):  
 
