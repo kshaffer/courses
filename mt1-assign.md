@@ -8,6 +8,16 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 2 prep
+
+***This is the deadline for fourth-species reassessments. They must be submitted by the beginning of class.***
+
+Quizzes TBA.
+
+Please read [Tendency tones and functional harmonic dissonances](http://openmusictheory.com/tendencyTonesFunctionalDissonances.html), but only the section of *tendency tones*. Do *not* read about functional dissonances yet.
+
+Have a great break!
+
 ## November 20 prep
 
 We will begin class with quizzes on **triad ID**, **triad writing**, and **Roman numerals**. The RN quiz will involve writing the appropriate Roman numeral for a chord when given a key and a lead-sheet symbol.
