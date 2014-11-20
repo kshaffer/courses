@@ -10,7 +10,9 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## December 2 prep
 
-***This is the deadline for fourth-species reassessments. They must be submitted by the beginning of class.***
+***This is the deadline for fourth-species reassessments. They must be submitted by the beginning of class.*** Share your files with Ashley and me, and then put the sharing links in the form below.
+
+<iframe src="https://docs.google.com/forms/d/1A4JQULXR8P3yijFtb8DX3UGGzwmijlC7X9uuSlk0ygw/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
 
 Quizzes TBA.
 
