@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 3 prep
+
+First, please read the [Unit III Guide](mt3-unit3.html), if you have not done so already.
+
+Review the model analyses from [Sonata Assessment 1](materials/mt3-sonataAssess1.html) that I placed in [the class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cLWhieUx0WTN4YUk&usp=sharing) and compare them to your analyses that you submitted for the assessment. Note any differences, and review the readings (see [Unit III Guide](mt3-unit3.html)) to try and understand those differences. After that review, put any questions that remain in the form below.
+
+Lastly, listen to the Emerson Quartet's recording of Mozart's string quartet, "The Hunt," K. 458, first movement. Note when the MC and the EEC occur in the exposition, and note those timings on the form below.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:2Y4yWFqwZa0YLbGL8zVjLI" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+<iframe src="https://docs.google.com/forms/d/1UNIDdRXNWlVcvAU0gLiOYDZYl5XA-Jw5GcWVrQB8jHA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## December 1 prep
 
 Read the following:
