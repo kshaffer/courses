@@ -57,6 +57,17 @@ Spotify URI: spotify:track:1bNdUNSthx8TPfOVHuojBZ
 Spotify browser app: [http://open.spotify.com/track/0VuHElgzb0n7ElysCfaipo](http://open.spotify.com/track/0VuHElgzb0n7ElysCfaipo)  
 Spotify URI: spotify:track:0VuHElgzb0n7ElysCfaipo
 
+**Haydn, Hob. III:78, ii., mm. 1–8 (0:00–0:35). In-class practice, December 1.**
+
+Spotify browser app: [http://open.spotify.com/track/5aCJC2lP4AEpfxa6agFeZm](http://open.spotify.com/track/5aCJC2lP4AEpfxa6agFeZm)  
+Spotify URI: spotify:track:5aCJC2lP4AEpfxa6agFeZm
+
+**Mendelssohn, Op. 13, iii., mm. 1–8 (0:00–0:14). Assessment, December 1, homework for Nomvember 3.**
+
+Spotify browser app: [http://open.spotify.com/track/2PEHhdK07yRehRPHvSuXtd](http://open.spotify.com/track/2PEHhdK07yRehRPHvSuXtd)  
+Spotify URI: spotify:track:2PEHhdK07yRehRPHvSuXtd
+
+
 
 
 ## Concepts and assessment ##
