@@ -10,9 +10,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 8 assignment
+
+Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)): Mendelssohn, Op. 13, iii. or Haydn, Hob. XVI:35, iii. Follow the instructions for the Nomvember 19 assignment.
+
 ## December 3 assignment
 
-Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)): Mendelssohn, Op. 13, iii. Follow the instructions for the Nomvember 19 assignment.
+Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)): Mendelssohn, Op. 13, iii. or Haydn, Hob. XVI:35, iii. Follow the instructions for the Nomvember 19 assignment.
 
 ## December 1 prep
 

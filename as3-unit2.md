@@ -67,6 +67,15 @@ Spotify URI: spotify:track:5aCJC2lP4AEpfxa6agFeZm
 Spotify browser app: [http://open.spotify.com/track/2PEHhdK07yRehRPHvSuXtd](http://open.spotify.com/track/2PEHhdK07yRehRPHvSuXtd)  
 Spotify URI: spotify:track:2PEHhdK07yRehRPHvSuXtd
 
+**Haydn, Hob. III:77, ii., mm. 1–8 (0:00–0:28)**
+
+Spotify browser app: [http://open.spotify.com/track/0l27jdUdx1znF0RLYBn432](http://open.spotify.com/track/0l27jdUdx1znF0RLYBn432)  
+Spotify URI: spotify:track:0l27jdUdx1znF0RLYBn432
+
+**Haydn III:35, iii., mm. 1–8 (0:00–0:31)**
+
+Spotify browser app: [http://open.spotify.com/track/2TRnGdauQwWaC8xnEK08JA](http://open.spotify.com/track/2TRnGdauQwWaC8xnEK08JA)  
+Spotify URI: spotify:track:2TRnGdauQwWaC8xnEK08JA
 
 
 
