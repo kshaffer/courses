@@ -12,7 +12,7 @@ author: Kris Shaffer
 
 [Unit I: fundamentals & cognition](mt1-unit1.html) – approx. weeks 1–4  
 [Unit II: strict composition in two voices](mt1-unit2.html) – approx. weeks 5–10  
-Unit III: strict composition in four voices – approx. weeks 11–15
+[Unit III: strict composition in four voices](mt1-unit3.html) – approx. weeks 11–15
 
 ## Syllabus ##
 
@@ -81,28 +81,26 @@ Following are the *fundamentals* concepts, due by the end of Unit II. Once passe
 
 - **basso continuo** – realize (notate and perform—video) a figured bass line in four-part, *basso continuo* keyboard style. No partner. One realization in major, one in minor.  
 - **melodic keyboard style** – realize (notate and perform—video) a figured bass line in four-part, *melodic* keyboard style. No partner. One realization in major, one in minor.  
-- **unfigured basso continuo** – realize (notate and perform—video) an unfigured bass line in four-part, *basso continuo* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
-- **unfigured melodic keyboard style** – realize (notate and perform—video) an unfigured bass line in four-part, *melodic* keyboard style, according to the *rule of the octave*. No partner. One realization in major, one in minor.  
 
 *Theoretical thinking* objectives for the semester (each of the four count as a concept for final-grade purposes):
 
 - Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph, or create a video of no more than 1.5 minutes, explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.).
 
-Final grades will be determined by the number of concepts successfully passed. There are 20 *fundamentals* concepts, 8 *species counterpoint* concepts, 8 *keyboard voice-leading* concepts, and 4 *theoretical thinking* objectives. The following numbers of concepts must be passed to receive the corresponding grades:
+Final grades will be determined by the number of concepts successfully passed. There are 20 *fundamentals* concepts, 8 *species counterpoint* concepts, 4 *keyboard voice-leading* concepts, and 4 *theoretical thinking* objectives. The following numbers of concepts must be passed to receive the corresponding grades:
 
-- 39 concepts passed: A+  
-- 37 concepts passed: A  
-- 36 concepts passed: A–  
-- 34 concepts passed: B+  
-- 32 concepts passed: B  
-- 31 concepts passed: B–  
-- 29 concepts passed: C+  
-- 27 concepts passed: C  
-- 26 concepts passed: C–  
-- 24 concepts passed: D+
-- 22 concepts passed: D
-- 20 concepts passed: D–
-- 18 concepts passed: F+
+- 35 concepts passed: A+  
+- 33 concepts passed: A  
+- 32 concepts passed: A–  
+- 31 concepts passed: B+  
+- 29 concepts passed: B  
+- 28 concepts passed: B–  
+- 26 concepts passed: C+  
+- 24 concepts passed: C  
+- 23 concepts passed: C–  
+- 21 concepts passed: D+
+- 20 concepts passed: D
+- 18 concepts passed: D–
+- 16 concepts passed: F+
 
 ### Reassessment ###
 
@@ -121,7 +119,7 @@ All other required class materials (including software) will be posted or linked
 
 ### Final exam ###
 
-No required class activities will take place during finals week, only Unit III reassessments and A-level submissions.
+No required class activities will take place during finals week, only Unit III reassessments and *theoretical thinking* submissions.
 
 ### Policies ###
 
