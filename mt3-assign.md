@@ -8,6 +8,22 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 8 prep
+
+Please read the remainder of [Sonata form – exposition types](http://openmusictheory.com/SonataTheory-exposition.html).
+
+Then listen to the expositions of the following two symphonic movements. Each has a different exposition type. Which is which? (enter your answer on the form below)
+
+Haydn, Symphony 1, first movement:
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0RFNv3A6GF6iR0aPqwaCLq" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Beethoven, Piano Sonata, Op. 2/3, first movement:
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:4XY27zyWLd729jTgVoSZir" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+<iframe src="https://docs.google.com/forms/d/1jZALQLwR-amwv-7TF2p6TP2istnmA_VaNSRzhvsASeg/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## December 3 prep
 
 First, please read the [Unit III Guide](mt3-unit3.html), if you have not done so already.
