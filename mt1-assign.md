@@ -8,6 +8,31 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 3 prep
+
+Class will begin with three quiz opportunities, for the remaining five concepts:
+
+- **triad ID** or **seventh-chord ID**  
+- **triad writing** or **seventh-chord writing**  
+- **Roman numerals**
+
+Then we will explore the last remaining concept needed before assessments of *basso continuo* writing can begin: chordal dissonances.
+
+In preparation, please read the following:
+
+- The [Unit 3 Guide](mt1-unit3.html)  
+- [Tendency tones and functional harmonic dissonances](http://openmusictheory.com/tendencyTonesFunctionalDissonances.html) (the whole thing)  
+- [Introduction to musical functions](http://openmusictheory.com/functions.html)  
+- [Harmonic functions](http://openmusictheory.com/harmonicFunctions.html) (stop before "Finding the function of a chord")  
+
+Finally, attempt an answer to the following question in 1–3 sentences. (A sufficient answer will count towards one of your verbal explanations of the principles of voice-leading.)
+
+<iframe src="https://docs.google.com/forms/d/1y6Ip-qXGP2JwZofKoMk1_l9OHqO_I5gduFSx975iBjM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
+## December 2 in-class materials
+
+[Trinket exercise](https://trinket.io/music/e7d098a7ef) – basso continuo practice in E minor.
+
 ## December 2 prep
 
 ***This is the deadline for fourth-species reassessments. They must be submitted by the beginning of class.*** Share your files with Ashley and me, and then put the sharing links in the form below.
