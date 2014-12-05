@@ -10,7 +10,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## December 9 prep
 
-First, compose and perform two basso-continuo exercises. Use one figured bass line in major and one figured bass line in minor from [this sheet of example bass lines](materials/basslines.pdf). I highly recommend that you compose at the keyboard if possible, bot to solidify the sound and the feel of the chords/progressions/voice-leading and to more readily hear and feel chordal and voice-leading errors.
+First, compose and perform *at least one* basso-continuo exercise, using a bass line from [this sheet of example bass lines](materials/basslines.pdf). (If you decide to attempt two, use one figured bass line in major and one figured bass line in minor.) I highly recommend that you compose at the keyboard if possible, both to solidify the sound and the feel of the chords/progressions/voice-leading and to more readily hear and feel chordal and voice-leading errors.
 
 As with species counterpoint, upload a picture of your score *and a video of yourself performing it at the keyboard* to GDrive, and paste the links to those files in the form below. (You may also compose in Trinket, if you like, and paste the share link below.) Unlike species, you will be doing this *on your own*.
 
@@ -20,7 +20,7 @@ Tuesday's class will begin with three quiz opportunities, for the remaining five
 - **triad writing** or **seventh-chord writing**  
 - **Roman numerals**
 
-Then we will explore the last remaining keyboard-style voice-leading concept: melodic style writing. To prepare, please read [Melodic keyboard-style voice-leading](http://openmusictheory.com/melodicKeyboardStyle.html) and [Keyboard-style voice-leading schemata](http://openmusictheory.com/KBVLschemata.html).
+Then we will spend time dealing with questions/problems you all have on your basso continuo attempts. Please bring a copy of your basso continuo exercise to class.
 
 <iframe src="https://docs.google.com/forms/d/1A5b-atMCqjsVIflElQCmxbYxzb8qjrQqpmeDDBQMFCM/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
 

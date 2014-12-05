@@ -80,7 +80,6 @@ Following are the *fundamentals* concepts, due by the end of Unit II. Once passe
 *Strict voice-leading in four parts* concepts (keyboard style), due at the end of Unit III (again, major and minor versions each count as their own concept for final-grade purposes):
 
 - **basso continuo** – realize (notate and perform—video) a figured bass line in four-part, *basso continuo* keyboard style. No partner. One realization in major, one in minor.  
-- **melodic keyboard style** – realize (notate and perform—video) a figured bass line in four-part, *melodic* keyboard style. No partner. One realization in major, one in minor.  
 
 *Theoretical thinking* objectives for the semester (each of the four count as a concept for final-grade purposes):
 
@@ -88,19 +87,19 @@ Following are the *fundamentals* concepts, due by the end of Unit II. Once passe
 
 Final grades will be determined by the number of concepts successfully passed. There are 20 *fundamentals* concepts, 8 *species counterpoint* concepts, 4 *keyboard voice-leading* concepts, and 4 *theoretical thinking* objectives. The following numbers of concepts must be passed to receive the corresponding grades:
 
-- 35 concepts passed: A+  
-- 33 concepts passed: A  
-- 32 concepts passed: A–  
-- 31 concepts passed: B+  
-- 29 concepts passed: B  
-- 28 concepts passed: B–  
-- 26 concepts passed: C+  
-- 24 concepts passed: C  
-- 23 concepts passed: C–  
-- 21 concepts passed: D+
-- 20 concepts passed: D
-- 18 concepts passed: D–
-- 16 concepts passed: F+
+- 33 concepts passed: A+  
+- 31 concepts passed: A  
+- 30 concepts passed: A–  
+- 29 concepts passed: B+  
+- 27 concepts passed: B  
+- 26 concepts passed: B–  
+- 25 concepts passed: C+  
+- 23 concepts passed: C  
+- 22 concepts passed: C–  
+- 20 concepts passed: D+
+- 19 concepts passed: D
+- 17 concepts passed: D–
+- 15 concepts passed: F+
 
 ### Reassessment ###
 
