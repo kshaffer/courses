@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 10 assessment
+
+Complete [Sonata Assessment 2](materials/mt3-sonataAssess2.html).
+
 ## December 8 prep
 
 Please read the remainder of [Sonata form – exposition types](http://openmusictheory.com/SonataTheory-exposition.html).
