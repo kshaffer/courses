@@ -77,6 +77,10 @@ Spotify URI: spotify:track:0l27jdUdx1znF0RLYBn432
 Spotify browser app: [http://open.spotify.com/track/2TRnGdauQwWaC8xnEK08JA](http://open.spotify.com/track/2TRnGdauQwWaC8xnEK08JA)  
 Spotify URI: spotify:track:2TRnGdauQwWaC8xnEK08JA
 
+**Haydn III:44, ii., mm. 1–6 (0:00–0:26), homework for December 10**
+
+Spotify browser app: [http://open.spotify.com/track/2du3nOLGI00zrzjfuxTxCz](http://open.spotify.com/track/2du3nOLGI00zrzjfuxTxCz)  
+Spotify URI: spotify:track:2du3nOLGI00zrzjfuxTxCz
 
 
 ## Concepts and assessment ##
