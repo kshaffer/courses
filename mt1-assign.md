@@ -8,6 +8,19 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 11 prep
+
+Compose two basso-continuo exercises, one in major and one in minor (unless you have already passed one or both), using a bass line from [this sheet of example bass lines](materials/basslines.pdf). Do *not* use the D-major bass line that we did in class on 12/9. Follow the submission instructions for 12/9, but use this form.
+
+<iframe src="https://docs.google.com/forms/d/1yc33X4dzMb1dBx8o2ILmZgzH6dBDo-7lhKD-DhwElIA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
+Class will begin with three quiz opportunities, for the remaining five concepts:
+
+- **triad ID** or **seventh-chord ID**  
+- **triad writing** or **seventh-chord writing**  
+- **Roman numerals**
+
+
 ## December 9 prep
 
 First, compose and perform *at least one* basso-continuo exercise, using a bass line from [this sheet of example bass lines](materials/basslines.pdf). (If you decide to attempt two, use one figured bass line in major and one figured bass line in minor.) I highly recommend that you compose at the keyboard if possible, both to solidify the sound and the feel of the chords/progressions/voice-leading and to more readily hear and feel chordal and voice-leading errors.
