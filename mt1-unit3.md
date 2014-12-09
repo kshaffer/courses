@@ -23,7 +23,9 @@ All required material for this unit will be posted here as we progress through t
 [Basso continuo practice trinket – E minor](https://trinket.io/library/trinkets/e7d098a7ef) (12/2)  
 Basso continuo practice trinket – E minor, model solution  
 
+### Quiz keys
 
+[Quiz 21](materials/mt1-quiz21-key.pdf)
 
 ## Concepts and assessment
 
