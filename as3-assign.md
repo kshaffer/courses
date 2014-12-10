@@ -10,6 +10,11 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## December 12 assignment
+
+Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)): Haydn III:31, ii., mm. 1–8 (0:00–0:12). Follow the instructions for the November 19 assignment. Due by noon on Friday.
+
+
 ## December 10 assignment
 
 Please complete the transcription begun in class (audio and timings are provided on the [Unit II Guide](as3-unit2.html)): Haydn III:44, ii., mm. 1–6 (0:00–0:26). Follow the instructions for the November 19 assignment.
