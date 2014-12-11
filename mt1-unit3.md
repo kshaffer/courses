@@ -36,7 +36,14 @@ Basso continuo practice trinket – E minor, model solution
 
 *Theoretical thinking* objectives for the semester (each of the four count as a concept for final-grade purposes):
 
-- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph, create a video of no more than 1.5 minutes, explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.). You may also sign up for a 15-minute oral exam appointment in which to explain all four.
+- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph (in a Google document, not a Word/Pages/PDF file, please) *or* create a video of no more than 1.5 minutes, explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.). As a third option, you may sign up for a 15-minute oral exam appointment in which to explain all four, rather than submit four documents/videos.
 
+## Fundamentals reassessments
 
-See [syllabus](theory1.html) for end-of-unit reassessment policy.
+If after Thursday's class, Dec. 11, you have attempted but not passed one of the chordal fundamentals categories (triad ID/writing, seventh-chord ID/writing, Roman numerals), you may make videos in which to explain the not-yet-passed concept(s).
+
+TRIADS: If either of the triad concepts is not passing (ID and/or writing), make a 2-minute "triads" video in which you explain the four triad qualities in terms of their interval content and/or common scale-degree/solfège associations. Use an example of each quality type, and make sure that at least one example has a natural root, at least one has a sharp root, at least one has a flat root. At least one of your examples should be inverted. Use an instrument to play these examples as your explain them.
+
+SEVENTH CHORDS: If either of the seventh-chord concepts is not passing (ID and/or writing), make a 2-minute "seventh-chords" video in which you explain the five seventh-chord qualities in terms of their interval content and/or common scale-degree/solfège associations. Use an example of each quality type, and make sure that at least one example has a natural root, at least one has a sharp root, at least one has a flat root. At least two of your examples should be inverted. Use an instrument to play these examples as your explain them.
+
+ROMAN NUMERALS: If you are not passing the Roman numerals concept, make a 2-minute video explaining the concept of Roman numeral designation. What aspects of a chord does a Roman numeral signify? How do you determine the Roman numeral of a particular chord? Give at least four examples, played at an instrument. Be sure to have a mixture of chord qualities, roots, and major/minor keys in your examples.

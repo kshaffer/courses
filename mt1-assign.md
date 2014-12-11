@@ -8,6 +8,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Finals week
+
+All of the following are due by **Wednesday, Dec. 17, 8am.** If you take the oral exam option for *theoretical thinking*, those will take place on Monday and Tuesday, Dec. 15–16.
+
+- Basso continuo final attempts (new figured basslines forthcoming)  
+- Fundamentals reassessments: triads, seventh chords, Roman numerals  
+- *Theoretical thinking* assessments
+
+See the [Unit III Guide](mt1-unit3.html) for details on all of these. If submitting materials, upload to Google Drive, per the usual procedure, and paste the sharing links below. (You can submit materials more than once, whenever you finish each part.)
+
+<iframe src="https://docs.google.com/forms/d/1lVTVGxG7FTwXxAv4mX2EMHT9vh_a785J7HEj0tZZmjs/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><br/>
+
 ## December 11 prep
 
 Compose two basso-continuo exercises, one in major and one in minor (unless you have already passed one or both), using a bass line from [this sheet of example bass lines](materials/basslines.pdf). Do *not* use the D-major bass line that we did in class on 12/9. Follow the submission instructions for 12/9, but use this form.
