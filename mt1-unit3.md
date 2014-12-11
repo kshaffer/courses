@@ -36,7 +36,7 @@ Basso continuo practice trinket – E minor, model solution
 
 *Theoretical thinking* objectives for the semester (each of the four count as a concept for final-grade purposes):
 
-- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph, or create a video of no more than 1.5 minutes, explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.).
+- Choose four voice-leading principles (two from strict two-voice composition, two from strict four-voice composition). For each one, write no more than a paragraph, create a video of no more than 1.5 minutes, explaining how that principle relates to one or more concepts of music perception and cognition, and compare/contrast that relationship to a pattern/rule/principle in a free musical style (classical keyboard, opera, choral, pop/rock, etc.). You may also sign up for a 15-minute oral exam appointment in which to explain all four.
 
 
 See [syllabus](theory1.html) for end-of-unit reassessment policy.
