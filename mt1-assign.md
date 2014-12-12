@@ -12,7 +12,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 All of the following are due by **Wednesday, Dec. 17, 8am.** If you take the oral exam option for *theoretical thinking*, those will take place on Monday and Tuesday, Dec. 15–16.
 
-- Basso continuo final attempts (new figured basslines forthcoming)  
+- Basso continuo final attempts (please use basslines from [this new collection](materials/basslines-2.pdf))  
 - Fundamentals reassessments: triads, seventh chords, Roman numerals  
 - *Theoretical thinking* assessments
 
