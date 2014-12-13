@@ -10,7 +10,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## Finals week
 
-All of the following are due by **Wednesday, Dec. 17, 8am.** If you take the oral exam option for *theoretical thinking*, those will take place on Monday and Tuesday, Dec. 15–16.
+All of the following are due by **Wednesday, Dec. 17, 8am.** If you take the oral exam option for *theoretical thinking*, those will take place on Monday and Tuesday, Dec. 15–16. (If electing an oral exam, please [sign up here](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). *Be sure that your time zone is on Mountain Standard Time when you choose your time slot!*)
 
 - Basso continuo final attempts (please use basslines from [this new collection](materials/basslines-2.pdf))  
 - Fundamentals reassessments: triads, seventh chords, Roman numerals  

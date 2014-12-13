@@ -8,6 +8,10 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Final project
+
+See the [Unit III Guide](mt3-unit3.html) for details. Projects are due by **Wednesday, December 17, 8am.**
+
 ## December 10 assessment
 
 Complete [Sonata Assessment 2](materials/mt3-sonataAssess2.html).

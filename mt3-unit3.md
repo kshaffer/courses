@@ -71,16 +71,19 @@ Regular assessments will cover the first four concepts. An end-of-unit project w
 
 Of course, if you are happy with your unit (and therefore semester) grade after the last regular assessment, you are free to skip the final project.
 
-All end-of-unit projects must be received by **Tuesday, December 16, 8am.** Upload your materials to Google Drive and share them with kris.shaffer@colorado.edu by that time.
+All end-of-unit projects must be received by **Wednesday, December 17, 8am.** Upload your materials to Google Drive and share them with kris.shaffer@colorado.edu by that time. (If electing an oral exam, please [sign up here](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). *Be sure that your time zone is on Mountain Standard Time when you choose your time slot!*)
+
 
 ### Option 1
 
-I will provide two different analyses of a single, relatively ambiguous sonata movement. Write a short paper (800 words maximum), produce a short video (5 minutes maximum), or sign up for a 15-minute oral exam. In your paper/video/exam, explain in detail which analysis you think makes more musical sense and why. You are also free to pick and choose elements from each analysis that you prefer.
+Consult the two timelines uploaded into the class shared folder on Google Drive for [Mozart's "Haffner" symphony.](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cSzRkaEdPdlNKR2M&usp=sharing) Decide which of the two timelines you think makes the most musical and/or theoretical sense — or which parts of each should be combined into a single timeline that makes better sense than these two. 
+
+Write a short paper (800 words maximum), produce a short video (5 minutes maximum), or sign up for a 15-minute oral exam. In your paper/video/exam, explain in detail which analysis you think makes more musical sense and why. You are also free to pick and choose elements from each analysis that you prefer.
 
 ### Option 2
 
 Please do the following: 
 
-- Find a sonata-form movement with complex or ambiguous features.  
+- Find a sonata-form movement with complex or ambiguous features. If you don't know where to find a piece, try the first movements of Beethoven's first or second symphony.  
 - Produce a timeline (paper or digital) accurately labeling all 4 conceptual elements in that movement.  
 - Write a short paper (800 words maximum) or produce a short video (5 minutes maximum), produce a short video (5 minutes maximum), or sign up for a 15-minute oral exam. In your paper/video/exam, explain ambiguous elements in the movement—either the thought process that went into choosing the labels you chose on your timeline for ambiguous passages, or explaining the musical significance of complex elements that resisted clear timeline labels.
