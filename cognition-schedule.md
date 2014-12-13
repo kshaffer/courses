@@ -6,6 +6,16 @@ author: Kris Shaffer
 
 # {{ page.title }}
 
+## Finals week
+
+Please upload your final post or "expanded synthesis" to the class blog by **Wednesday, Dec. 17, 8am.** Also by Wednesday morning, please email me a brief summary of your project work. This need only be a copy of the following list with links to your materials that support it:
+
+- blog posts published (2–3)  
+- class discussions led (2)  
+- comments left on others' posts (tweets are also fine) (at least 2)  
+
+This will help me make sure I don't miss anything as I submit final grades. More importantly, it will help you make sure that you've done everything that is required for the grade you want. (See the [syllabus](cognition.html) for grade details, as we decided in class on October 31.) Let me know if you have any questions!
+
 ## November 14 prep
 
 If you are on the schedule to lead discussion this week (LE, LS, TK, JJ, MA), please complete your write-up and submit it into the class WordPress website or the Google Drive folder by **Wednesday, 10am.** Then be prepared to lead discussion for 25–30 minutes of class. This can begin with a brief introduction on your part, or a response to comments left on your write-up, but otherwise it should be open for full-class discussion.
