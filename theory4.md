@@ -4,7 +4,7 @@ title: Semester 4 Theory (MUSC 2111)
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./theory4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./mt4-writing.html">writing</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./mt4-assign.html">prep & schedule</a></div><br/>
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./theory4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./mt4-writing.html">writing</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./mt4-assign.html">prep & schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
 
 # {{ page.title }}
 
@@ -28,7 +28,51 @@ This semester, we will engage music in two genres: *German Lieder* (art songs fr
 
 Coursework this semester will come in several forms. In-class activities will be mostly ungraded and will include small- and large-group discussions, musical analysis, instructor demonstrations and lectures, and occasional quizzes. Out-of-class activities will primarily include reading and private exploration of pieces of music in preparation for class activities, and written work. Assessed writing in this class will take five forms: Twitter essays, blog posts, comments on colleagues' blog posts, Wikipedia edits, and academic papers. Details on each are provided on [Writing assignments for Semester 4 Theory](mt4-writing.html).
 
+## Assessment
 
+Students will receive letter grades for three categories: *Lieder*, *Post-Tonal Music*, and *Writing*. The final semester grade will be the median of those three grades, or one letter grade higher than the lowest category grade, whichever is lower. For example, a student who wants a B must have a median category grade of a B, and no category grade lower than a C.
+
+*Lieder* and *Post-tonal* categories will be determined by students demonstrating analytical ability in reference to the following musical elements in each style. Demonstrating that ability *in two or more quizzes or writing assignments* will constitute passing.
+
+- pitch structures (melody, harmony, motives, sets, rows, etc.)  
+- rhythmic & metric structures  
+- formal structures  
+- "secondary" parameters (dynamics, articulation, orchstration, register, etc.)  
+- relationship of musical structure to extramusical elements (text, dance, liturgical significance, historical context, etc.)
+
+Passing 5 of these elements will constitute an A for the category, 4 a B, 3 a C, 2 a D, 0–1 an F.
+
+The *writing* category grade will be determined by the number of written assignments passed (see [writing assignments page](mt4-writing.html) for passing standards) by their respective deadlines. Students are asked to write 3 Twitter essays, 1 blog post, 1 academic paper, 2 group Wikipedia edits, and comments on 3 classmates' blog posts: total of 10 written assignments.
+
+Writing grades are determined as follows:
+
+- A: 10 assignments passed  
+- A–: 9 assignments passed  
+- B: 8 assignments passed  
+- B–: 7 assignments passed  
+- C: 6 assignments passed  
+- C–: 5 assignments passed  
+- D: 4 assignments passed  
+- D–: 3 assignments passed  
+- F: 0–2 assignments passed
+
+Graded work will come in two forms: 
+
+- brief in-class quizzes (open-note, usually with questions distributed in advance)  
+- [writing assignments](mt4-writing.html)
+
+Each quiz and writing assignment will provide students opportunity to demonstrate mastery of one or more (usually more) of the assessment objectives. Since the musical structural concepts can be passed on either quizzes or written assignments, some students may aim to pass them early on quizzes, in order to free up their writing topics. Others may simply use the quizzes as practice exercises to focus their thinking, as they prepare to more fully demonstrate their knowledge on the written assignments. Any strategy that meets the standards laid out is fine. Please feel free to consult with me outside of class to discuss study strategies that will help you learn best and achieve the desired final grade.
+
+## Course materials
+
+### Required
+
+- A web-enabled device that can be brought to most class meetings (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
+- A free Google account *using your CU Identikey*.  
+- [*Open Music Theory*](http://openmusictheory.com) – our online textbook, access is free  
+- [The LiederNet Archive](http://www.recmusic.org/lieder/) – a free source of texts to German Lieder, as well as translations to English and other languages
+
+All other required class materials will be posted or linked to on the course site.
 
 ## General course information
 
@@ -41,16 +85,6 @@ Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)
 Office: MUS N138  
 Office hours: by appointment, Monday–Thursday  
 Course website: [courses.shaffermusic.com/theory4.html](http://courses.shaffermusic.com/theory4.html)  
-
-## Course materials
-
-### Required
-
-- A web-enabled device that can be brought to most class meetings (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
-- A free Google account *using your CU Identikey*.  
-- [*Open Music Theory*](http://openmusictheory.com) – our online textbook, access is free  
-
-All other required class materials will be posted or linked to on the course site.
 
 ## Policies
 
