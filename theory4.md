@@ -38,7 +38,8 @@ Prepare for class with one or more of the following:
 - a piece of music to explore  
 - questions to answer in light of the reading/piece in advance of an in-class quiz  
 - Twitter essay due (4–5 students)  
-- blog post due (3–4 students)
+- blog post due (3–4 students)  
+- blog post revisions due (3–4 students)  
 
 In-class activities:
 
