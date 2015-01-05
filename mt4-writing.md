@@ -36,7 +36,7 @@ When writing blog posts, do the following:
 3. Gather supporting data/evidence in support of that insight.  
 4. Compose a blog post that explains your insight using some or all of your supporting evidence.  
 5. Write in clear prose that is generally gramatically correct and logically organized. However, you must also *break at least one rule* of good writing that you have learned in the past, or *use at least one novel feature of web-based writing that is unavailable in print*. Do so in the service of communicating your insight more effectively. For example, you can embed a Spotify audio track or a YouTube video. You can alternate between normal and backwards/upside-down text to make a point about symmetry in the musical structure. Incomplete sentences. (See what I did there?) Mixing languages. Something that pushes the boundaries of traditional writing in the way that the poets and composers we discuss push the boundaries of poetic and musical structure.  
-6. Write your blog post in a Google Doc. Note whether you'd like to post to have your name, a pseudonym, or "Anonymous" listed.  
+6. Write your blog post in a Google Doc. Note whether you'd like the post to have your name, a pseudonym, or "Anonymous" listed.  
 7. Share the Google Doc with kris.shaffer@colorado.edu with editing privileges.  
 8. Copy and paste the document's sharing link [on this form](https://docs.google.com/a/colorado.edu/forms/d/12WTuz0BdPyfmLnJb5O3bjpehE2QIc7HHZCgoGa8BsX4/viewform?usp=send_form).
 

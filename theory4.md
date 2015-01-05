@@ -28,6 +28,42 @@ This semester, we will engage music in two genres: *German Lieder* (art songs fr
 
 Coursework this semester will come in several forms. In-class activities will be mostly ungraded and will include small- and large-group discussions, musical analysis, instructor demonstrations and lectures, and occasional quizzes. Out-of-class activities will primarily include reading and private exploration of pieces of music in preparation for class activities, and written work. Assessed writing in this class will take five forms: Twitter essays, blog posts, comments on colleagues' blog posts, Wikipedia edits, and academic papers. Details on each are provided on [Writing assignments for Semester 4 Theory](mt4-writing.html).
 
+## Typical weekly schedule
+
+### First meeting (Monday/Tuesday)
+
+Prepare for class with one or more of the following:
+
+- a reading  
+- a piece of music to explore  
+- questions to answer in light of the reading/piece in advance of an in-class quiz  
+- Twitter essay due (4–5 students)  
+- blog post due (3–4 students)
+
+In-class activities:
+
+- evaluate Twitter essays  
+- short electronic quiz based on assigned reading/music  
+- discussion and/or analytical work  
+- possibly a short lecture  
+
+### Second meeting (Wednesday/Thursday)
+
+Prepare for class with one or more of the following:
+
+- follow-up analysis from Monday/Tuesday's activity  
+- read any class blog posts published on Monday  
+- blog comments due (9–12 students)  
+- Wikipedia edits due (1 group of 4–5 students)  
+- Twitter essay due (4–5 students)  
+
+In-class activities:
+
+- evaluate Twitter essays  
+- Wikipedia editing group presentation  
+- discussion and/or analytical work  
+- possibly a short lecture  
+
 ## Assessment
 
 Students will receive letter grades for three categories: *Lieder*, *Post-Tonal Music*, and *Writing*. The final semester grade will be the median of those three grades, or one letter grade higher than the lowest category grade, whichever is lower. For example, a student who wants a B must have a median category grade of a B, and no category grade lower than a C.
@@ -61,7 +97,7 @@ Graded work will come in two forms:
 - brief in-class quizzes (open-note, usually with questions distributed in advance)  
 - [writing assignments](mt4-writing.html)
 
-Each quiz and writing assignment will provide students opportunity to demonstrate mastery of one or more (usually more) of the assessment objectives. Since the musical structural concepts can be passed on either quizzes or written assignments, some students may aim to pass them early on quizzes, in order to free up their writing topics. Others may simply use the quizzes as practice exercises to focus their thinking, as they prepare to more fully demonstrate their knowledge on the written assignments. Any strategy that meets the standards laid out is fine. Please feel free to consult with me outside of class to discuss study strategies that will help you learn best and achieve the desired final grade.
+Each quiz and writing assignment will provide students opportunity to demonstrate mastery of one or more (usually more) of the assessment objectives.
 
 ## Course materials
 
