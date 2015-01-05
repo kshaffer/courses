@@ -107,7 +107,8 @@ Each quiz and writing assignment will provide students opportunity to demonstrat
 - A web-enabled device that can be brought to most class meetings (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
 - A free Google account *using your CU Identikey*.  
 - [*Open Music Theory*](http://openmusictheory.com) – our online textbook, access is free  
-- [The LiederNet Archive](http://www.recmusic.org/lieder/) – a free source of texts to German Lieder, as well as translations to English and other languages
+- [The LiederNet Archive](http://www.recmusic.org/lieder/) – a free source of texts to German Lieder, as well as translations to English and other languages  
+- Optional: a Twitter account
 
 All other required class materials will be posted or linked to on the course site.
 
