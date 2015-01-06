@@ -4,7 +4,7 @@ title: Unit I&#58; Modulation and tonal harmony (Aural Skills IV)
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit1.html">unit 1 guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit1.html">unit i guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
 
 # Unit I: Modulation and tonal harmony #
 
@@ -18,7 +18,8 @@ The following materials will be assigned or may supplement assigned materials in
 
 - [Introduction to musical functions](http://openmusictheory.com/functions.html).  
 - [Harmonic functions](http://openmusictheory.com/harmonicFunctions.html).  
-- [Harmonic syntax](http://openmusictheory.com/harmonicSyntax.html).  
+- [Harmonic syntax – the idealized phrase](http://openmusictheory.com/harmonicSyntax1.html).  
+- [Harmonic syntax – prolongation](http://openmusictheory.com/harmonicSyntax2.html).  
 - [Performing a harmonic analysis](http://openmusictheory.com/harmonicAnalysis.html).  
 - [Classical cadence types](http://openmusictheory.com/cadenceTypes.html).  
 - [Generating Roman numerals from a figured bass line](http://openmusictheory.com/RNfromFB.html).  
