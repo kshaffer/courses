@@ -12,7 +12,7 @@ Unit II will comprise an introduction to the performance and aural recognition o
 
 ## Materials ##
 
-The following materials will be assigned or may supplement assigned materials in order to help you meet the goals outlined under *Concepts and assessment*, most of which can be found on [*Open Music Theory](http://openmusictheory.com) (which also contains helpful review materials). This list will grow throughout the unit as new resources are created or assigned.
+The following materials will be assigned or may supplement assigned materials in order to help you meet the goals outlined under *Concepts and assessment*, most of which can be found on [*Open Music Theory*](http://openmusictheory.com) (which also contains helpful review materials). This list will grow throughout the unit as new resources are created or assigned.
 
 [To be added.]
 
