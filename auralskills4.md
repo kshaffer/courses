@@ -8,10 +8,14 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
-## Unit guides ##
+## Unit guides & resources
 
 [Unit I: modulation and tonal harmony](as4-unit1.html)  
 [Unit II: introduction to post-tonal music](as4-unit2.html)
+
+[*Open Music Theory*](http://openmusictheory.com)  
+[The Internet Music Score Library Project](http://www.imslp.org)  
+[Shared resources on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)
 
 ## Syllabus ##
 
