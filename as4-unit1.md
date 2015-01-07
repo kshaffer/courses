@@ -44,6 +44,7 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 **Modulation (Unit I)**
 
+- perform a modulating melody with preparation (sung with solfège) – 1x  
 - perform a modulating melody from sight (sung with solfège) – 1x  
 - perform a modulating melody from sight (instrument of choice) – 1x  
 - transcribe/dictate a modulating melody quickly, without an instrument (take-home and/or *with* an instrument qualifies for half-credit) – 2x  
