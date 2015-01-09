@@ -67,7 +67,7 @@ In-class activities:
 
 ## Assessment
 
-Students will receive letter grades for three categories: *Lieder*, *Post-Tonal Music*, and *Writing*. The final semester grade will be the median of those three grades, or one letter grade higher than the lowest category grade, whichever is lower. For example, a student who wants a B must have a median category grade of a B, and no category grade lower than a C.
+Students will receive letter grades for three categories: *Lieder*, *Post-Tonal Music*, and *Writing*. 
 
 *Lieder* and *Post-tonal* categories will be determined by students demonstrating analytical ability in reference to the following musical elements in each style. Demonstrating that ability *in two or more quizzes or writing assignments* will constitute passing.
 
@@ -99,6 +99,15 @@ Graded work will come in two forms:
 - [writing assignments](mt4-writing.html)
 
 Each quiz and writing assignment will provide students opportunity to demonstrate mastery of one or more (usually more) of the assessment objectives.
+
+**A student's overall grade at the end of the semester will be the median of all unit grades, or one letter grade higher than the lowest unit grade — whichever is lower.**
+
+Examples:
+
+To receive a final grade of A, a student needs a median grade of A for the three unit grades, and nothing lower than a B. So A A A, or A A B for the three unit grades would resuli in a final grade of A.
+
+To receive a final grade of B, a student needs a median unit grade of B, and nothing lower than a C. So unit grades of A B B, A B C, B B B, or B B C would result in a final grade of B.
+
 
 ## Course materials
 

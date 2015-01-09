@@ -15,7 +15,7 @@ author: Kris Shaffer
 
 [*Open Music Theory*](http://openmusictheory.com)  
 [The Internet Music Score Library Project](http://www.imslp.org)  
-[Shared resources on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)
+[Shared resources on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing) (requires class registration and a CU login)
 
 ## Syllabus ##
 
@@ -57,7 +57,13 @@ A student’s letter grade for a given category is determined by the number of t
 
 Generally, students will be given multiple opportunities during each unit to demonstrate mastery of each concept, and only their performance on the *most recent* assessment attempt(s) will count towards the unit grade. More details are provided in the unit guides.
 
-A student's overall grade at the end of the semester will be the median of all unit grades, or one letter grade higher than the lowest unit grade — whichever is lower.
+**A student's overall grade at the end of the semester will be the median of all unit grades, or one letter grade higher than the lowest unit grade — whichever is lower.**
+
+Examples:
+
+To receive a final grade of A, a student needs a median grade of A for the three unit grades, and nothing lower than a B. So A A A, or A A B for the three unit grades would resuli in a final grade of A.
+
+To receive a final grade of B, a student needs a median unit grade of B, and nothing lower than a C. So unit grades of A B B, A B C, B B B, or B B C would result in a final grade of B.
 
 ## Reassessment
 
