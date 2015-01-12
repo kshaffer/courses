@@ -4,7 +4,7 @@ title: Semester 4 Theory (MUSC 2111)
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./theory4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./mt4-writing.html">writing</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./mt4-assign.html">prep & schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./theory4.html">syllabus</a>&nbsp;&nbsp;&nbsp;<a href="./mt4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;<a href="./mt4-writing.html">writing</a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/CUBoulderTheory">twitter</a>&nbsp;&nbsp;&nbsp;<a href="http://cubouldertheory.shaffermusic.com">blog</a></div><br/>
 
 # {{ page.title }}
 
