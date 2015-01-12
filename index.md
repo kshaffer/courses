@@ -7,7 +7,7 @@ author: Kris Shaffer
 ## Course syllabus, policies, unit guides ##
 
 [Music Theory IV (MUSC 2111)](theory4.html)  
-[Aural Skills IV (MUSC 2131)](auralskills4.html) (not yet posted)
+[Aural Skills IV (MUSC 2131)](auralskills4.html)
 
 ## Past courses ##
 
