@@ -17,6 +17,8 @@ Please read the following:
 - [Analyzing poetry](http://openmusictheory.com/analyzingPoetry.html) on *Open Music Theory*, a short but helpful guide by Jonathan Sircy, English professor at my former institution.  
 - [The Twitter Essay](http://www.hybridpedagogy.com/journal/the-twitter-essay/), an introduction to what we'll be doing with Twitter this semester, by Jesse Stommel.
 
+Then take a stab at completing a Twitter essay (by yourself or with your group from class) that sums up, exemplifies, or engages something from Monday's/Tuesday's class. Use the hashtags #TwitterEssay and #poetry in your Twitter essay. You can bring them to class on paper, in the Google Doc we worked in during class, or you can tweet them from your own account.
+
 Optional: You may be interested in reading/listening to Jonathan's new article in the journal *Hybrid Pedagogy*: [Faithful Listening.](http://www.hybridpedagogy.com/journal/faithful-listening/) It may be a helpful guide to engaging texts and texted music this semester, as well as an insight into what your professors are (and aren't) doing when they grade your written work. :)
 
 ## Prep for January 14/15
