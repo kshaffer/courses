@@ -17,3 +17,9 @@ Please read the [syllabus](auralskills4.html) and [unit 1 guide](as4-unit1.html)
 Also, please read [Chapter 67 of Gary Karpinski's *Manual for Ear-Training and Sight-Singing*](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cTUhxVnFjNzVTV3c/view?usp=sharing) (located in the [class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)).
 
 Finally, bring your primary instrument to class (unless it is piano or something else difficult to travel with).
+
+## Prep for January 20/21 (Tuesday/Wednesday)
+
+Please read [Chapter 68 of Gary Karpinski's *Manual for Ear-Training and Sight-Singing*](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cWDJMTWhkc1pkUVE/view?usp=sharing) (located in the [class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)). 
+
+Also, please print and bring the Karpinski *Anthology* melodies from Chapters 69 & 70 (in the same [Google Drive folder](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)) — or download them to a device that you can read off of during class while singing and/or playing your instrument. Keep these with you for the next few class meetings.
