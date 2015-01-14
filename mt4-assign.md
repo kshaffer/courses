@@ -10,6 +10,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for January 20/21 (Tuesday/Wednesday)
+
+Please read [Analyzing poetry](http://openmusictheory.com/analyzingPoetry.html) on *Open Music Theory*, a short but helpful guide by Jonathan Sircy, English professor at my former institution.
+
+Optional: You may be interested in reading/listening to Jonathan's new article in the journal *Hybrid Pedagogy*: ["Faithful Listening."](http://www.hybridpedagogy.com/journal/faithful-listening/) It may be a helpful guide to engaging texts and texted music this semester, as well as an insight into what your professors are (and aren't) doing when they grade your written work. :)
+
 ## Prep for January 14/15
 
 Please read the [syllabus](theory4.html) and [writing guide](mt4-writing.html), and bring any questions you have about them to class on Wednesday/Thursday.
