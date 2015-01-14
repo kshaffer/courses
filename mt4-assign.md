@@ -13,6 +13,7 @@ Find assignments under the class date in which the assignment is due. They are i
 ## Prep for January 20/21 (Tuesday/Wednesday)
 
 Please read the following:  
+
 - [Analyzing poetry](http://openmusictheory.com/analyzingPoetry.html) on *Open Music Theory*, a short but helpful guide by Jonathan Sircy, English professor at my former institution.  
 - [The Twitter Essay](http://www.hybridpedagogy.com/journal/the-twitter-essay/), an introduction to what we'll be doing with Twitter this semester, by Jesse Stommel.
 
