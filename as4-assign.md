@@ -18,7 +18,7 @@ Then download and print a [score to Schubert's song, "Erlkönig,"](http://petruc
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/C3nxyS8wf8E" frameborder="0" allowfullscreen></iframe><br/>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0WqZHSdYtsoKtwec6riotc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0WqZHSdYtsoKtwec6riotc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 Spotify URI: spotify:track:0WqZHSdYtsoKtwec6riotc  
 Spotify web player URL: http://open.spotify.com/track/0WqZHSdYtsoKtwec6riotc
