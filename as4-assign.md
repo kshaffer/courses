@@ -10,6 +10,19 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for January 26/27
+
+Please read [Chapter 69]() and [Chapter 70]() of Gary Karpinski's *Manual for Ear-Training and Sight-Singing* (located in the [class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)).
+
+Then download and print a [score to Schubert's song, "Erlkönig,"](http://petrucci.mus.auth.gr/imglnks/usimg/7/7c/IMSLP15041-SchubertD328_Erlk__nig_4th_version.pdf) and listen to a recording (two are provided below). Mark every modulation you hear on your score. Remember that a modulation requires a *cadence* in a new key, so analyzing cadences would be a good place to start. You are welcome to do this work with one or two partners. 
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/C3nxyS8wf8E" frameborder="0" allowfullscreen></iframe><br/>
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0WqZHSdYtsoKtwec6riotc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Spotify URI: spotify:track:0WqZHSdYtsoKtwec6riotc  
+Spotify web player URL: http://open.spotify.com/track/0WqZHSdYtsoKtwec6riotc
+
 ## Prep for January 20/21 (Tuesday/Wednesday)
 
 Please read [Chapter 68 of Gary Karpinski's *Manual for Ear-Training and Sight-Singing*](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cWDJMTWhkc1pkUVE/view?usp=sharing) (located in the [class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)). 
