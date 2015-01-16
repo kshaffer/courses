@@ -10,6 +10,29 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for January 26/27
+
+Consult the class writing schedule (link forthcoming). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission forms linked there. Possible topics include "Gretchen am Spinnrade," the general nature of poetry, and basic ideas on the setting of poetry to music.
+
+Everyone, please read the following resources before class, and have them accessible (print, tablet, laptop, etc.) in class:
+
+- Brooklyn College's [Introduction to Romanticism](http://academic.brooklyn.cuny.edu/english/melani/cs6/rom.html)  
+- Vanier College's resource on [Poetry's language](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poetry-language.pdf)  
+- Vanier College's resource on [Poetry's structure and form](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf)
+
+
+## Class materials for January 20–22
+
+[Score for Franz Schubert's "Gretchen am Spinnrade"](http://petrucci.mus.auth.gr/imglnks/usimg/c/ce/IMSLP13971-SchubertD118_Gretchen_Am_Spinnrade.pdf)  
+[Text with English translation](http://www.recmusic.org/lieder/get_text.html?TextId=17757)  
+
+Recording:
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:03u8vygMYS4suMCPEaIPpV" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+Spotify web player: http://open.spotify.com/track/03u8vygMYS4suMCPEaIPpV  
+Spotify app URI: spotify:track:03u8vygMYS4suMCPEaIPpV
+
 ## Prep for January 20/21 (Tuesday/Wednesday)
 
 Please read the following:  
