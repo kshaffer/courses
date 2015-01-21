@@ -119,6 +119,8 @@ Mine, Storify, and analyze tweets from #Ferguson, making sure to include @deray,
 
 In this unit, which will comprise the final 6 weeks of the semester, students will choose a single event or movement to document or critique. This will be an ongoing or a recent event. The class will collaborate on building a web-based resource on the movement, using the media of the movement to document the movement. This website will consist of Twitter archives, podcasts, videos, photo essays, descriptive blog posts (historical or journalistic in style), editorial writings, and/or other media chosen by the class as appropriate for the movement. While not every student need produce material of every type, every student will engage multiple media in their work. Details will be decided by class consensus, under the guidance of the instructor.
 
+For an example of the kind of project we might do, see Pete Rorabaugh's [Occupy Class](http://occupyclass.org) at Georgia State University.
+
 ## Assessment
 
 The most important and interesting aspects of learning—especially at the graduate level—are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do, and *absolutely detrimental* to a class like this one.
