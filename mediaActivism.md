@@ -10,7 +10,7 @@ author: Kris Shaffer, Ph.D.
 
 This course examines theoretical approaches to social change while students design alternative media strategies for their Masters’ project. Students also analyze the tactical potentials of various media including smart phones, podcasting, video gaming and flash mob activism. This participatory and discussion-oriented course explores the politics of media activism: its tactics, its strategies and its goals. The course relies on both a survey of the existing theory and scholarship on media activism, as well as close analyses of actual activist practices within both old and new media and on a local, national and global scale. Special attention will be paid to questions of creativity and efficacy, addressing questions concerning the value of media activism as both an aesthetic and political activity.
 
-## Syllabus
+## Overview
 
 When announcing that there would be no indictment of Darren Wilson after the shooting of Michael Brown, St. Louis prosecutor Bob McCulloch stated:
 
