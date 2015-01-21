@@ -12,7 +12,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## Prep for January 26/27
 
-Consult the class writing schedule (link forthcoming). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission forms linked there. Possible topics include "Gretchen am Spinnrade," the general nature of poetry, and basic ideas on the setting of poetry to music.
+Consult the class writing schedule (link forthcoming). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission forms linked there. Possible topics include "Gretchen am Spinnrade," the general nature of poetry, and basic ideas on the setting of poetry to music. ***Say as much as you can within the 140-character constraint.*** Use each character, word, hashtag strategically. There is no need for filler. On the contrary, the delete button will be your friend.
 
 Everyone, please read the following resources before class, and have them accessible (print, tablet, laptop, etc.) in class:
 
