@@ -23,6 +23,8 @@ Everyone, please read the following resources before class, and have them access
 
 ## Class materials for January 20–22
 
+Class notes are in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing).
+
 [Score for Franz Schubert's "Gretchen am Spinnrade"](http://petrucci.mus.auth.gr/imglnks/usimg/c/ce/IMSLP13971-SchubertD118_Gretchen_Am_Spinnrade.pdf)  
 [Text with English translation](http://www.recmusic.org/lieder/get_text.html?TextId=17757)  
 
