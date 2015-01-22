@@ -71,14 +71,7 @@ Clay Shirky, ["How Cognitive Surplus Will Change the World"](http://www.ted.com/
 ***Excerpt from Shirky's Here Comes Everybody?***
 
 
-#### Week 4: Hashtag Activism
-
-Suey Park and Eunsong Kim, ["Hashtags as Decolonial Projects with Radical Origins"](https://modelviewculture.com/pieces/hashtags-as-decolonial-projects-with-radical-origins)
-
-Sophia Seawell, ["#NotYourAsianSidekick: Rethinking Protest Spaces and Tactics"](http://www.hastac.org/blogs/sseawell/2014/03/12/notyourasiansidekick-rethinking-protest-spaces-and-tactics)
-
-
-#### Week 5: Attention Economy
+#### Week 4: Attention Economy
 
 Zeynep Tufekci, ["'Not This One': Social Movements, the Attention Economy, and Microcelebrity Networked Activism"](https://www.academia.edu/3136872/_Not_This_One_Social_Movements_the_Attention_Economy_and_Microcelebrity_Networked_Activism)
 
@@ -88,6 +81,13 @@ Zeynep Tufekci, ["What Happens to #Ferguson Affects Ferguson:
 Net Neutrality, Algorithmic Filtering and Ferguson"](https://medium.com/message/ferguson-is-also-a-net-neutrality-issue-6d2f3db51eb0)
 
 Bonnie Stewart, ["Networks of Care and Vulnerability"](http://theory.cribchronicles.com/2014/11/04/networks-of-care-and-vulnerability/)
+
+
+#### Week 5: Hashtag Activism
+
+Suey Park and Eunsong Kim, ["Hashtags as Decolonial Projects with Radical Origins"](https://modelviewculture.com/pieces/hashtags-as-decolonial-projects-with-radical-origins)
+
+Sophia Seawell, ["#NotYourAsianSidekick: Rethinking Protest Spaces and Tactics"](http://www.hastac.org/blogs/sseawell/2014/03/12/notyourasiansidekick-rethinking-protest-spaces-and-tactics)
 
 
 #### Week 6: Visibility and Safety
