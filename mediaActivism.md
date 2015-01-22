@@ -50,6 +50,8 @@ Charlotte Frost, ["Hashtag Classroom"](http://www.hybridpedagogy.com/journal/has
 
 Chris Long, ["The Art of Live-Tweeting"](http://www.cplong.org/2013/09/the-art-of-live-tweeting/)
 
+Clay Shirky, Chapter 2: "Sharing Anchors Community," from [*Here Comes Everybody*](https://openlibrary.org/works/OL3085104W/Here_comes_everybody)
+
 
 #### Week 2: Social Writing
 
@@ -58,6 +60,8 @@ Jesse Stommel, ["The Twitter Essay"](http://www.hybridpedagogy.com/journal/the-t
 Jesse Stommel, ["What Is Good Writing? A Meditation on Breaking Rules and Grammar Pedagogy"](http://learning.instructure.com/2014/06/what-is-good-writing-a-meditation-on-breaking-rules-and-grammar-pedagogy/)
 
 Pete Rorabaugh, ["Twitter Theory and the Public Scholar"](http://www.hybridpedagogy.com/journal/twitter-theory-and-the-public-scholar/)
+
+Clay Shirky, Chapter 3: "Everyone Is a Media Outlet," from [*Here Comes Everybody*](https://openlibrary.org/works/OL3085104W/Here_comes_everybody)
 
 
 #### Week 3: Social Media's Reach
@@ -68,7 +72,7 @@ Pew Research, ["Social Networking Fact Sheet"](http://www.pewinternet.org/fact-s
 
 Clay Shirky, ["How Cognitive Surplus Will Change the World"](http://www.ted.com/talks/clay_shirky_how_cognitive_surplus_will_change_the_world?language=en)
 
-***Excerpt from Shirky's Here Comes Everybody?***
+Clay Shirky, Chapter 4: "Publish, Then Filter," from [*Here Comes Everybody*](https://openlibrary.org/works/OL3085104W/Here_comes_everybody)
 
 
 #### Week 4: Attention Economy
