@@ -96,7 +96,7 @@ Sophia Seawell, ["#NotYourAsianSidekick: Rethinking Protest Spaces and Tactics"]
 
 #### Week 6: Visibility and Safety
 
-Shanley Kane, ["“Internet Famous”: Visibility As Violence On Social Media"](https://modelviewculture.com/pieces/internet-famous-visibility-as-violence-on-social-media)
+Shanley Kane, ["'Internet Famous': Visibility As Violence On Social Media"](https://modelviewculture.com/pieces/internet-famous-visibility-as-violence-on-social-media)
 
 Sydette Harry, ["More Than the Message: Media, Safety and Attribution in Online Activism"](https://modelviewculture.com/pieces/more-than-the-message)
 
@@ -125,17 +125,25 @@ In this unit, which will comprise the final 6 weeks of the semester, students wi
 
 For an example of the kind of project we might do, see Pete Rorabaugh's [Occupy Class](http://occupyclass.org) at Georgia State University.
 
+## Required materials
+
+Students will be required to sign up for a free Twitter account, which we will use in and out of class on a regular basis. (Those concerned about privacy or safety online may wish to read the Week 6 materials early. Pseudonymous accounts are allowed, as long as your classmates know how to connect with you online.)
+
+We will also make substantial use of CU's Google Apps for Education account — mainly Google Drive. You can log into this with your CU Identikey and password.
+
+Most of the required readings/videos/Twitter streams are available on the open web and are linked above. Several are paywalled, but can be accessed for free via CU's network. (See me for help accessing off-campus.) I will provide scans of the chapters from Clay Shirky's book for those who don't own it, but you are encouraged to purchase it. The rest of the book is both interesting and useful, and it is inexpensive. But officially, there are no required materials for purchase.
+
 ## Assessment
 
-The most important and interesting aspects of learning—especially at the graduate level—are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do, and *absolutely detrimental* to a class like this one.
+The most important and interesting aspects of learning—especially at the graduate level—are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do, and *absolutely detrimental* to a class covering activism and disruptive practices, like this one.
 
 That said, I am required to assign final grades for this course. My goal in grading is two-fold: to diminish their significance and the negative impact they can have on the learning environment, and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
-So grades will follow the following pattern: I expect no Ds and Fs, but those grades will be reserved for students who fail to internalize the "nuts and bolts" of the materials we engage. Cs will be given to students who sufficiently internalize that basic information, but no more. As and Bs are reserved for students who make new contributions to human knowledge, including the nuanced critique of existing knowledge or the connecting of previously discrete domains of knowledge in new and insightful ways.
+So grades will follow the following pattern: I expect no Ds and Fs, but those grades will be reserved for students who fail to internalize the "nuts and bolts" of the materials we engage. Cs will be given to students who sufficiently internalize that basic information, but no more. As and Bs are reserved for students who make push the boundaries of what is currently known and done with media. This can include producing new insights, creating new things, providing a nuanced critique of existing knowledge and practices, or  connecting previously discrete domains of knowledge in new and insightful ways.
 
 In order to ensure that all serious students in the class attain a basic working knowledge of the course material, I will set the standard for a C. To obtain a C in the class, students must pass a series of weekly quizzes that cover the raw informational content of the week's readings. Passing a quiz means getting at least 9 out of 10 questions factually accurate. Passing the series of quizzes means passing *all but two quizzes* during the semester.
 
-Each week, students will submit informational or conceptual questions two days in advance of class. All students will see all submitted questions, and will be able to prepare (individually or in collaboration) answers to these questions. I will select questions from this collection for each week's quiz. While you will know the questions in advance of the quiz, you will not be allowed notes during the quiz. This will ensure that the quiz is not a "trick," but instead a tool to ensure that during our class discussion everyone has the basic facts fresh in their mind, allowing us to go deeper with our critical discussion.
+Each week, students will submit informational or conceptual questions about the readings two days in advance of class. All students will see all submitted questions, and will be able to prepare (individually or in collaboration) answers to these questions. I will select questions from this collection for each week's quiz. While you will know the questions in advance of the quiz, you will not be allowed notes during the quiz. This will ensure that everyone has the basic facts fresh in their mind at the beginning of class, allowing us to go deeper with our critical discussion.
 
 Generally there will be no makeups or reassessments; the two-quiz allowance should suffice for most cases. In exigent circumstances, other arrangements can be made at my discretion.
 
@@ -147,4 +155,6 @@ For instructor and university policies relevant to this course, please see [this
 
 ## About this syllabus
 
-This syllabus is *a summary of course objectives and content* and a reminder of *some* relevant university policies, not a contract. *All information in this syllabus (except for the “General course description”) is subject to change, with sufficient advanced notice provided by the instructor.*
+This syllabus is a *summary of course objectives and content* and a reminder of *some* relevant university policies, not a contract. *All information in this syllabus (except for the "General course description") is subject to change, with sufficient advanced notice provided by the instructor.*
+
+In the spirit of collaboration at the center of this course, this syllabus (and the entire course website) is [hosted on GitHub Pages](https://github.com/kshaffer/courses/commit/b21fe9864b5a0782478360fe55012031b501bfb9), and I will consider pull requests (suggested changes) from students.
