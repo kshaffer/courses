@@ -12,17 +12,17 @@ This course examines theoretical approaches to social change while students desi
 
 ## Overview
 
-When announcing that there would be no indictment of Darren Wilson after the shooting of Michael Brown, St. Louis prosecutor Bob McCulloch stated:
+When announcing that there would be no indictment of Darren Wilson after the shooting of Michael Brown, [St. Louis prosecutor Bob McCulloch stated](http://www.politico.com/blogs/media/2014/11/ferguson-prosecutor-blames-the-media-199249.html):
 
-> The most significant challenge encountered in this investigation has been the 24-hour news cycle and its insatiable appetite for something, for anything to talk about, following closely behind with the non-stop rumors on social media.
+> The most significant challenge encountered in this investigation has been the 24-hour news cycle and its insatiable appetite for something, for anything to talk about. Following closely behind with the non-stop rumors on social media.
 
 Protest leader Deray McKesson responded on Twitter:
 
 <blockquote class="twitter-tweet" lang="en"><p>McCulloch takes another dig at social media. But were it not for Twitter, he would&#39;ve convinced the world that we didn&#39;t exist. <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; deray mckesson (@deray) <a href="https://twitter.com/deray/status/537068182909882368">November 25, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Social and independent media have become cornerstones of (anti-)social activist movements in the twenty-first century. Arab Spring, #GamerGate (both sides), Ferguson, #BlackLivesMatter, #BlueLivesMatter — all have relied on social media to accomplish their purposes. @deray, @Nettaaaaaaaa, and @tefpoe used Twitter to organize protests around St. Louis and to warn activists of police presense and activity. Protesters used Twitter, Instagram, and Vine to document alleged police brutality, and to "cover" events outside the police-imposed press pen. 
+Social and independent media have become cornerstones of (anti-)social activist movements in the twenty-first century. Arab Spring, #GamerGate, Ferguson, #BlackLivesMatter, #BlueLivesMatter, #NotYourAsianSidekick — all have relied on social media to accomplish their purposes. @deray, @Nettaaaaaaaa, and @tefpoe used Twitter to organize protests around St. Louis and to warn activists of police presense and activity. Protesters used Twitter, Instagram, and Vine to document alleged police brutality, and to "cover" events outside the police-imposed press pen. Suey Park used Twitter, blogs, and Google Hangouts to organize online protest and (re)education surrounding issues of race in mainstream entertainment media.
 
-The decentralized nature of these social media empower groups and individuals to get messages out fast, bypassing mainstream media outlets. They also allow for, perhaps even require, a different kind of activist leadership. This led to criticism from figures like Oprah Winfrey [calling for more leadership from the movement](http://www.msnbc.com/msnbc/protesters-slam-oprah-suggesting-movement-lacks-leadership) — a centralized voice. But as activist responses (on Twitter, of course) made clear, the movement does have leadership, but leadership of a different kind.
+The decentralized nature of these social media empowers groups and individuals to get messages out fast, bypassing mainstream media outlets. They also allow for, perhaps even require, a different kind of activist leadership. In Ferguson, this led to criticism from figures like Oprah Winfrey [calling for more leadership from the movement](http://www.msnbc.com/msnbc/protesters-slam-oprah-suggesting-movement-lacks-leadership) — in other words, a centralized voice. But as activist responses (on Twitter, of course) made clear, the movement does have leadership, but leadership of a different kind.
 
 Shaun King's response to Oprah was telling:
 
