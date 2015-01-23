@@ -12,7 +12,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## Assignment for February 2/3
 
-First, **sign up for a sight-reading exam** with your instructor. (Shaffer students can [sign up on this Google Calendar](). Please check your time zone when you sign up. All exams take place between 8am and 9am on February 3.)
+First, **sign up for a sight-reading exam** with your instructor. (Shaffer students can [sign up on this Google Calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). Please check your time zone when you sign up. All exams take place between 8am and 9am on February 3.)
 
 Prepare for your sight-reading exam using modulating melodies from the Karpinski anthology not sung/played in class. The sight-reading melodies on the exam will be similar to these in that they are relatively short and will modulate once to a closely related key.
 
