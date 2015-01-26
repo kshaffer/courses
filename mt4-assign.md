@@ -18,7 +18,7 @@ If you are due for a Twitter essay, please follow the instructions on the [writi
 
 If you are due for blog comments, please check your email for a notification, or login to Google Drive and click on "Incoming" or "Shared with me." You will have a classmate's blog post shared with you. Open it, read it, and leave at least one substantive comment to help them improve their writing. See the [writing guide](mt4-writing.html) for more details.
 
-If your group is due for a Wikipedia edit, please see the instructions on the [writing guide](mt4-writing.html) and apply them to [the Wikipedia article on "Erlkönig."](http://en.wikipedia.org/wiki/Der_Erlk%C3%B6nig) (Focus on the section labeled "The Franz Schubert composition.") Be prepared to present what you updated and why *briefly* in class on Wednesay/Thursday.
+If your group is due for a Wikipedia edit, please see the instructions on the [writing guide](mt4-writing.html) and apply them to [the Wikipedia article on "Erlkönig."](http://en.wikipedia.org/wiki/Der_Erlk%C3%B6nig) (Focus on the section labeled "The Franz Schubert composition.") Be prepared to present what you updated and why *briefly* in class on Wednesday/Thursday.
 
 Everyone else, please review the Google Doc from class (in the shared folder), and come prepared to discuss the song in more detail and to respond to your classmates' Wikipedia updates.
 
