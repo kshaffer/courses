@@ -22,6 +22,16 @@ If your group is due for a Wikipedia edit, please see the instructions on the [w
 
 Everyone else, please review the Google Doc from class (in the shared folder), and come prepared to discuss the song in more detail and to respond to your classmates' Wikipedia updates.
 
+## Materials for January 26–29
+
+Score for [Schubert's "Erlkönig,"](http://petrucci.mus.auth.gr/imglnks/usimg/7/7c/IMSLP15041-SchubertD328_Erlk__nig_4th_version.pdf). 
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/C3nxyS8wf8E" frameborder="0" allowfullscreen></iframe><br/>
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0WqZHSdYtsoKtwec6riotc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+Spotify URI: spotify:track:0WqZHSdYtsoKtwec6riotc  
+Spotify web player URL: http://open.spotify.com/track/0WqZHSdYtsoKtwec6riotc
 
 
 ## Prep for January 26/27
