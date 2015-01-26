@@ -20,7 +20,9 @@ If you are due for blog comments, please check your email for a notification, or
 
 If your group is due for a Wikipedia edit, please see the instructions on the [writing guide](mt4-writing.html) and apply them to [the Wikipedia article on "Erlkönig."](http://en.wikipedia.org/wiki/Der_Erlk%C3%B6nig) (Focus on the section labeled "The Franz Schubert composition.") Be prepared to present what you updated and why *briefly* in class on Wednesday/Thursday.
 
-Everyone else, please review the Google Doc from class (in the shared folder), and come prepared to discuss the song in more detail and to respond to your classmates' Wikipedia updates.
+Everyone else, please review the Google Doc from class (in the shared folder), and come prepared to discuss the song in more detail and to respond to your classmates' Wikipedia updates. In particular think about:
+
+- Who is in control of the tonality of the song? In other words, which characters seem to be able to stay in a key for a long time, to bring it to a cadence? Which characters begin in keys set by others? Which characters can begin in any key the choose?  
 
 ## Materials for January 26–29
 
