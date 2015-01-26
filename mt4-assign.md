@@ -26,6 +26,8 @@ Everyone else, please review the Google Doc from class (in the shared folder), a
 
 Score for [Schubert's "Erlkönig,"](http://petrucci.mus.auth.gr/imglnks/usimg/7/7c/IMSLP15041-SchubertD328_Erlk__nig_4th_version.pdf). 
 
+[Text and English translation](http://www.recmusic.org/lieder/get_text.html?TextId=6382).
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/C3nxyS8wf8E" frameborder="0" allowfullscreen></iframe><br/>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:0WqZHSdYtsoKtwec6riotc" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
