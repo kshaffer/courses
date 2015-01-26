@@ -10,6 +10,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for January 28/29
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). 
+
+If you are due for a Twitter essay, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. Possible topics include "Gretchen am Spinnrade," "Erlkönig," the general nature of poetry, and basic ideas on the setting of poetry to music. ***Say as much as you can within the 140-character constraint.*** Use each character, word, hashtag strategically. There is no need for filler. On the contrary, the delete button will be your friend.
+
+If you are due for blog comments, please check your email for a notification, or login to Google Drive and click on "Incoming" or "Shared with me." You will have a classmate's blog post shared with you. Open it, read it, and leave at least one substantive comment to help them improve their writing. See the [writing guide](mt4-writing.html) for more details.
+
+If your group is due for a Wikipedia edit, please see the instructions on the [writing guide](mt4-writing.html) and apply them to [the Wikipedia article on "Erlkönig."](http://en.wikipedia.org/wiki/Der_Erlk%C3%B6nig) (Focus on the section labeled "The Franz Schubert composition.") Be prepared to present what you updated and why *briefly* in class on Wednesay/Thursday.
+
+Everyone else, please review the Google Doc from class (in the shared folder), and come prepared to discuss the song in more detail and to respond to your classmates' Wikipedia updates.
+
+
+
 ## Prep for January 26/27
 
 Consult the class writing schedule (link forthcoming). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission forms linked there. Possible topics include "Gretchen am Spinnrade," the general nature of poetry, and basic ideas on the setting of poetry to music. ***Say as much as you can within the 140-character constraint.*** Use each character, word, hashtag strategically. There is no need for filler. On the contrary, the delete button will be your friend.
