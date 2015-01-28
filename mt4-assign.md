@@ -10,6 +10,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 2/3
+
+Download a score for Johannes Brahms's "Lerchengesang," (movement 2 of his [Op. 70 song cycle](http://javanese.imslp.info/files/imglnks/usimg/3/32/IMSLP77280-PMLP52805-Brahms_Werke_Band_25_Breitkopf_JB_154_Op_70_filter.pdf)), read the [text and translation](http://www.recmusic.org/lieder/get_text.html?TextId=3582) (by Karl Candidus), and listen to a recording of it.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5gMScqEe1pZCyM0kGZlosr" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Spotify URI: spotify:track:5gMScqEe1pZCyM0kGZlosr  
+Spotify web player URL: http://open.spotify.com/track/5gMScqEe1pZCyM0kGZlosr
+
+Then take [an online quiz]() (link forthcoming) about the musical structure of the song. This will serve two purposes: preparing for more in-depth discussion, as well as an assessment opportunity for the Unit I musical course objectives.
+
+Finally, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a blog post, Twitter essay, or blog revisions, please see the instructions on the [writing guide](mt4-writing.html) and submit your written work according to the instructions provided there. 
+
+
 ## Prep for January 28/29
 
 Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). 
@@ -40,7 +54,7 @@ Spotify web player URL: http://open.spotify.com/track/0WqZHSdYtsoKtwec6riotc
 
 ## Prep for January 26/27
 
-Consult the class writing schedule (link forthcoming). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission forms linked there. Possible topics include "Gretchen am Spinnrade," the general nature of poetry, and basic ideas on the setting of poetry to music. ***Say as much as you can within the 140-character constraint.*** Use each character, word, hashtag strategically. There is no need for filler. On the contrary, the delete button will be your friend.
+Consult the class writing schedule. If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission forms linked there. Possible topics include "Gretchen am Spinnrade," the general nature of poetry, and basic ideas on the setting of poetry to music. ***Say as much as you can within the 140-character constraint.*** Use each character, word, hashtag strategically. There is no need for filler. On the contrary, the delete button will be your friend.
 
 Everyone, please read the following resources before class, and have them accessible (print, tablet, laptop, etc.) in class:
 
