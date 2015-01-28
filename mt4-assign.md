@@ -19,7 +19,7 @@ Download a score for Johannes Brahms's "Lerchengesang," (movement 2 of his [Op. 
 Spotify URI: spotify:track:5gMScqEe1pZCyM0kGZlosr  
 Spotify web player URL: http://open.spotify.com/track/5gMScqEe1pZCyM0kGZlosr
 
-Then take [an online quiz]() (link forthcoming) about the musical structure of the song. This will serve two purposes: preparing for more in-depth discussion, as well as an assessment opportunity for the Unit I musical course objectives.
+Then take [an online quiz](http://goo.gl/forms/iFbFHNgrrW) about the musical structure of the song. This will serve two purposes: preparing for more in-depth discussion, as well as an assessment opportunity for the Unit I musical course objectives.
 
 Finally, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a blog post, Twitter essay, or blog revisions, please see the instructions on the [writing guide](mt4-writing.html) and submit your written work according to the instructions provided there. 
 
