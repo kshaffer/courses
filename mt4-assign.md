@@ -10,6 +10,15 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 4/5
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, blog comments, or a Wikipedia edit/presentation, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. 
+
+Wikipedia groups will be writing/presenting on Brahms's "Lerchengesang." However, there is not yet a Wikipedia article on that song. Instead, please write new material in [this Google doc](https://docs.google.com/a/colorado.edu/document/d/1XwWmxSn2mYaYQ1n_pOaQSuRWupV8KQK1IcOCJM3ygPg/edit?usp=sharing) (anyone can view, but you need your CU login to edit). When both groups from both sections have contributed/edited, I will propose it to Wikipedia for inclusion. Their editor(s) will make the acceptance decision after reading our submission — so let's make it good!
+
+All students, please review the class notes on "Lercehengesang" in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). And then consider the question given at the end of Monday's/Tuesday's class, and come prepared to offer your insights on that topic as we discuss.
+
+
 ## Prep for February 2/3
 
 Download a score for Johannes Brahms's "Lerchengesang," (movement 2 of his [Op. 70 song cycle](http://javanese.imslp.info/files/imglnks/usimg/3/32/IMSLP77280-PMLP52805-Brahms_Werke_Band_25_Breitkopf_JB_154_Op_70_filter.pdf)), read the [text and translation](http://www.recmusic.org/lieder/get_text.html?TextId=3582) (by Karl Candidus), and listen to a recording of it.
