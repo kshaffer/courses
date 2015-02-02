@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignments and due dates (Aural Skills IV)
+title: Assignments and due dates (Music Theory IV)
 author: Kris Shaffer
 ---
 
