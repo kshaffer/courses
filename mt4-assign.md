@@ -10,6 +10,31 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 9/10
+
+We will analyze Robert Schumann's "In der Fremde" (*Liederkreis*, movement 1). Following are resources for this song:
+
+- [Score](http://javanese.imslp.info/files/imglnks/usimg/2/28/IMSLP51730-PMLP12741-RS127.pdf) (IMSLP)  
+- [Recording](http://open.spotify.com/track/545qYDn5M4HjbfcFRmvTP2) (Spotify URI: spotify:track:545qYDn5M4HjbfcFRmvTP2)  
+- [Harmonic reduction](materials/InDerFremdeReduction.pdf)  
+- [Text translation](http://www.recmusic.org/lieder/assemble_texts.html?LanguageId=7&SongCycleId=39&ContribId=1)  
+
+> From the direction of home, behind the red flashes of lightning  
+There come clouds,  
+But Father and Mother are long dead;  
+No one there knows me anymore.  
+
+> How soon, ah, how soon will that quiet time come,  
+When I too shall rest, and over me  
+the beautiful forest's loneliness shall rustle,  
+And no one here shall know me anymore.  
+
+For Monday/Tuesday, listen to the song and compare the harmonic reduction to the score. Then take the online quiz (link forthcoming). The main task will be to explain verbally the harmonic reduction in light of the score. This will 1) help you better understand some of the difficult concepts we ran into with "Lerchengesang", and 2) give you an opportunity to demonstrate your understanding of chromatic harmony without having to label chords. This will be an assessment opportunity for *pitch structures* and *formal structures*. You are welcome to study the piece together, but please make sure that the answers provided on the quiz are your own. Be sure to bring the score and reduction to class, electronically or in print.
+
+Finally, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. If you submitted a blog post last week, please revise it for Monday/Tuesday based on the comments received. Either update your Google doc to reflect the suggested improvement, or respectfully respond to the comment about why you choose not to make the revision. Then click "resolve" for each comment.
+
+
+
 ## Prep for February 4/5
 
 Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, blog comments, or a Wikipedia edit/presentation, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. 
