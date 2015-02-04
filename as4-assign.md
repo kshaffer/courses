@@ -10,6 +10,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for Feb 9/10
+
+There is no assigned work for Monday/Tuesday. Please bring headphones to class.
+
+## Material for 2/5
+
+Beethoven, "Moonlight" Sonata, first movement.
+
+[Spotify](http://open.spotify.com/track/70TI9J2rsGIuXyFqVzOswh)  
+Spotify URI: spotify:track:70TI9J2rsGIuXyFqVzOswh
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:70TI9J2rsGIuXyFqVzOswh" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+
 ## Assignment for February 2/3
 
 First, **sign up for a sight-reading exam** with your instructor. (Shaffer students can [sign up on this Google Calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). Please check your time zone when you sign up. All exams take place between 8am and 9am on February 3.)
