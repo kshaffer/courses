@@ -10,6 +10,16 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for Feb 16/17
+
+Monday/Tuesday, February 16/17, will be the second round of sight-reading exams. If you passed instrumental or sung in the Week 4 exam, prepare to do the other in this exam. If you did not pass your Week 4 exam, choose whether you want to assess sight-reading at an instrument or sung with solfège. You can use the modulating melodies from the Karpinski Anthology for practice (located in the [class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)).
+
+Kris Shaffer's students can sign up for their exam time on [this Google calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY). (Please double-check your time zone when you sign up. All exams will take place between 8am and 9am.)
+
+## Prep for Feb 11/12
+
+There is no assigned work for Monday/Tuesday. Please bring headphones to class.
+
 ## Prep for Feb 9/10
 
 There is no assigned work for Monday/Tuesday. Please bring headphones to class.
