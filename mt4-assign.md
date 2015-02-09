@@ -10,6 +10,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 11/12
+
+Everyone, please review the class notes on "In der Fremde" from Monday/Tuesday (in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing)). Ponder the question given at the end of class and come prepared to discuss it.
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, blog comments, or a Wikipedia edit/presentation, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. 
+
+
 ## Prep for February 9/10
 
 We will analyze Robert Schumann's "In der Fremde" (*Liederkreis*, movement 1). Following are resources for this song:
