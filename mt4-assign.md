@@ -10,6 +10,53 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 16/17
+
+First, please read the poem "Mondnacht" (or "Es war, als hätt' der Himmel") by Josef Karl Benedikt von Eichendorff, [and its translation](http://www.recmusic.org/lieder/get_text.html?TextId=5239). As much as you can, get a feel for the sound of the German, as well as the meaning in translation.
+
+> Es war, als hätt' der Himmel,  
+Die Erde still geküßt,  
+Daß sie im Blütenschimmer  
+Von ihm nun träumen müßt.  
+
+> Die Luft ging durch die Felder,  
+Die Ähren wogten sacht,  
+Es rauschten leis die Wälder,  
+So sternklar war die Nacht.  
+
+> Und meine Seele spannte  
+Weit ihre Flügel aus,  
+Flog durch die stillen Lande,  
+Als flöge sie nach Haus.
+
+> It was as if the sky  
+Had quietly kissed the earth,  
+So that in a shower of blossoms  
+She must only dream of him.
+
+> The breeze wafted through the fields,  
+The ears of corn waved gently,  
+The forests rustled faintly,  
+So sparkling clear was the night.
+
+> And my soul stretched  
+its wings out far,  
+Flew through the still lands,  
+as if it were flying home.
+
+Then submit your responses to the questions in [**online quiz no. 1**](http://goo.gl/forms/EbXsjFLt0U) ***before you listen to the music or consult the scores***. This will prepare you for class activities on Monday/Tuesday.
+
+Then, download scores to two settings, one by Brahms and one by Schumann. Listen to both and examine the scores. Then submit your responses to [**online quiz no. 2**](http://goo.gl/forms/tMP9SRG7po). This will both prepare you for class activities and provide an assessment opportunity for form, rhythm, and (if you provide enough analytical detail) harmony.
+
+- [Brahms, "Mondnacht" score](http://conquest.imslp.info/files/imglnks/usimg/c/c0/IMSLP85499-PMLP52988-Brahms_Werke_Band_26_Breitkopf_JB_169_WoO_21_filter.pdf)  
+- [Schumann, "Mondnacht" score](http://javanese.imslp.info/files/imglnks/usimg/2/28/IMSLP51730-PMLP12741-RS127.pdf) (*Liederkreis*, no. 5)  
+- [Brahms, "Mondnacht" recording](http://open.spotify.com/track/266suB9wmWDAQlbpWyecjZ) (Spotify URI: spotify:track:266suB9wmWDAQlbpWyecjZ)  
+- [Schumann, "Mondnacht" recording](http://open.spotify.com/track/6PAES5xwJvXvf3HTAC56gI) (Spotify URI: spotify:track:6PAES5xwJvXvf3HTAC56gI)  
+- [Online quiz 1](http://goo.gl/forms/EbXsjFLt0U) (text)  
+- [Online quiz 2](http://goo.gl/forms/tMP9SRG7po) (musical features)
+
+Finally, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. If you submitted a blog post last week, please revise it for Monday/Tuesday based on the comments received. Either update your Google doc to reflect the suggested improvement, or respectfully respond to the comment about why you choose not to make the revision. Then click "resolve" for each comment.
+
 ## Prep for February 11/12
 
 Everyone, please review the class notes on "In der Fremde" from Monday/Tuesday (in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing)). Ponder the question given at the end of class and come prepared to discuss it.
