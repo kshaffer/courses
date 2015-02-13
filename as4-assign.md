@@ -10,6 +10,24 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+<!--
+## Prep for Feb 23/24
+
+Second, please transcribe *all four parts* (two violins, viola, and cello) to [this musical excerpt](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cd2MwbEZKN29Cb0k/view?usp=sharing), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is A. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter. This is the first of several take-home four-part transcription opportunities. You only need pass two of them to pass the objective that counts towards your grade (see [syllabus](auralskills4.html)), so you are more than welcome to consider this first attempt a practice exercise. 
+
+Before beginning the four-part transcription, you may find it helpful to watch a demo video I created to guide you through my approach to this kind of task. It is embedded below.
+-->
+
+## Prep for Feb 18/19
+
+Please complete the melodic transcription begun in class on Wendesday/Thursday, Feb. 11/12, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cdXlYcjA3UXRSVEE/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is E. Be sure to transcribe the vocal melody *and* indicate the ending key. 
+
+Then watch [the demo video](https://vimeo.com/119572881) on transcribing four-part harmonic textures (embedded below).
+
+Finally, please bring staff paper (and for Shaffer's section, a decent pair of headphones) to class each day until the end of the unit.
+
+<iframe src="//player.vimeo.com/video/119572881" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/119572881">Four-part transcription demo</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## Prep for Feb 16/17
 
 Monday/Tuesday, February 16/17, will be the second round of sight-reading exams. If you passed instrumental or sung in the Week 4 exam, prepare to do the other in this exam. If you did not pass your Week 4 exam, choose whether you want to assess sight-reading at an instrument or sung with solfège. You can use the modulating melodies from the Karpinski Anthology for practice (located in the [class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cUEltQjJYREdhRE0&usp=sharing)).
