@@ -10,6 +10,13 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 18/19
+
+First, please complete and reflect on [the analytical questions begun in class](materials/MondnachtAnalysis.pdf) on 2/16 and 2/17. Bring your completed and/or revised analysis to class on Wednesday/Thursday.
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay or blog comments, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. *Please note that Wikipedia presentations originally scheduled for 2/18 and 2/19 have been pushed to 2/23 and 2/24.*
+
+
 ## Prep for February 16/17
 
 First, please read the poem "Mondnacht" (or "Es war, als hätt' der Himmel") by Josef Karl Benedikt von Eichendorff, [and its translation](http://www.recmusic.org/lieder/get_text.html?TextId=5239). As much as you can, get a feel for the sound of the German, as well as the meaning in translation.
