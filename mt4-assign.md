@@ -10,6 +10,16 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 23/24
+
+We will split our class time between discussing Wikipedia presentations (mainly on "Mondnacht") and exploring Schubert's song cycle, *Die schöne Müllerin*. We will engage the latter primarily through lecture. To prepare, please read [the Wikipedia article](http://en.wikipedia.org/wiki/Die_schöne_Müllerin) on the song cycle, download [the score](http://petrucci.mus.auth.gr/imglnks/usimg/f/f6/IMSLP03233-Schubert_dsm_em.pdf), and listen to the following two movements: "Die liebe Farbe" and "Die böse Farbe." (Text and translation for the entire cycle [can be found here](http://www.gopera.com/lieder/translations/schubert_795.pdf).) I highly recommend [Ian Bostridge's recording of this song cycle](http://open.spotify.com/user/kris.shaffer/playlist/1SaXv4tlZlW931nZ9a8q1o) (Spotify URI: spotify:user:kris.shaffer:playlist:1SaXv4tlZlW931nZ9a8q1o):
+
+<iframe src="https://embed.spotify.com/?uri=spotify:user:kris.shaffer:playlist:1SaXv4tlZlW931nZ9a8q1o" width="300" height="380" frameborder="0" allowtransparency="true"></iframe><br/>
+
+Also, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, a blog post, or a Wikipedia edit, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. If you submitted a blog post last week, please revise it for Monday/Tuesday based on the comments received. Either update your Google doc to reflect the suggested improvement, or respectfully respond to the comment about why you choose not to make the revision. Then click "resolve" for each comment.
+
+
+
 ## Prep for February 18/19
 
 First, please complete and reflect on [the analytical questions begun in class](materials/MondnachtAnalysis.pdf) on 2/16 and 2/17. Bring your completed and/or revised analysis to class on Wednesday/Thursday.
