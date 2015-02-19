@@ -18,6 +18,20 @@ We will split our class time between discussing Wikipedia presentations (mainly 
 
 Also, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, a blog post, or a Wikipedia edit, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there. If you submitted a blog post last week, please revise it for Monday/Tuesday based on the comments received. Either update your Google doc to reflect the suggested improvement, or respectfully respond to the comment about why you choose not to make the revision. Then click "resolve" for each comment.
 
+Finally, you may find it helpful to review one or more of the following resources on [*Open Music Theory*](http://www.openmusictheory.com):
+
+- [Introduction to musical functions](http://openmusictheory.com/functions.html).  
+- [Harmonic functions](http://openmusictheory.com/harmonicFunctions.html).  
+- [Harmonic syntax – the idealized phrase](http://openmusictheory.com/harmonicSyntax1.html).  
+- [Harmonic syntax – prolongation](http://openmusictheory.com/harmonicSyntax2.html).  
+- [Performing a harmonic analysis](http://openmusictheory.com/harmonicAnalysis.html).  
+- [Classical cadence types](http://openmusictheory.com/cadenceTypes.html).  
+- [Generating Roman numerals from a figured bass line](http://openmusictheory.com/RNfromFB.html).  
+- [Chromatically altered subdominant chords](http://openmusictheory.com/alteredSubdominants.html).  
+- [Applied chords](http://openmusictheory.com/appliedChords.html).  
+- [Modal mixture](http://openmusictheory.com/modalMixture.html).  
+- [Modulation](http://openmusictheory.com/Modulation.html).  
+- [Harmonies (Roman numerals and functional bass) by scale degree - handout](http://openmusictheory.com/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf).  
 
 
 ## Prep for February 18/19
