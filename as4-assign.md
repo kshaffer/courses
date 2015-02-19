@@ -13,9 +13,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## Prep for Feb 23/24
 
-First, please complete the melodic transcription begun in class on Wendesday/Thursday, Feb. 18/19, and submit to your instructor. Audio can be [downloaded here]() (link to be added after the Thursday classes). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is G. Be sure to transcribe the vocal melody *and* indicate the ending key. 
-
-Second, please transcribe *all four parts* (two violins, viola, and cello) to [this musical excerpt](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cd2MwbEZKN29Cb0k/view?usp=sharing) (begun in class on Feb 18/19), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is A. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter. This is the first of several take-home four-part transcription opportunities. You only need pass two of them to pass the objective that counts towards your grade (see [syllabus](auralskills4.html)), so you are more than welcome to consider this first attempt a practice exercise. 
+Please transcribe *all four parts* (two violins, viola, and cello) to [this musical excerpt](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cd2MwbEZKN29Cb0k/view?usp=sharing) (begun in class on Feb 18/19), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is A. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter. This is the first of several take-home four-part transcription opportunities. You only need pass two of them to pass the objective that counts towards your grade (see [syllabus](auralskills4.html)), so you are more than welcome to consider this first attempt a practice exercise. 
 
 Before beginning the four-part transcription, you may find it helpful to watch or review [the demo video](https://vimeo.com/119572881). It is also embedded below.
 
