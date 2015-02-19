@@ -49,5 +49,3 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 - perform a modulating melody from sight (instrument of choice) – 1x  
 - transcribe/dictate a modulating melody quickly, without an instrument (take-home and/or *with* an instrument qualifies for half-credit) – 2x  
 - transcribe/dictate all lines of a four-voice homophonic texture with appropriate harmonic labels), slowly (take-home) and with or without an instrument – 2x  
-- transcribe/dictate all lines of a four-voice homophonic texture with appropriate harmonic labels), quickly (in-class) and without an instrument – 2x  
-
