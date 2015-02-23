@@ -10,6 +10,11 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for February 25/26
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, Wikipedia presentation, or blog comments, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there.
+
+
 ## Prep for February 23/24
 
 We will split our class time between discussing Wikipedia presentations (mainly on "Mondnacht") and exploring Schubert's song cycle, *Die schöne Müllerin*. We will engage the latter primarily through lecture. To prepare, please read [the Wikipedia article](http://en.wikipedia.org/wiki/Die_schöne_Müllerin) on the song cycle, download [the score](http://petrucci.mus.auth.gr/imglnks/usimg/f/f6/IMSLP03233-Schubert_dsm_em.pdf), and listen to the following two movements: "Die liebe Farbe" and "Die böse Farbe." (Text and translation for the entire cycle [can be found here](http://www.gopera.com/lieder/translations/schubert_795.pdf).) I highly recommend [Ian Bostridge's recording of this song cycle](http://open.spotify.com/user/kris.shaffer/playlist/1SaXv4tlZlW931nZ9a8q1o) (Spotify URI: spotify:user:kris.shaffer:playlist:1SaXv4tlZlW931nZ9a8q1o):
