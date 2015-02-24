@@ -14,9 +14,9 @@ Each student will write one standard academic paper. Students can choose a midte
 
 These papers should be 1000–1500 words (4–6 pages, double-spaced), should have a single analytical thesis, should argue that thesis with supporting evidence and no extraneous details, and should conform to the *Chicago Manual of Style*, 16th. ed. (This is *not* a genre in which we will be pushing stylistic boundaries, but instead working on excelling at artful conformity: meeting set expectations while also standing out via a strong argument and/or well crafted prose.)
 
-Examples of model essays from past student work (anonymous) will be provided in advance of the due dates.
+Examples of model essays from past student work (anonymous) will be provided in advance of the due dates (see below).
 
-Students will also have the opportunity to sign up for a 30-minute consultation on a draft of their paper with me in the week before papers are due.
+Students will also have the opportunity to sign up for a 20-minute consultation on a draft of their paper with me in the week before papers are due.
 
 Papers will be due on the first day of post-tonal studies (Lied papers) or the first day of finals week (post-tonal papers).
 
@@ -25,8 +25,11 @@ Papers should be written as Google Documents (not Word Documents uploaded to Goo
 ## German Lied paper
 
 **Due date: Monday, March 9 (M/W section) or Tuesday, March 10 (T/R section)**  
+
 **Topic option one: An analysis of a 19th-century, German, Romantic Lied of your choice** 
+
 **Topic option two: A comparison of two 19th-century, German, Romantic settings of the same poem**  
+
 **Suggested Lieder: anything by Schubert, Brahms, or Schumann that you can stand listening to repeatedly should work well! Schubert's *Winterreise* and Schumann's *Dichterliebe* provide many excellent choices.**
 
 This paper, as stated above, in an exercise in "artful conformity" to a standard form of discourse that is important to master for life in the academy. Knowing how to write cogently about musical structure in general, and for academic audiences speficially, is an essential skill for every learned musician. This project will help you grow in that skill. (Coincidentally, an analytical essay on a German Lied is a common graduate entrance exam at CU.)
