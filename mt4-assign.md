@@ -14,6 +14,8 @@ Find assignments under the class date in which the assignment is due. They are i
 
 Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, Wikipedia presentation, or blog comments, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there.
 
+Also, please look over the guidelines for the [Unit I academic paper](mt4-academicPaper.html). Each student must write one academic paper, but it is your choice whether you write it for Unit I or Unit II. Consult the guidelines and your assessment report (and me, if you are unsure) as you decide which unit to write the paper for.
+
 
 ## Prep for February 23/24
 

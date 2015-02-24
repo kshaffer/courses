@@ -24,7 +24,7 @@ Papers should be written as Google Documents (not Word Documents uploaded to Goo
 
 ## German Lied paper
 
-**Due date: Monday, March 9 (M/W section) or Tuesday, March 10 (T/R section)**  
+**Due date: Monday, March 9 (M/W section) or Tuesday, March 10 (T/R section), 10am**  
 
 **Topic option one: An analysis of a 19th-century, German, Romantic Lied of your choice** 
 
