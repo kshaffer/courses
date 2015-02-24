@@ -69,3 +69,5 @@ Students will also have the opportunity to sign up for a 30-minute consultation 
 Papers will be due on the first day of post-tonal studies (Lied papers) or the first day of finals week (post-tonal papers).
 
 Papers should be written as Google Documents (not Word Documents uploaded to Google Drive), shared with kris.shaffer@colorado.edu with editing privileges, and the sharing link [pasted into this form](https://docs.google.com/a/colorado.edu/forms/d/1WUImrrWmJrNyZod_Qux-Kw1dxPdWetAOjW1L2KIjj_Y/viewform?usp=send_form).
+
+[Unit I academic paper guidelines](mt4-academicPaper.html)
