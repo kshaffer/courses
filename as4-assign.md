@@ -10,11 +10,24 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for March 4/5
+
+Please transcribe *all four parts* (two violins, viola, and cello) of [Four-Part Transcription No. 3](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6ccVVxQzBUMGY0V2s/view?usp=sharing), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is C. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter.
+
+Please complete Melodic Transcription No. 3, begun in class on Wendesday/Thursday, Feb. 25/26, and submit to your instructor. Audio can be [downloaded here]() (link to be added after Thursday classes). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is D-flat. Be sure to transcribe the vocal melody *and* indicate the ending key. 
+
+
+## Prep for March 2/3
+
+Class time will be devoted to our final sight-reading exam opportunity. If you have already passed both instrumental sight-reading and sight-singing with solfège, there is no need to come.
+
+Shaffer's students can [sign up for exam times here](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) (all time slots are between 8:10am and 8:50am on Tuesday).
+
 ## Prep for Feb 25/26
 
 Please transcribe *all four parts* (two violins, viola, and cello) to [this musical excerpt](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cQXB4TDJxdFFtdDQ/view?usp=sharing), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is D. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter. This is the second of several take-home four-part transcription opportunities.
 
-Please complete the melodic transcription begun in class on Wendesday/Thursday, Feb. 23/24, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cREFBbFVRRFgyV2s/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is G. Be sure to transcribe the vocal melody *and* indicate the ending key. 
+Please complete the melodic transcription begun in class on Monday/Tuesday, Feb. 23/24, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cREFBbFVRRFgyV2s/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is G. Be sure to transcribe the vocal melody *and* indicate the ending key. 
 
 
 ## Prep for Feb 23/24
