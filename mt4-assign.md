@@ -10,6 +10,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for March 2/3
+
+Monday's/Tuesday's class time will primarily be devoted to the final two movements of *Die schöne Müllerin*: "Der Müller und der Bach" and "Des Baches Wiegenlied." Please listen to both songs, study their text and music (see Feb 23/24 for text, score, and audio), and then take the [online quiz](https://docs.google.com/forms/d/1jMrr1AIPIQrT7zn8Smy_daCcaeuKm0EzLkC9UBd-tOU/viewform?usp=send_form). For the quiz, focus on the areas that you have not yet passed for the unit (see assessment report). For class, come prepared to discuss those areas that you studied most closely as you worked on the quiz.
+
+Also, please consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there.
+
+N.B.: There are wikipedia groups scheduled for 3/4, but since we will be doing paper consultations in lieu of that class meeting, I will be adjusting the schedule. I'll fill you in on that once it's updated, but no one will do wikipedia presentations next week.
+
 ## Prep for February 25/26
 
 Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay, Wikipedia presentation, or blog comments, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there.
