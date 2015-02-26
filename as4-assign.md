@@ -14,7 +14,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 Please transcribe *all four parts* (two violins, viola, and cello) of [Four-Part Transcription No. 3](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6ccVVxQzBUMGY0V2s/view?usp=sharing), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is C. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter.
 
-Please complete Melodic Transcription No. 3, begun in class on Wendesday/Thursday, Feb. 25/26, and submit to your instructor. Audio can be [downloaded here]() (link to be added after Thursday classes). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is D-flat. Be sure to transcribe the vocal melody *and* indicate the ending key. 
+Please complete Melodic Transcription No. 3, begun in class on Wendesday/Thursday, Feb. 25/26, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVXdtVDVPZ254aWc/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is D-flat. Be sure to transcribe the vocal melody *and* indicate the ending key. 
 
 
 ## Prep for March 2/3
