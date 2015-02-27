@@ -16,6 +16,8 @@ Monday's/Tuesday's class time will primarily be devoted to the final two movemen
 
 Also, please consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing). If you are due for a Twitter essay or a blog post, please follow the instructions on the [writing guide](mt4-writing.html) and submit your assignment using the submission form linked there.
 
+If you submitted a blog post Feb 23/24, please revise it for Monday/Tuesday based on the comments received. Either update your Google doc to reflect the suggested improvement, or respectfully respond to the comment about why you choose not to make the revision. Then click "resolve" for each comment.
+
 N.B.: There are wikipedia groups scheduled for 3/4, but since we will be doing paper consultations in lieu of that class meeting, I will be adjusting the schedule. I'll fill you in on that once it's updated, but no one will do wikipedia presentations next week.
 
 ## Prep for February 25/26
