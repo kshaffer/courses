@@ -18,13 +18,16 @@ To help you familizarize yourselves with standard scales and collections in post
 - lydian (do re mi fi sol la ti do)  
 - mixolydian (do re mi fa sol la te do)  
 
-Please practice with an instrument, but record yourself singing without the aid of an instrument. You can perform in any key that is comfortable for your range. All non-diatonic collections can be found on the [Analyzying atonal music resource](http://kris.shaffermusic.com/musicianship/atonal.html).
+Please practice with an instrument, but record yourself singing without the aid of an instrument. You can perform in any key that is comfortable for your range. All non-diatonic collections can be found on the [Analyzying atonal music resource](http://openmusictheory.com/atonal.html).
 
 To record and submit these videos, do the following:
 
-- Practice the scales/collections above (only the measure numbers listed)
-- Video yourself performing the passages, according to the instructions above
-- Name those videos "YOURLASTNAME - name of collection". (You can also perform them in a single video.)
-- Upload video(s) to your submissions folder on Google Drive
+- Practice the scales/collections above (only the measure numbers listed)  
+- Video yourself performing the passages, according to the instructions above  
+- Name those videos "YOURLASTNAME - name of collection". (You can also perform them in a single video.)  
+- Upload video(s) to Google Drive and put them in a single folder named "YOURLASTNAME – modes and cells"  
+- Share that folder with your instructor
 
-These are due *perfect or nearly so* by the end of Unit II (week 15). However, please do your best to submit at least a first attempt by **Tuesday, April 1.** This will ensure that you have time to seek help or revise your videos if necessary. Please see me during office hours if you are having difficulty.
+Submit at least five of these (your choice) by the beginning of class on Wednesday/Thursday, March 18/19. Then submit the rest (along with any redos necessary) by Monday/Tuesday, April 6/7.
+
+All videos most be submitted and must be performed *perfectly or nearly so* by the beginning of class on Monday/Tuesday, April 6/7. *Only videos submitted on time will be allowed a (single) reassessment opportunity.*
