@@ -22,16 +22,19 @@ The specific concepts and skills we will cover and assess (according to the N/A/
 
 **Post-tonal pitch materials (Unit II)**
 
-- recognize common modes and cells in isolation by ear (diatonic, pentatonic, octatonic, whole-tone, etc.)    
-- recognize common modes and cells in a musical passage by ear  
-- transcribe music making use of common modes and cells (no instrument or time constraints)  
-- perform common modes and cells in isolation (sung)  
-- perform from sight music that makes use of common modes and cells (instrument of choice)  
+- recognize common modes and cells in a musical passage by ear – pass 1 quiz  
+- transcribe music making use of common modes and cells (no instrument or time constraints) – pass 2 take-home transcription assignments  
+- perform common modes and cells in isolation (sung) – create 1 video portfolio  
+- perform music that makes use of common modes and cells with preparation (instrument of choice) – pass 1 video performance  
+- perform music that makes use of common modes and cells from sight (instrument of choice) – pass 1 sight-reading exam  
 
 **Advanced rhythm and meter (Unit II)**
 
-- recognize common asymmetrical meters in a passage by ear (quintuple, septuple, changing, "asymmetrical compound")  
-- transcribe the rhythm of a melody/passage in a common asymmetrical meter  
-- perform standard rhythmic figures in common asymmetrical meters in a real piece of music from sight (instrument of choice)
+- recognize common asymmetrical meters in a passage by ear (quintuple, septuple, changing, "asymmetrical compound") – pass 1 quiz  
+- transcribe the rhythm of a melody/passage in a common asymmetrical meter – pass 2 take-home transcription assignments  
+- perform standard rhythmic figures in common asymmetrical meters in a real piece of music with preparation (instrument of choice) – pass 1 video performance  
+- perform standard rhythmic figures in common asymmetrical meters in a real piece of music from sight (instrument of choice) – pass 1 sight-reading exam
+
+*N.B.: The same performance activity (video or sight-reading exam) can count for both pitch and rhythm.*
 
 In-class or take-home/online assessment activities will be given for all of these concepts and skills. These assignments and quizzes will provide sufficient opportunity for students to demonstrate mastery by the unit deadline. Additional attempts then become the responsibility of the student to be submitted or performed during office hours.
