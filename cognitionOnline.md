@@ -15,6 +15,50 @@ Music cognition explores all of these things. In a sense, music cognition is the
 A course in music cognition could easily become a class in neurology, psychology, linguistics, computational analysis, medicine... This class will serve as an overview of concepts that are foundational to these areas, and an introduction to some of those more specific fields. Final projects will afford students opportunities to delve deeply into one of these areas in accordance with their interests and goals.
 
 
+### General course information
+
+Course title: Advanced Topics in Psychology: Music Cognition  
+Course number: PSYC 4541
+Term: Summer 2015 (June)  
+Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
+Physical office: MUS N138  
+Email: kris.shaffer@colorado.edu  
+Twitter: @krisshaffer
+Course website: [courses.shaffermusic.com](http://courses.shaffermusic.com/cognitionOnline.html)  
+Online community: [Twitter](http://twitter.com), hashtag #muscog  
+Discussion forum:  TBA
+
+### Required course materials
+
+- Bob Snyder, [*Music and Memory: An Introduction*](https://openlibrary.org/works/OL2782993W/Music_and_Memory).  
+- David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
+- [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
+- A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
+- A free Google account *using your CU Identikey*.  
+- A free Twitter account (optional; pseudonyms allowed).
+
+All other required class materials will be posted or linked to on the course site.
+
+### Coursework
+
+Students will be provided with the following informational resources to engage during each unit:
+
+*Readings* drawn from the required textbooks, and occasional supplemental resources such as scholarly articles from the field.
+
+*Videos* created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
+
+*Core concept lists* will be provided for each unit, as well as a [master list for the course](cognitionOnline-concepts.html), which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
+
+Assessed coursework will include the following:
+
+*Conceptual videos.* In each unit, several core concepts will be identified. Each student will create a video of *no more than 60 seconds* in which they explain the concept in their own words and present at least one example or application to elucidate their explanation. For example, in explaining the concept of *interference*, a student can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within 48 hours of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. This channel will provide a high-quality set of concise explanations of concepts for student review and public consumption.
+
+*Online discussion.* We will have a private discussion forum for registered students, a public discussion option (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for students to ask questions of clarification, to compare notes as they work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application. Students are expected to engage in at least one of these fora during each unit of study, but are encouraged to take advantage of all of them when possible.
+
+*Conceptual mapping.* Students will be asked not only to explain concepts in video form, but to create a visual diagram that maps out these concepts and their relationships. These diagrams should include each of the core concepts identified for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). Students will build one master concept map over the entirety of the course, but will submit drafts at the end of each week of the course, including all concepts covered to date. Conceptual maps can be drawn on paper with pencil (and submitted as a photo, high enough resolution to be legible), an electronic diagram (using Adobe Illustrator, Prezi, or the like), or a physical diagram created on a wall/floor etc. (submitted as a photo or video and accompanied by a written or audio/video explanation of the connections).
+
+*Final project.* Students wishing to obtain an A in the class will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. These projects will be negotiated one-on-one with the instructor, with the goals of 1) finding a project in line with the individual student's interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Projects will be proposed by students shortly after midterm, and negotiations completed before the final 1/4 of the term, with a clear contract of expectations laid out. Students may only pursue the A-level final project once they have completed the assessment requirements for a B (see below).
+
 ### Units of study (dates TBA)
 
 I. Auditory memory (*Music and Memory*, Chapter 1)
@@ -41,26 +85,6 @@ XI. Music and emotion (*Sweet Anticipation*, Chapters 1–5)
 
 
 
-### Coursework
-
-Students will be provided with the following informational resources to engage during each unit:
-
-*Readings* drawn from the required textbooks, and occasional supplemental resources such as scholarly articles from the field.
-
-*Videos* created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
-
-*Core concept lists* will be provided for each unit, as well as a [master list for the course](cognitionOnline-concepts.html), which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
-
-Assessed coursework will include the following:
-
-*Conceptual videos.* In each unit, several core concepts will be identified. Each student will create a video of *no more than 60 seconds* in which they explain the concept in their own words and present at least one example or application to elucidate their explanation. For example, in explaining the concept of *interference*, a student can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within 48 hours of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. This channel will provide a high-quality set of concise explanations of concepts for student review and public consumption.
-
-*Online discussion.* We will have a private discussion forum for registered students, a public discussion option (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for students to ask questions of clarification, to compare notes as they work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application. Students are expected to engage in at least one of these fora during each unit of study, but are encouraged to take advantage of all of them when possible.
-
-*Conceptual mapping.* Students will be asked not only to explain concepts in video form, but to create a visual diagram that maps out these concepts and their relationships. These diagrams should include each of the core concepts identified for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). Students will build one master concept map over the entirety of the course, but will submit drafts at the end of each week of the course, including all concepts covered to date. Conceptual maps can be drawn on paper with pencil (and submitted as a photo, high enough resolution to be legible), an electronic diagram (using Adobe Illustrator, Prezi, or the like), or a physical diagram created on a wall/floor etc. (submitted as a photo or video and accompanied by a written or audio/video explanation of the connections).
-
-*Final project.* Students wishing to obtain an A in the class will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. These projects will be negotiated one-on-one with the instructor, with the goals of 1) finding a project in line with the individual student's interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Projects will be proposed by students shortly after midterm, and negotiations completed before the final 1/4 of the term, with a clear contract of expectations laid out. Students may only pursue the A-level final project once they have completed the assessment requirements for a B (see below).
-
 ### Assessment
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
@@ -78,30 +102,6 @@ Specifically, students who successfully meet the following standards will receiv
 - A: successfully complete all B-level requirements and perform a final synthesis/application project, the details of which will be negotiated with the instructor between 50% and 75% of the way through the course.
 
 N.B.: Since there are three fora for online discussion, significant participation in any one of them during a unit of study will suffice for the participation assessment.
-
-### General course information
-
-Course title: Advanced Topics in Psychology: Music Cognition  
-Course number: PSYC 4541
-Term: Summer 2015 (June)  
-Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
-Physical office: MUS N138  
-Email: kris.shaffer@colorado.edu  
-Twitter: @krisshaffer
-Course website: [courses.shaffermusic.com](http://courses.shaffermusic.com/cognitionOnline.html)  
-Online community: [Twitter](http://twitter.com), hashtag #muscog  
-Discussion forum:  TBA
-
-### Required course materials
-
-- Bob Snyder, [*Music and Memory: An Introduction*](https://openlibrary.org/works/OL2782993W/Music_and_Memory).  
-- David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
-- [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
-- A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
-- A free Google account *using your CU Identikey*.  
-- A free Twitter account (optional; pseudonyms allowed).
-
-All other required class materials will be posted or linked to on the course site.
 
 ### Policies
 
