@@ -89,11 +89,19 @@ The *Post-tonal music* category will be determined by students fulfilling the fo
 - Analyze a post-tonal movement, and explain the relationship of its pitch structures to its form in a written assignment.  
 - Analyze a post-tonal movement, and explain the relationship of its musical structures to its extramusical elements (text, dance, staging, etc.) in a written assignment.  
 
-Passing 6–7 of these elements will constitute an A for the category, 5 a B, 4 a C, 2–3 a D, 0–1 an F.
+*Post-tonal* grades are determined as follows:
+
+- A: 7 assignments passed  
+- A–: 6 assignments passed  
+- B: 5 assignments passed  
+- C: 4 assignments passed  
+- D: 3 assignments passed  
+- D–: 2 assignments passed  
+- F: 0–1 assignments passed
 
 The *writing* category grade will be determined by the number of written assignments passed (see [writing assignments page](mt4-writing.html) for passing standards) by their respective deadlines. Students are asked to write 3 Twitter essays, 1 blog post, 1 academic paper, 2 group Wikipedia edits, and comments on 3 classmates' blog posts: total of 10 written assignments.
 
-Writing grades are determined as follows:
+*Writing* grades are determined as follows:
 
 - A: 10 assignments passed  
 - A–: 9 assignments passed  
