@@ -30,7 +30,7 @@ In light of these readings, revisit Debussy's "La Cathédrale engloutie" and the
 - [Ligeti, Hamburg Concerto, I. Praeludium, recording](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cYnZJaXRyWkZFam8/view?usp=sharing) (in GDrive, CU IdentiKey login required)  
 - [Debussy, Préludes, premier livre, X. "La Cathédrale engloutie," score](http://petrucci.mus.auth.gr/imglnks/usimg/c/c0/IMSLP00509-Debussy_-_Preludes__Book_1.pdf)
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 [http://open.spotify.com/track/6EkMkK5ekg3NaSJAxFsEmx](http://open.spotify.com/track/6EkMkK5ekg3NaSJAxFsEmx)  
 spotify:track:6EkMkK5ekg3NaSJAxFsEmx
