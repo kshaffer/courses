@@ -130,6 +130,13 @@ To receive a final grade of A, a student needs a median grade of A for the three
 To receive a final grade of B, a student needs a median unit grade of B, and nothing lower than a C. So unit grades of A B B, A B C, B B B, or B B C would result in a final grade of B.
 
 
+## Reassessment
+
+In general, students will have multiple attempts to demonstrate mastery of a set of musical concepts throughout a unit of study. If a student is not satisfied with their level of mastery and their letter grade at the end of a unit, that student may reassess the relevant concepts *within two weeks* of the unit deadline (the final unit of the semester will, for obvious reasons, have a shorter reassessment window). One reassessment opportunity is allowed automatically. However, if a student makes progress on that reassessment but some concepts still remain to be mastered, the instructor may allow, at his discretion, another reassessment opportunity within another two-week window.
+
+The reassessment must be *completed* within two weeks of the unit deadline. Students wishing to reassess one or more concepts should contact the instructor *immediately* to schedule a reassessment time and agree on an appropriate reassessment task.
+
+
 ## Course materials
 
 ### Required
