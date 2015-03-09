@@ -10,6 +10,36 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for March 11/12
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay. 
+
+If you submitted a blog post for 3/2 or 3/3, you should have comments from your colleagues now. Please revise based on those comments and submit your revision by class time on March 11/12.
+
+Everyone, please read the following:
+
+- [Collections and scales](http://openmusictheory.com/scales2.html)  
+- [Analyzing atonal music](http://openmusictheory.com/atonal.html) (stop at "Common operations")  
+- Optional: ["Why grade?"](http://kris.shaffermusic.com/2014/07/why-grade/)
+
+In light of these readings, revisit Debussy's "La Cathédrale engloutie" and the discussion questions from class. Then [fill out this form](https://docs.google.com/forms/d/1qYyMgXNvw0dnJH8R-QaOlt7M9zMc2siCwPclwQHumds/viewform?usp=send_form) with your responses by 8am of the next class day (March 11/12). (This is not for a grade, just preparation for our next meeting.)
+
+## Materials for March 9/10
+
+- [Ligeti, Hamburg Concerto, I. Praeludium, score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6ceEE3ZGJrTHRKd0E/view?usp=sharing) (in GDrive, CU IdentiKey login required)  
+- [Ligeti, Hamburg Concerto, I. Praeludium, recording](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cYnZJaXRyWkZFam8/view?usp=sharing) (in GDrive, CU IdentiKey login required)  
+- [Debussy, Préludes, premier livre, X. "La Cathédrale engloutie," score](http://petrucci.mus.auth.gr/imglnks/usimg/c/c0/IMSLP00509-Debussy_-_Preludes__Book_1.pdf)
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:6EkMkK5ekg3NaSJAxFsEmx" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+[http://open.spotify.com/track/6EkMkK5ekg3NaSJAxFsEmx](http://open.spotify.com/track/6EkMkK5ekg3NaSJAxFsEmx)  
+spotify:track:6EkMkK5ekg3NaSJAxFsEmx
+
+
+## Prep for March 9/10
+
+See the [writing guide](mt4-writing.html) for information on the Unit I paper. Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay.
+
 ## Prep for March 2/3
 
 Monday's/Tuesday's class time will primarily be devoted to the final two movements of *Die schöne Müllerin*: "Der Müller und der Bach" and "Des Baches Wiegenlied." Please listen to both songs, study their text and music (see Feb 23/24 for text, score, and audio), and then take the [online quiz](https://docs.google.com/forms/d/1jMrr1AIPIQrT7zn8Smy_daCcaeuKm0EzLkC9UBd-tOU/viewform?usp=send_form). For the quiz, focus on the areas that you have not yet passed for the unit (see assessment report). For class, come prepared to discuss those areas that you studied most closely as you worked on the quiz.
