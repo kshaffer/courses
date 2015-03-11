@@ -10,6 +10,17 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for March 16/17
+
+Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. 
+
+Please listen to Béla Bartók's short piano piece "Diminished Fifth," from *Mikrokosmos*, and consult [the score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNXZicWlMWGgwbDQ/view?usp=sharing). Then answer the questions on this form before 8am on Monday/Tuesday. Consult the March 11/12 readings as necessary to answer those questions.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:0m0PpvewoMJINy2APy7ZcB" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+[http://open.spotify.com/track/0m0PpvewoMJINy2APy7ZcB](http://open.spotify.com/track/0m0PpvewoMJINy2APy7ZcB)  
+spotify:track:0m0PpvewoMJINy2APy7ZcB
+
 ## Prep for March 11/12
 
 Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay. 
