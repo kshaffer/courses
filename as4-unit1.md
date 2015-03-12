@@ -4,7 +4,7 @@ title: Unit I&#58; Modulation and tonal harmony (Aural Skills IV)
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit1.html">unit i guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
 
 # Unit I: Modulation and tonal harmony #
 

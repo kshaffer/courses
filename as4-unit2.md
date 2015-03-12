@@ -4,7 +4,7 @@ title: Unit II&#58; Introduction to post-tonal music (Aural Skills IV)
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit1.html">unit i guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
 
 # Unit II: Introduction to post-tonal music #
 
@@ -27,6 +27,8 @@ Past meter/collection recognition quiz playlists (for practice):
 
 
 ## Concepts and assessment ##
+
+[See the assessment guide](as4-unit2-assessments.html) for full details.
 
 The specific concepts and skills we will cover and assess (according to the N/A/P grading scale outlined on the [syllabus]({{ root_url }}/auralskills4.html)) are divided into two categories: *post-tonal pitch materials* and *advanced rhythm and meter*. They are listed below, followed by the number of successful assessment attempts that will be required to officially demonstrate mastery (grade of P). Read all as "I can . . ."
 

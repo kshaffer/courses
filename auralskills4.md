@@ -4,14 +4,15 @@ title: Aural Skills IV (MUSC 2131)
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit1.html">unit i guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
 
 # {{ page.title }} #
 
 ## Unit guides & resources
 
 [Unit I: modulation and tonal harmony](as4-unit1.html)  
-[Unit II: introduction to post-tonal music](as4-unit2.html)
+[Unit II: introduction to post-tonal music](as4-unit2.html)  
+[Unit II assessment guide](as4-unit2-assessments.html)
 
 [*Open Music Theory*](http://openmusictheory.com)  
 [The Internet Music Score Library Project](http://www.imslp.org)  
