@@ -17,6 +17,8 @@ Please transcribe *all four parts* (two violins, viola, and cello) of [Four-Part
 
 Please complete Melodic Transcription No. 6, begun in class on Wendesday/Thursday, March 11/12, and submit to your instructor. Audio can be [downloaded here](). (Audio will be posted online after Thursday's classes. You will need to be logged into Google Drive with your CU account.) Beginning tonic is G. Be sure to transcribe the vocal melody *and* indicate the ending key. 
 
+Look over the [Unit II Guide](http://courses.shaffermusic.com/as4-unit2.html), especially the information about the pitch collection [video portfolio](http://courses.shaffermusic.com/materials/as4-unit2modeVideos.html). The first batch of videos will be due on March 18/19 (the last class before spring break), and some of you may want to get started on that now.
+
 Please bring [Gary Karpinski's chapter on advanced meter](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVEE2R1FaU3d5ZGM/view?usp=sharing) and the acompanying anthology exerpts to class — either printed or on a laptop/tablet.
 
 Also, please bring your instrument, if sufficiently portable, and Louis Andriessen's ["Workers Union"](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cOFdjUGdOaWxWREU/view?usp=sharing) — either printed or on a laptop/tablet.
