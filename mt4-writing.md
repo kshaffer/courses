@@ -50,9 +50,9 @@ For each blog post written by a class member, three students (and the class grad
 
 Students will form their own groups of 3–4 students. Those groups will be assigned two dates by which they will make substantive edits to a Wikipedia article on a piece or concept we are exploring in class.
 
-Each week one group will take a piece or concept that we as a class discuss during the first meeting of the week (Monday/Tuesday), and they will find errors or holes in the Wikipedia article on that piece/concept. The group will then improve the Wikipedia article for the next class meeting (Wednesday/Thursday) and briefly present their edits (and the reasons for them) to the class. We will include these insights as a focus in our class activity for the day.
+Each week one group will take a piece or concept that we as a class discuss during the first meeting of the week (Monday/Tuesday), and they will find errors or holes in the Wikipedia article on that piece/concept. The group will then improve the Wikipedia article for the next class meeting (Wednesday/Thursday). Then all students will be assigned that Wikipedia page as a reading for the next Monday/Tuesday. If appropriate, we will include these insights as a focus in our class activity for that day.
 
-I will assess the edits and presentation as pass/not-pass. Generally, any substantive improvement(s) to the article and clear presentation of that improvement in class will warrant a pass. If the edit is not completed or does not meet my standard, I will meet with the group to discuss a possible makeup opportunity within the next week. Once a week has passed, no reassessment opportunity will be given.
+I will assess the edits and presentation as pass/not-pass. Generally, any substantive improvement(s) to the article will warrant a pass. If the edit is not completed or does not meet my standard, I will meet with the group to discuss a possible makeup opportunity within the next week. Once a week has passed, no reassessment opportunity will be given.
 
 A link to the edited Wikipedia article, as well as a brief description of the changes made and the reasons for the changes, should be provided [on this form](https://docs.google.com/forms/d/1QugPquIqs0m3MMiY--afLwZHkth7RFutImjnCCTU3QM/viewform?usp=send_form) before the class in which the edits are due.
 
