@@ -19,6 +19,8 @@ If you would like to improve your Unit I grade, consult your assessment report a
 
 Use [this form](https://docs.google.com/a/colorado.edu/forms/d/1URJxv5V58db81mWlMB4mlIhr9fqCAfFEXsTRmmpKJnU/viewform?usp=send_form) for all written reassessment submissions (including both Twitter essays and paragraph analyses).
 
+Use [this Google calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) to sign up for oral exams.
+
 **Option I: Paper revisions**
 
 If you wrote a Unit I paper, and if a revision of analytical details in your paper will provide the second analysis needed to pass the category in question, use those revisions as your reassessment. I have left comments in your paper's Google Doc if this is the case for you.
