@@ -14,6 +14,9 @@ Find assignments under the class date in which the assignment is due. They are i
 
 First, consult the [Unit I reassessment guide](materials/mt4-UnitIReassessment.html), and begin work on your reassessment(s) — **due Thursday, March 19, at 3p.m. (no exceptions).**
 
+Then, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, a Wikipedia edit (see [updated instructions](mt4-writing.html)), or blog comments. 
+
+
 Then, everyone consult the ["answer key"](materials/BartokDiminishedFifthWSKey.pdf) to Monday's/Tuesday's "Diminished Fifth" analysis activity (see [the score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNXZicWlMWGgwbDQ/view?usp=sharing), as well). Note any misconceptions or questions you have. Keep both the examples and your list of questions handy as you do the reading for Wednesday/Thursday. 
 
 Finally, please read the following *Open Music Theory* resources for Wednesday/Thursday:
