@@ -10,6 +10,23 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for March 18/19
+
+First, consult the [Unit I reassessment guide](materials/mt4-UnitIReassessments.html), and begin work on your reassessment(s) — **due Thursday, March 19, at 3p.m. (no exceptions).**
+
+Then, everyone consult the ["answer key"](materials/BartokDiminishedFifthWSKey.pdf) to Monday's/Tuesday's "Diminished Fifth" analysis activity (see [the score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNXZicWlMWGgwbDQ/view?usp=sharing), as well). Note any misconceptions or questions you have. Keep both the examples and your list of questions handy as you do the reading for Wednesday/Thursday. 
+
+Finally, please read the following *Open Music Theory* resources for Wednesday/Thursday:
+
+- [Pitch (Class)](http://openmusictheory.com/pitch(Class).html)  
+- [Interval (class)](http://openmusictheory.com/interval(Class).html)  
+- [Modulo-12 arithmetic](http://openmusictheory.com/mod12.html)  
+- [Analyzing atonal music](http://openmusictheory.com/atonal.html) – the part on "operations" that we skipped last week
+
+Write down any questions about "Diminished Fifth" that remain after the reading, and any questions that come up during the reading, and bring them to class on Wednesday/Thursday.
+
+
+
 ## Prep for March 16/17
 
 Consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. 

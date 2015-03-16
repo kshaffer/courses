@@ -1,57 +1,36 @@
 ---
 layout: post
-title: Unit I Reassessment and A-level project (Music Theory IV) 
+title: Unit I Reassessments (Music Theory IV) 
 author: Kris Shaffer
 ---
 
-## {{ page.title }} ##
+# {{ page.title }}
 
-Please check your grade report in Google Drive. Current Unit I grades are as follows:
+Please check your grade report in Google Drive. If you are content with the letter grade you currently have (keeping in mind what the [syllabus]({{ root_url }}/theory4.html) says about final grade calculation), you can do nothing and ignore the remainder of this post.
 
-- B: 9 or 10 concepts passing  
-- C: 7 or 8 concepts passing  
-- D: 5 or 6 concepts passing  
-- F: 4 or fewer concepts passing
+## Reassessment
 
-If you are content with the letter grade you currently have (keeping in mind what the [syllabus]({{ root_url }}/theory4.html) says about final grade calculation), you can do nothing and ignore the remainder of this post.
+If you would like to improve your Unit I grade, consult your assessment report and do the following:
 
-If you have a B (9 or 10 concepts passing), you are eligible to do the A-level project, described below.
+- **Identify the category/categories that you would like to reassess.** Generally speaking, these will be categories that you have passed on one assessment already.  
+- **Identify a piece we have covered this semester that will provide for a good reassessment opportunity.** You cannot reassess an analysis you have already passed, so make sure this is a piece you have yet to pass an assessment on for the category/categories in question. If you are reassessing multiple categories, it is preferable (but not required) to choose a single piece that will cover all of them.  
+- **Choose one of the following reassessment options that best fits your situation.** *If you have to reassess three or more categories, you are required to do an oral exam.*  
+- Then **submit your reassessment by Thursday, March 19, 3p.m.** All paper revisions, written submissions, and/or oral exams must be completed/submitted by that time, or they will not count. 
 
-If you have a C, D, or F (8 or less concepts passing), you are eligible to do the reassessment, described below.
+Use [this form](https://docs.google.com/a/colorado.edu/forms/d/1URJxv5V58db81mWlMB4mlIhr9fqCAfFEXsTRmmpKJnU/viewform?usp=send_form) for all written reassessment submissions (including both Twitter essays and paragraph analyses).
 
-**All A-level projects and reassessments are due by the beginning of class on Monday, March 10.**
+**Option I: Paper revisions**
 
-### A-level project ###
+If you wrote a Unit I paper, and if a revision of analytical details in your paper will provide the second analysis needed to pass the category in question, use those revisions as your reassessment. I have left comments in your paper's Google Doc if this is the case for you.
 
-Find a sonata-form movement with complex or ambiguous features. Following are two to choose from, but you may pick your own, if you have one you would like to study.
+**Option II: Twitter essay**
 
-- Mozart, Symphony No. 35 in D Major, "Haffner," K. 385, first movement  
-- Beethoven, Symphony No. 2 in D Major, Op. 36, first movement  
+If you are reassessing a single category, and you are confident that you can artiulate the necessary information in 140 characters, submit a Twitter essay using the form linked above. That Twitter essay should explain how the significant musical structural elements in the piece you have chosen supports the meaning of the song. This will count towards your total of three Twitter essays for the semester.
 
-For your movement, produce a timeline or annotated score (like in the quizzes) accurately labeling the following:
+**Option III: Written analysis**
 
-- Cadences and keys (I:PAC, V:IAC, III:HC, etc.)  
-- Structural points of arrival (medial caesura, essential expositional closure, essential sonata closure, crux)  
-- Theme-level modules (primary, transition, secondary, closing, TR=>FS, retransition)  
-- Movement-level modules (exposition, development, recapitulation, introduction, coda)  
-- Exposition/recapitulation type (two-part, continuous, double-MC)  
-- Correspondence/reference/altered measures, according to the following method:
+If you do not think that you can express a high enough level of analytical insight in a single Twitter essay, or if you have to reassess more than one category, you may submit a written analysis. For each reassessment category, write *a single paragraph (200 words maximum)* explaining how the significant musical structural elements in the piece you have chosen supports the meaning of the song. Be sure to explain the meaning of the song *even if you have passed the text-music relationships category*. (If text-music relationships is one of the concepts you need to reassess, your other paragraph(s) will cover that; there is no need to write an additional text-music relationships paragraph.)
 
-> For each bar in the recapitulation, if it is a correspondence measure, write above it the measure number it corresponds to in the exposition. If it is a reference measure, write the number of the bar in the exposition it refers to, followed by "ref". If it is an altered (or new) measure, write "alt" above it.
+**Option IV: Oral exam**
 
-
-Write a short paper (800 words maximum) or produce a short video (5 minutes maximum) explaining ambiguous elements in the movement—either the thought process that went into choosing the labels you chose on your timeline for ambiguous passages, or explaining the musical significance of complex elements that resisted clear timeline labels.
-
-Please compose your paper as a single Google Document or upload your video to Google Drive, and share it with me (kris DOT shaffer AT colorado DOT edu). You may submit timelines/annotated scores digitally (scan and upload to GDrive) or manually (in class), your choice.
-
-### Reassessment ###
-
-If you have an **N (not attempted)** for any of the Unit I concepts, you must talk to me individually if you want a chance to reassess those. Please do so immediately.
-
-For any concepts that you have an **A (attempted)**, compare the quizzes you took with the key distributed in class or on the [Unit I Guide]({{ root_url }}/mt4-unit1.html). Write a single paragraph explaining either why the analysis in the key is preferable according to the principles and music we have studied, or why the key is incorrect and your analysis makes more sense. You need not do this for every difference between your analyses and the keys, but for enough to demonstrate that you understand the concept.
-
-Please compose your written responses in a single Google Document, and share it with me (kris DOT shaffer AT colorado DOT edu).
-
-If you are missing any of the old quizzes, or if you feel that a written response will not sufficiently demonstrate your understanding, please talk to me. I'm willing to offer alternatives, if they are mutually agreeable and they are arranged *early*.
-
-Any concepts sufficiently explained will merit changing that concept's assessment from **A** to **P**. Final unit grades will be assigned according to the same scale as above.
+If you are more comfortable assessing in person, or need to reassess three or more categories, sign up for an oral exam. In this exam, you will have roughly 5 minutes to present your analysis, and during the remainder of the time I will ask you questions about the piece you chose. For the most part, these questions will be aimed at helping you articulate analytical details that you left out of your "presentation." Come prepared with as much analytical information as possible about the piece, and (as in the written analysis options) be sure to explain how the musical details you find relate to the meaning of the song.
