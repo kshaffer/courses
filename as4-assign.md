@@ -11,11 +11,22 @@ author: Kris Shaffer
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
 
+## Prep for March 18/19
+
+Submit the first part of your pitch-class collection [video portfolio](http://courses.shaffermusic.com/materials/as4-unit2modeVideos.html) before class.
+
+Also, please bring the following to class on Wednesday/Thursday:
+
+- Karpinski [“Advanced Meter”](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVEE2R1FaU3d5ZGM/view?usp=sharing)  
+- Your instrument  
+- A printout of your instrument’s part to [Stravinsky’s Petrushka (1911 version)](http://imslp.org/wiki/Petrushka_%28Stravinsky,_Igor%29) (click on "parts" to download the appropriate one) from rehearsal 118 to rehearsal 125. Vocalists, bring a copy of Flute III or Piccolo. Pianists, bring a copy of any non-transposing brass or wind instrument. String players, bring your instrument’s part and the part to a non-transposing brass or wind instrument of the same clef.  
+
+
 ## Prep for March 16/17
 
 Please transcribe *all four parts* (two violins, viola, and cello) of [Four-Part Transcription No. 6](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cUzNPeGtEbGpsY00/view?usp=sharing), and provide appropriate harmonic labels (key(s), Roman numerals, and figured bass/inversions). The beginning tonic is B-flat. Use your ears to determine the mode (major/minor), if/when/where it modulates, and the meter.
 
-Please complete Melodic Transcription No. 6, begun in class on Wendesday/Thursday, March 11/12, and submit to your instructor. Audio can be [downloaded here](). (Audio will be posted online after Thursday's classes. You will need to be logged into Google Drive with your CU account.) Beginning tonic is G. Be sure to transcribe the vocal melody *and* indicate the ending key. 
+Please complete Melodic Transcription No. 6, begun in class on Wendesday/Thursday, March 11/12, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cdEhpeWs5Vzdtc3c/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) Beginning tonic is G. Be sure to transcribe the vocal melody *and* indicate the ending key. 
 
 Look over the [Unit II Guide](http://courses.shaffermusic.com/as4-unit2.html), especially the information about the pitch collection [video portfolio](http://courses.shaffermusic.com/materials/as4-unit2modeVideos.html). The first batch of videos will be due on March 18/19 (the last class before spring break), and some of you may want to get started on that now.
 
