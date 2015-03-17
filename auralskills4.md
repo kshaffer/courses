@@ -90,7 +90,12 @@ No required class activities will take place during finals week, only Unit II re
 
 ## Policies
 
-For instructor and university policies relevant to this course, please see [this page]({{ root_url }}/policies.html).
+Attendance policy (Shaffer section, instituted 3/17):
+
+- If you are absent, or more than just a couple minutes late, from class, and you do not connect with me beforehand about your absence (or immediately afterwards in emergencies), I will not accept any homework assignments from you on that day, including online submissions.  
+- If you have been absent, or more than just a couple minutes late, from class in the past week, and you do not connect with me beforehand about your absence (or immediately afterwards in emergencies), I will not meet you for office hours until that attendance problem has been corrected (two consecutive classes, on-time and reasonably prepared). 
+
+For other instructor and university policies relevant to this course, please see [this page]({{ root_url }}/policies.html).
 
 ## About this syllabus
 
