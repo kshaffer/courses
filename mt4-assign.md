@@ -18,6 +18,7 @@ Then, everyone consult the ["answer key"](materials/BartokDiminishedFifthMod12WS
 
 Finally, please read/review the following *Open Music Theory* resources for Monday/Tuesday:
 
+- The Wikipedia page on [La Cathédrale engloutie](http://en.wikipedia.org/wiki/La_cath%C3%A9drale_engloutie)  
 - [Modulo-12 arithmetic](http://openmusictheory.com/mod12.html) (review)  
 - [Transposition](http://openmusictheory.com/transposition.html) (new)  
 - [Inversion](http://openmusictheory.com/inversion.html) (new)  
