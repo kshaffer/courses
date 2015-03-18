@@ -10,12 +10,24 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for March 30/31
+
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post.
+
+Then, everyone consult the ["answer key"](materials/BartokDiminishedFifthMod12WSKey.pdf) to Wednesday's/Thursday's "Diminished Fifth" analysis activity (see [the score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNXZicWlMWGgwbDQ/view?usp=sharing), as well). Note any misconceptions or questions you have. Keep both the examples and your list of questions handy as you do the reading. 
+
+Finally, please read/review the following *Open Music Theory* resources for Monday/Tuesday:
+
+- [Modulo-12 arithmetic](http://openmusictheory.com/mod12.html) (review)  
+- [Transposition](http://openmusictheory.com/transposition.html) (new)  
+- [Inversion](http://openmusictheory.com/inversion.html) (new)  
+
+
 ## Prep for March 18/19
 
 First, consult the [Unit I reassessment guide](materials/mt4-UnitIReassessment.html), and begin work on your reassessment(s) — **due Thursday, March 19, at 3p.m. (no exceptions).**
 
 Then, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, a Wikipedia edit (see [updated instructions](mt4-writing.html)),' or blog comments. 
-
 
 Then, everyone consult the ["answer key"](materials/BartokDiminishedFifthWSKey.pdf) to Monday's/Tuesday's "Diminished Fifth" analysis activity (see [the score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNXZicWlMWGgwbDQ/view?usp=sharing), as well). Note any misconceptions or questions you have. Keep both the examples and your list of questions handy as you do the reading for Wednesday/Thursday. 
 
