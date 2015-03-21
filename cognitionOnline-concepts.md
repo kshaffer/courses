@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Core concepts — Music Cognition (PSYC 4541)""
+title: "Core concepts — Music Cognition (PSYC 4541)
 author: Kris Shaffer
 ---
 
