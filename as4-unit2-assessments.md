@@ -10,51 +10,33 @@ author: Kris Shaffer
 
 ### Week 11 (March 30–April 2)
 
-Wednesday/Thursday (April 1/2):
-
-- Meter recognition quiz 1  
-- Collection recognition quiz 1
+- Meter recognition quiz 1 – Wednesday/Thursday (April 1/2)  
+- Collection recognition quiz 1 – Wednesday/Thursday (April 1/2)
 
 ### Week 12 (April 6–9)
 
-Monday/Tuesday (April 6/7):
+- Complete collection video portfolio due – Monday/Tuesday (April 6/7)
 
-- Complete collection video portfolio due
-
-Wednesday/Thursday (April 8/9):
-
-- Transcription 1 due
+- Transcription 1 due – Wednesday/Thursday (April 8/9)
 
 ### Week 13 (April 13–16)
 
-Monday/Tuesday (April 13/14):
-
-- Video performance due  
-- Meter recognition quiz 2  
-- Collection recognition quiz 2
- 
-Wednesday/Thursday (April 15/16):
-
-- Transcription 2 due
+- Video performance due – Monday/Tuesday (April 13/14)  
+- Meter recognition quiz 2 – Monday/Tuesday (April 13/14)  
+- Collection recognition quiz 2 – Monday/Tuesday (April 13/14)
+- Transcription 2 due – Wednesday/Thursday (April 15/16)
 
 ### Week 14 (April 20–23)
 
-Monday/Tuesday (April 20/21):
-
-- Meter recognition quiz 3  
-- Collection recognition quiz 3
- 
-Wednesday/Thursday (April 22/23):
-
-- Sight-reading exam 1  
-- Transcription 3 due
+- Meter recognition quiz 3 – Monday/Tuesday (April 20/21)  
+- Collection recognition quiz 3 – Monday/Tuesday (April 20/21)
+- Sight-reading exam 1 – Wednesday/Thursday (April 22/23)  
+- Transcription 3 due – Wednesday/Thursday (April 22/23)
 
 ### Week 15 (April 27–30)
 
-Wednesday/Thursday (April 29/30):
-
-- Sight-reading exam 2  
-- Transcription 4 due
+- Sight-reading exam 2 – Wednesday/Thursday (April 29/30)  
+- Transcription 4 due – Wednesday/Thursday (April 29/30)
 
 
 ## Assessment activities
