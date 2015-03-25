@@ -6,6 +6,59 @@ author: Kris Shaffer
 
 <div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
 
+## Assessment schedule
+
+### Week 11 (March 30–April 2)
+
+Wednesday/Thursday (April 1/2):
+
+- Meter recognition quiz 1  
+- Collection recognition quiz 1
+
+### Week 12 (April 6–9)
+
+Monday/Tuesday (April 6/7):
+
+- Complete collection video portfolio due
+
+Wednesday/Thursday (April 8/9):
+
+- Transcription 1 due
+
+### Week 13 (April 13–16)
+
+Monday/Tuesday (April 13/14):
+
+- Video performance due  
+- Meter recognition quiz 2  
+- Collection recognition quiz 2
+ 
+Wednesday/Thursday (April 15/16):
+
+- Transcription 2 due
+
+### Week 14 (April 20–23)
+
+Monday/Tuesday (April 20/21):
+
+- Meter recognition quiz 3  
+- Collection recognition quiz 3
+ 
+Wednesday/Thursday (April 22/23):
+
+- Sight-reading exam 1  
+- Transcription 3 due
+
+### Week 15 (April 27–30)
+
+Wednesday/Thursday (April 29/30):
+
+- Sight-reading exam 2  
+- Transcription 4 due
+
+
+## Assessment activities
+
 There are two assessment categories this unit: *post-tonal pitch materials* and *advanced rhythm and meter*. For each learning objective, I have outlined below the assessment standard for passing the objective, the kinds of tasks that we will use for assessment, and the kinds of tasks that we will use for building the skill.
 
 ### Post-tonal pitch materials
