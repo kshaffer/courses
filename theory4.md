@@ -69,7 +69,7 @@ In-class activities:
 
 Students will receive letter grades for three categories: *Lieder*, *Post-Tonal Music*, and *Writing*. 
 
-The *Lieder* category will be determined by students demonstrating analytical ability in reference to the following musical elements in that style. Demonstrating that ability *in two or more quizzes or writing assignments* will constitute passing.
+*Lieder* and *Post-tonal* categories will be determined by students demonstrating analytical ability in reference to the following musical elements in each style. Demonstrating that ability *in two or more quizzes or writing assignments* will constitute passing.
 
 - pitch structures (melody, harmony, motives, sets, rows, etc.)  
 - rhythmic & metric structures  
@@ -78,26 +78,6 @@ The *Lieder* category will be determined by students demonstrating analytical ab
 - relationship of musical structure to extramusical elements (text, dance, liturgical significance, historical context, etc.)
 
 Passing 5 of these elements will constitute an A for the category, 4 a B, 3 a C, 2 a D, 0–1 an F.
-
-The *Post-tonal music* category will be determined by students fulfilling the following objectives on at least one quiz or writing assignment. 
-
-- Identify common pitch-class collections in post-tonal passages by sight.  
-- Analyze pitch-class operations in post-tonal passages (*transposition* and *inversion*) by sight.  
-- Perform pitch-class operations (*transposition* and *inversion*) on pitch-class cells.  
-- Explain the concept of pitch-class set classes in a video of 60–120 seconds in length, using a real musical example.  
-- Identify and explain the form of a post-tonal movement in a written assignment.  
-- Analyze a post-tonal movement, and explain the relationship of its pitch structures to its form in a written assignment.  
-- Analyze a post-tonal movement, and explain the relationship of its musical structures to its extramusical elements (text, dance, staging, etc.) in a written assignment.  
-
-*Post-tonal* grades are determined as follows:
-
-- A: 7 assignments passed  
-- A–: 6 assignments passed  
-- B: 5 assignments passed  
-- C: 4 assignments passed  
-- D: 3 assignments passed  
-- D–: 2 assignments passed  
-- F: 0–1 assignments passed
 
 The *writing* category grade will be determined by the number of written assignments passed (see [writing assignments page](mt4-writing.html) for passing standards) by their respective deadlines. Students are asked to write 3 Twitter essays, 1 blog post, 1 academic paper, 2 group Wikipedia edits, and comments on 3 classmates' blog posts: total of 10 written assignments.
 
@@ -113,7 +93,7 @@ The *writing* category grade will be determined by the number of written assignm
 - D–: 3 assignments passed  
 - F: 0–2 assignments passed
 
-Graded work will come in two forms: 
+Graded work will generally come in three forms: 
 
 - brief in-class quizzes (open-note, usually with questions distributed in advance)  
 - longer take-home quizzes/assignments  
