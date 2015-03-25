@@ -15,8 +15,7 @@ author: Kris Shaffer
 
 ### Week 12 (April 6–9)
 
-- Complete collection video portfolio due – Monday/Tuesday (April 6/7)
-
+- Complete collection video portfolio due – Monday/Tuesday (April 6/7)  
 - Transcription 1 due – Wednesday/Thursday (April 8/9)
 
 ### Week 13 (April 13–16)
