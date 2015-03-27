@@ -24,7 +24,7 @@ Finally, write a Twitter essay or a paragraph analysis on one or both of the fol
 - How does Webern use pitch-class sets to articulate the form of the movement?  
 - How does Webern use secondary parameters to articulate the form of the movement?
 
-Submit your answers [on this form]().
+Submit your answers [on this form](https://docs.google.com/forms/d/1rrtcPnrv_KExdthnK7Q_xcjFonSwsjUQNv_8KgjB0A4/viewform?usp=send_form).
 
 The standard for passing both of these analytical questions is that you make an analytical claim and substantiate it with multiple, accurate, non-trivial details. This assignment covers *pitch*, *form*, and *secondary parameters*.
 
@@ -32,7 +32,7 @@ The standard for passing both of these analytical questions is that you make an 
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit.
 
-Then, complete the analytical activity begun in class for the fourth movement of Webern's Five Pieces for String Quartet ([score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6calhuTEJoSGp4aWc/view?usp=sharing) | [recording](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVWZaaHEtd205RUU/view?usp=sharing) — CU login needed to access).
+Then, complete the analytical activity begun in class for the fourth movement of Webern's Five Pieces for String Quartet ([score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6calhuTEJoSGp4aWc/view?usp=sharing) \| [recording](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVWZaaHEtd205RUU/view?usp=sharing) — CU login needed to access).
 
 - Draw a line on the score whenever you hear a new formal division.  
 - Draw a circle around any motives, chords, or other coherent musical elements you hear.  
