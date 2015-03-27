@@ -15,11 +15,11 @@ The following playlists may help you as you develop the skill of identifying pit
 [https://open.spotify.com/user/kris.shaffer/playlist/5gYoLtX1rmss94RHmhxpO5](https://open.spotify.com/user/kris.shaffer/playlist/5gYoLtX1rmss94RHmhxpO5)  
 spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 
-1. Béla Bartók, **Mikrokosmos**, No. 148 – asymmetrical compound quadruple, 2+2+2+3
+1. Béla Bartók, *Mikrokosmos*, No. 148 – asymmetrical compound quadruple, 2+2+2+3
 
-2. Béla Bartók, **Mikrokosmos**, No. 153 – asymmetrical compound triple, 3+3+2
+2. Béla Bartók, *Mikrokosmos*, No. 153 – asymmetrical compound triple, 3+3+2
 
-3. Béla Bartók, **Mikrokosmos**, No. 148 – asymmetrical compound triple, 2+2+3
+3. Béla Bartók, *Mikrokosmos*, No. 148 – asymmetrical compound triple, 2+2+3
 
 4. Dave Brubeck, "Blue Rondo à la Turk" – first three bars of each phrase: asymmetrical compound quadruple, 2+2+2+3; fourth bar of each phrase: symmetrical compound triple, 3+3+3
 
@@ -40,15 +40,15 @@ spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 [https://open.spotify.com/user/kris.shaffer/playlist/0oyXeC9XyKOeWaTxizx4sm](https://open.spotify.com/user/kris.shaffer/playlist/0oyXeC9XyKOeWaTxizx4sm)  
 spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm
 
-1. Béla Bartók, **Mikrokosmos**, No. 78 – minor pentatonic
+1. Béla Bartók, *Mikrokosmos*, No. 78 – minor pentatonic
 
-2. Béla Bartók, **Mikrokosmos**, No. 136 – whole-tone
+2. Béla Bartók, *Mikrokosmos*, No. 136 – whole-tone
 
-3. Béla Bartók, **Mikrokosmos**, No. 55 – Lydian
+3. Béla Bartók, *Mikrokosmos*, No. 55 – Lydian
 
-4. Béla Bartók, **Mikrokosmos**, No. 37 – Lydian
+4. Béla Bartók, *Mikrokosmos*, No. 37 – Lydian
 
-5. Béla Bartók, **Mikrokosmos**, No. 34 – Phrygian
+5. Béla Bartók, *Mikrokosmos*, No. 34 – Phrygian
 
 6. Shelter, "Message of the Bhagavat," beginning at 0:14 – Phrygian
 
