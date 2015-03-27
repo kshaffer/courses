@@ -19,7 +19,7 @@ spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 
 2. Béla Bartók, *Mikrokosmos*, No. 153 – asymmetrical compound triple, 3+3+2
 
-3. Béla Bartók, *Mikrokosmos*, No. 148 – asymmetrical compound triple, 2+2+3
+3. Béla Bartók, *Mikrokosmos*, No. 113 – asymmetrical compound triple, 2+2+3
 
 4. Dave Brubeck, "Blue Rondo à la Turk" – first three bars of each phrase: asymmetrical compound quadruple, 2+2+2+3; fourth bar of each phrase: symmetrical compound triple, 3+3+3
 

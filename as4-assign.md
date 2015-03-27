@@ -10,6 +10,21 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 3/4
+
+Compare your in-class transcription work with the score distributed at the end of class. You can [listen to the recording](https://open.spotify.com/track/0J9eVrtNP4reVN6M5w12O9) as you compare (spotify:track:0J9eVrtNP4reVN6M5w12O9). Note elements that were particularly difficult, and come to class ready to discuss (or ask about) potential strategies for working through those elements. If you want extra transcription practice, you may complete the transcription on your own or with a partner before examining the score.
+
+Complete and submit your entire pitch-class collection [video portfolio](http://courses.shaffermusic.com/materials/as4-unit2modeVideos.html).
+
+## Prep for April 1/2
+
+Review the [playlists for collection/meter ID practice](materials/as4-modeMeterPractice.html) begun in class in preparation for the collection and meter ID quizzes on Wednesday/Thursday. (Quizzes will be open-note, if you want to use [*Open Music Theory*](http://www.openmusictheory.com) or your own list of modes/collections/syllables/etc.)
+
+Optional: get a jump on the complete collection video portfolio (due Monday/Tuesday), which may also help in preparation for the collection ID quiz.
+
+## Prep for March 30/31
+
+Enjoy Spring Break!
 
 ## Prep for March 18/19
 
