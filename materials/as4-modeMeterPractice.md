@@ -4,6 +4,8 @@ title: Collection and meter ID practice (Aural Skills IV)
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+
 ## Collection and meter ID practice (Aural Skills IV)
 
 The following playlists may help you as you develop the skill of identifying pitch-class collections and asymmetrical meters by ear. Each Spotify playlist is followed by a list of the collections/meters present in the excerpts.

@@ -4,6 +4,8 @@ title: Unit II scale and collection performance portfolio instructions (Aural Sk
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./auralskills4.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-unit2.html">unit ii guide</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./as4-assign.html">assignments</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a></div><br/>
+
 ## Unit II scale/collection performance portfolio instructions ##
 
 To help you familizarize yourselves with standard scales and collections in post-tonal music, as well as to connect the sound of those collections with notation and the feel of them in your hands, you will practice and record yourself singing the following scales/modes/collections ascending and descending:

@@ -10,9 +10,40 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 6/7
+
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for March 30/31, please revise based on the comments you received from your TA & classmates.
+
+Then, read the following resources on *Open Music Theory* (you can choose whether or not to reference them in your written assignment below, but they will be helpful preparations for class on Monday/Tuesday):
+
+- [Normal order](http://openmusictheory.com/normalOrder.html)  
+- [Set class and prime form (1)](http://openmusictheory.com/setClassAndPrimeForm1.html)
+
+Finally, write a Twitter essay or a paragraph analysis on one or both of the following questions relating to Webern's Op. 5, fourth movement:
+
+- How does Webern use pitch-class sets to articulate the form of the movement?  
+- How does Webern use secondary parameters to articulate the form of the movement?
+
+Submit your answers [on this form]().
+
+The standard for passing both of these analytical questions is that you make an analytical claim and substantiate it with multiple, accurate, non-trivial details. This assignment covers *pitch*, *form*, and *secondary parameters*.
+
+## Prep for April 1/2
+
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit.
+
+Then, complete the analytical activity begun in class for the fourth movement of Webern's Five Pieces for String Quartet ([score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6calhuTEJoSGp4aWc/view?usp=sharing) | [recording](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVWZaaHEtd205RUU/view?usp=sharing) — CU login needed to access).
+
+- Draw a line on the score whenever you hear a new formal division.  
+- Draw a circle around any motives, chords, or other coherent musical elements you hear.  
+- Mark those elements on a [clock face](http://openmusictheory.com/Graphics/blankClockFaces.pdf).  
+- See of you can find any elements that are related by *transposition*, *inversion*, or a *subset*/*superset* relationship.  
+- Bring these notes to class.
+
+
 ## Prep for March 30/31
 
-First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post.
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for March 16/17, please revise based on the comments you received from your TA & classmates.
 
 Then, everyone consult the ["answer key"](materials/BartokDiminishedFifthMod12WSKey.pdf) to Wednesday's/Thursday's "Diminished Fifth" analysis activity (see [the score](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cNXZicWlMWGgwbDQ/view?usp=sharing), as well). Note any misconceptions or questions you have. Keep both the examples and your list of questions handy as you do the reading. 
 
