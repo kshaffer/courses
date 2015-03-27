@@ -19,11 +19,7 @@ The following materials will be assigned or may supplement assigned materials in
 [Analyzying atonal music](http://openmusictheory.com/atonal.html) – basic information that will be helpful in understanding the pitch concepts we will be performing and transcribing.  
 [Advanced Meter (Gary Karpinski)](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cVEE2R1FaU3d5ZGM/view?usp=sharing) (in the class shared folder on Google Drive, CU IdentiKey login required to view)
 
-Past meter/collection recognition quiz playlists (for practice):
-
-- [Meter 1](http://open.spotify.com/user/kris.shaffer/playlist/4B9vrl5MN9uqtGyALwzcAc)  
-- [Collections 1](http://open.spotify.com/user/kris.shaffer/playlist/0nRkibvAYYHivlIIFYM4YG)  
-- [Meter 2 (first four tracks) and Collections 2 (last four tracks)](http://open.spotify.com/user/kris.shaffer/playlist/2Lc0C6nwmwiKmAqnnm2jrm)  
+[Playlists for collection/meter ID practice](materials/as4-modeMeterPractice.html).
 
 
 ## Concepts and assessment ##
