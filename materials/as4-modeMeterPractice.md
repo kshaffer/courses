@@ -44,24 +44,22 @@ spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm
 
 1. Béla Bartók, *Mikrokosmos*, No. 78 – minor pentatonic
 
-2. Béla Bartók, *Mikrokosmos*, No. 136 – whole-tone
+2. Béla Bartók, *Mikrokosmos*, No. 55 – Lydian or acoustic at the opening (only Do-Re-Mi-Fi-Sol present)
 
-3. Béla Bartók, *Mikrokosmos*, No. 55 – Lydian
+3. Béla Bartók, *Mikrokosmos*, No. 37 – Lydian or acoustic at the opening (only Do-Re-Mi-Fi-Sol present)
 
-4. Béla Bartók, *Mikrokosmos*, No. 37 – Lydian
+4. Béla Bartók, *Mikrokosmos*, No. 34 – Phrygian
 
-5. Béla Bartók, *Mikrokosmos*, No. 34 – Phrygian
+5. Shelter, "Message of the Bhagavat," beginning at 0:14 – Phrygian
 
-6. Shelter, "Message of the Bhagavat," beginning at 0:14 – Phrygian
+6. Carlos Chavez, Ten Preludes, I. Andantino Espressivo – Phrygian
 
-7. Carlos Chavez, Ten Preludes, I. Andantino Espressivo – Phrygian
+7. Francis Poulenc, "Valse" – Lydian
 
-8. Francis Poulenc, "Valse" – Lydian
+8. Alfredo Casella, "11 Pezzi Infantili," VI. Siciliana – Dorian (at the beginning)
 
-9. Alfredo Casella, "11 Pezzi Infantili," VI. Siciliana – Dorian (at the beginning)
+9. Witold Lutoslawski, "Bucolics," III. Allegro molto, 0:12–0:20 – whole-tone
 
-10. Witold Lutoslawski, "Bucolics," III. Allegro molto, 0:12–0:20 – whole-tone
+10. U2, "In God's Country" – Mixolydian
 
-11. U2, "In God's Country" – Mixolydian
-
-12. Michael Andrews & Gary Jules, "Mad World" – Dorian
+11. Michael Andrews & Gary Jules, "Mad World" – Dorian
