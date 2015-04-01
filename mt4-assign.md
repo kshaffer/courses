@@ -32,7 +32,7 @@ First, consult the class writing schedule in the [shared folder on Google Drive]
 Then, read the following resources on *Open Music Theory* (you can choose whether or not to reference them in your written assignment below, but they will be helpful preparations for class on Monday/Tuesday):
 
 - [Normal order](http://openmusictheory.com/normalOrder.html)  
-- [Set class and prime form (1)](http://openmusictheory.com/setClassAndPrimeForm1.html) (There is an error in this resource. Can you spot it? — We'll discuss on Monday/Tuesday.)
+- [Set class and prime form (1)](http://openmusictheory.com/setClassAndPrimeForm1.html)
 
 You may find it helpful to have my [annotated score of Webern Op. 5, Movement 4](materials/WebernOp5No4Annotated.pdf) to reference as you read.
 
