@@ -10,6 +10,21 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+<!--
+
+# Prep for April 8/9
+
+Finally, write a paragraph analysis on one or both of the following questions relating to Webern's Op. 5, fourth movement:
+
+- How does Webern use pitch-class sets to articulate the form of the movement?  
+- How does Webern use secondary parameters to articulate the form of the movement?
+
+Submit your answers [on this form](https://docs.google.com/forms/d/1rrtcPnrv_KExdthnK7Q_xcjFonSwsjUQNv_8KgjB0A4/viewform?usp=send_form).
+
+The standard for passing both of these analytical questions is that you make an analytical claim and substantiate it with multiple, accurate, non-trivial details. (Some details need to go beyond those provided in [the annotated score](materials/WebernOp5No4Annotated.pdf) I provided you.) This assignment covers *pitch*, *form*, and *secondary parameters*.
+
+-->
+
 ## Prep for April 6/7
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for March 30/31, please revise based on the comments you received from your TA & classmates.
@@ -21,14 +36,7 @@ Then, read the following resources on *Open Music Theory* (you can choose whethe
 
 You may find it helpful to have my [annotated score of Webern Op. 5, Movement 4](materials/WebernOp5No4Annotated.pdf) to reference as you read.
 
-Finally, write a paragraph analysis on one or both of the following questions relating to Webern's Op. 5, fourth movement:
-
-- How does Webern use pitch-class sets to articulate the form of the movement?  
-- How does Webern use secondary parameters to articulate the form of the movement?
-
-Submit your answers [on this form](https://docs.google.com/forms/d/1rrtcPnrv_KExdthnK7Q_xcjFonSwsjUQNv_8KgjB0A4/viewform?usp=send_form).
-
-The standard for passing both of these analytical questions is that you make an analytical claim and substantiate it with multiple, accurate, non-trivial details. (Some details need to go beyond those provided in [the annotated score](materials/WebernOp5No4Annotated.pdf) I provided you.) This assignment covers *pitch*, *form*, and *secondary parameters*.
+*Note: I am pushing back the writing assignment originally announced, in order to correct a mistake I made in Wednesday's class.*
 
 ## Prep for April 1/2
 
