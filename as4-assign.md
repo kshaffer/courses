@@ -10,6 +10,12 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 13/14
+
+Submit [prepared performance videos](materials/as4-unit2perpPerf.html).
+
+There will also be collection/meter ID quizzes on Monday/Tuesday. Review the [playlists for collection/meter ID practice](materials/as4-modeMeterPractice.html) as necessary.
+
 ## Prep for April 8/9
 
 Please complete Post-Tonal Transcription No. 1, begun in class on Monday/Tuesday, April 6/7, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cWUZWcURHRFd1ZWc/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) 
