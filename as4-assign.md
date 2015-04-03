@@ -12,7 +12,7 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## Prep for April 13/14
 
-Submit [prepared performance videos](materials/as4-unit2perpPerf.html).
+Submit [prepared performance videos](materials/as4-unit2prepPerf.html).
 
 There will also be collection/meter ID quizzes on Monday/Tuesday. Review the [playlists for collection/meter ID practice](materials/as4-modeMeterPractice.html) as necessary.
 
