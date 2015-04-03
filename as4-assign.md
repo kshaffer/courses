@@ -10,7 +10,15 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-## Prep for April 3/4
+## Prep for April 8/9
+
+Please complete Post-Tonal Transcription No. 1, begun in class on Monday/Tuesday, April 6/7, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cWUZWcURHRFd1ZWc/view?usp=sharing). (You will need to be logged into Google Drive with your CU account.) 
+
+The first note in the right hand is B4, and the first notes in the left hand are E4 and G#4. Be sure to transcribe the entire texture for the recorded excerpt, including an appropriate time signature (no key signature is necessary). This transcription is an opportunity to pass two assessment objectives: *post-tonal pitch transcription* and *advanced rhythm/meter transcription*. (See the [Unit II Assessment Guide](http://courses.shaffermusic.com/as4-unit2-assessments.html) for assessment standard details.)
+
+Also, **please bring your instruments to class on Wednesday/Thursday.**
+
+## Prep for April 6/7
 
 Compare your in-class transcription work with the score distributed at the end of class. You can [listen to the recording](https://open.spotify.com/track/0J9eVrtNP4reVN6M5w12O9) as you compare (spotify:track:0J9eVrtNP4reVN6M5w12O9). Note elements that were particularly difficult, and come to class ready to discuss (or ask about) potential strategies for working through those elements. If you want extra transcription practice, you may complete the transcription on your own or with a partner before examining the score.
 
