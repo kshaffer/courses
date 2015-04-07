@@ -35,6 +35,12 @@ spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 
 9. Circa Survive, "Glass Arrows," – asymmetrical compound quadruple, 3+3+2+2 (*not* simple quintuple — listen to the backbeat and the vocal rhythm)
 
+10. Sting, "Seven Days" — asymmetrical compound quadruple, 3+3+2+2
+
+11. Sting, "Saint Augustine in Hell" — asymmetrical compound triple, 2+2+3 (note that the drummer messes with the groupings at times; listen to melody and harmonic rhythm)
+
+12. Sting, "Fill Her Up," 3:00 and following — asymmetrical compound triple, 2+2+3
+
 ### Collection ID
 
 <iframe src="https://embed.spotify.com/?uri=spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
@@ -63,3 +69,11 @@ spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm
 10. U2, "In God's Country" – Mixolydian
 
 11. Michael Andrews & Gary Jules, "Mad World" – Dorian
+
+12. Miles Davis, "So What," beginning at 0:35 — Dorian
+
+13. John Coltrane, "Impressions" — Dorian (alternates D Dorian and E-flat Dorian)
+
+14. Metallica, "Wherever I May Roam" – Phrygian
+
+15. Tears for Fears, "Head Over Heels," intro – Lydian
