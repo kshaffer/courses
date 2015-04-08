@@ -10,6 +10,17 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+# Prep for April 13/14
+
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 6/7, please revise based on the comments you received from your TA & classmates.
+
+Then, consult [the score](materials/Schoenberg-Nacht.pdf) and the recording (below) for Arnold Schoenberg's "Nacht" from Pierrot Lunaire (Op. 21, 1912), and provide your answers to the questions on [this online "quiz."](https://docs.google.com/a/colorado.edu/forms/d/1mJNgnixyX-O-IRMGpfGeXVi_CkkWY0HaXWnS4XuqvdU/viewform?usp=send_form)
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5ZAVeR1mOeCdzjYRS7Lw1t" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+[https://open.spotify.com/track/5ZAVeR1mOeCdzjYRS7Lw1t](https://open.spotify.com/track/5ZAVeR1mOeCdzjYRS7Lw1t)  
+spotify:track:5ZAVeR1mOeCdzjYRS7Lw1t
+
 # Prep for April 8/9
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit.
