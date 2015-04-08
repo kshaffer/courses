@@ -74,27 +74,29 @@ Assessed coursework will include the following:
 
 ## Units of study (dates TBA)
 
-I. Auditory memory (*Music and Memory*, Chapter 1)
+I. Introductions
 
-II. Echoic memory and grouping (*Music and Memory*, Chapters 2–3)
+II. Auditory memory (*Music and Memory*, Chapter 1)
 
-III. Musical events (*Music and Memory*, Chapter 10; readings TBA from *Open Music Theory*)
+III. Echoic memory and grouping (*Music and Memory*, Chapters 2–3)
 
-IV. Short-term memory and working memory (*Music and Memory*, Chapters 4–5)
+IV. Musical events (*Music and Memory*, Chapter 10; readings TBA from *Open Music Theory*)
 
-V. Melody and Motive (*Music and Memory*, Chapter 11; readings TBA from *Open Music Theory*)
+V. Short-term memory and working memory (*Music and Memory*, Chapters 4–5)
 
-VI. Rhythm and meter (*Music and Memory*, Chapter 12; readings TBA from *Open Music Theory*)
+VI. Melody and Motive (*Music and Memory*, Chapter 11; readings TBA from *Open Music Theory*)
 
-VII. Long-term memory (*Music and Memory*, Chapters 6–7)
+VII. Rhythm and meter (*Music and Memory*, Chapter 12; readings TBA from *Open Music Theory*)
 
-VIII. Schemata (*Music and Memory*, Chapter 8; *Sweet Anticipation*, Chapter 11)
+VIII. Long-term memory (*Music and Memory*, Chapters 6–7)
 
-IX. Tonality (*Sweet Anticipation*, Chapter 9; readings TBA from *Open Music Theory*)
+IX. Schemata (*Music and Memory*, Chapter 8; *Sweet Anticipation*, Chapter 11)
 
-X. Musical form (*Music and Memory*, Chapter 13; readings TBA from *Open Music Theory*)
+X. Tonality (*Sweet Anticipation*, Chapter 9; readings TBA from *Open Music Theory*)
 
-XI. Music and emotion (*Sweet Anticipation*, Chapters 1–5)
+XI. Musical form (*Music and Memory*, Chapter 13; readings TBA from *Open Music Theory*)
+
+XII. Music and emotion (*Sweet Anticipation*, Chapters 1–5)
 
 
 
