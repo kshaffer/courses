@@ -41,6 +41,15 @@ spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 
 12. Sting, "Fill Her Up," 3:00 and following — asymmetrical compound triple, 2+2+3
 
+13. Béla Bartók, *Mikrokosmos*, No. 149 – asymmetrical compound triple, 2+2+3
+
+14. Sufjan Stevens, "Come On! Feel the Illinoise!" – asymmetrical compound quadruple, 3+3+2+2 (simple quintuple is also possible, but the backbeat and melody emphasize a 3+3+2+2 grouping)
+
+15. Béla Bartók, *Mikrokosmos*, No. 151 – asymmetrical compound triple, 3+2+3
+
+16. Radiohead, "Morning Bell" – asymmetrical compound quadruple, 3+3+2+2
+
+
 ### Collection ID
 
 <iframe src="https://embed.spotify.com/?uri=spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
@@ -77,3 +86,11 @@ spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm
 14. Metallica, "Wherever I May Roam" – Phrygian
 
 15. Tears for Fears, "Head Over Heels," intro – Lydian
+
+16. Ralph Vaughan Williams, *The Lark Ascending*, opening violin solo – major pentatonic
+
+17. U2, "Trip Through Your Wires" – Mixolydian (ignore the pitch bends in the harmonica; some sound like blue notes or *ri*/*me* and *fi*)
+
+18. Claude Debussy, Préludes, No. 2 "Voiles," opening – whole-tone
+
+19. Shelter, "Surrender to Your TV" – Phrygian
