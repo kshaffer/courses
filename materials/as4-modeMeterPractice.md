@@ -21,33 +21,31 @@ spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 
 2. Béla Bartók, *Mikrokosmos*, No. 153 – asymmetrical compound triple, 3+3+2
 
-3. Béla Bartók, *Mikrokosmos*, No. 113 – asymmetrical compound triple, 2+2+3
+3. Dave Brubeck, "Blue Rondo à la Turk" – first three bars of each phrase: asymmetrical compound quadruple, 2+2+2+3; fourth bar of each phrase: symmetrical compound triple, 3+3+3
 
-4. Dave Brubeck, "Blue Rondo à la Turk" – first three bars of each phrase: asymmetrical compound quadruple, 2+2+2+3; fourth bar of each phrase: symmetrical compound triple, 3+3+3
+4. Dave Brubeck, "Take Five" – simple quintuple (or asymmetrical compound quadruple, 3+3+2+2, depending on how you hear beats divided at the beginning)
 
-5. Dave Brubeck, "Take Five" – simple quintuple (or asymmetrical compound quadruple, 3+3+2+2, depending on how you hear beats divided at the beginning)
+5. Dave Brubeck, "Unsquare Dance" – asymmetrical compound triple, 2+2+3
 
-6. Dave Brubeck, "Unsquare Dance" – asymmetrical compound triple, 2+2+3
+6. Dream Theater, "Voices" – asymmetrical compound quadruple, 2+2+2+3 (you may have to wait until the drum set enters with a clear backbeat on beats 2 and 4 to hear it clearly)
 
-7. Dream Theater, "Voices" – asymmetrical compound quadruple, 2+2+2+3 (you may have to wait until the drum set enters with a clear backbeat on beats 2 and 4 to hear it clearly)
+7. Dream Theater, "About to Crash," beginning at 0:15 – simple septuple
 
-8. Dream Theater, "About to Crash," beginning at 0:15 – simple septuple
+8. Circa Survive, "Glass Arrows," – asymmetrical compound quadruple, 3+3+2+2 (*not* simple quintuple — listen to the backbeat and the vocal rhythm)
 
-9. Circa Survive, "Glass Arrows," – asymmetrical compound quadruple, 3+3+2+2 (*not* simple quintuple — listen to the backbeat and the vocal rhythm)
+9. Sting, "Seven Days" — asymmetrical compound quadruple, 3+3+2+2
 
-10. Sting, "Seven Days" — asymmetrical compound quadruple, 3+3+2+2
+10. Sting, "Saint Augustine in Hell" — asymmetrical compound triple, 2+2+3 (note that the drummer messes with the groupings at times; listen to melody and harmonic rhythm)
 
-11. Sting, "Saint Augustine in Hell" — asymmetrical compound triple, 2+2+3 (note that the drummer messes with the groupings at times; listen to melody and harmonic rhythm)
+11. Sting, "Fill Her Up," 3:00 and following — asymmetrical compound triple, 2+2+3
 
-12. Sting, "Fill Her Up," 3:00 and following — asymmetrical compound triple, 2+2+3
+12. Béla Bartók, *Mikrokosmos*, No. 149 – asymmetrical compound triple, 2+2+3
 
-13. Béla Bartók, *Mikrokosmos*, No. 149 – asymmetrical compound triple, 2+2+3
+13. Sufjan Stevens, "Come On! Feel the Illinoise!" – asymmetrical compound quadruple, 3+3+2+2 (simple quintuple is also possible, but the backbeat and melody emphasize a 3+3+2+2 grouping)
 
-14. Sufjan Stevens, "Come On! Feel the Illinoise!" – asymmetrical compound quadruple, 3+3+2+2 (simple quintuple is also possible, but the backbeat and melody emphasize a 3+3+2+2 grouping)
+14. Béla Bartók, *Mikrokosmos*, No. 151 – asymmetrical compound triple, 3+2+3
 
-15. Béla Bartók, *Mikrokosmos*, No. 151 – asymmetrical compound triple, 3+2+3
-
-16. Radiohead, "Morning Bell" – asymmetrical compound quadruple, 3+3+2+2
+15. Radiohead, "Morning Bell" – asymmetrical compound quadruple, 3+3+2+2
 
 
 ### Collection ID
