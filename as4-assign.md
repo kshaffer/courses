@@ -10,6 +10,15 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 15/16
+
+Please complete Post-Tonal Transcription No. 2, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/open?id=0B9o4hmKNoi6cN3dLQ1pSM3ZpYnM&authuser=0). (You will need to be logged into Google Drive with your CU account.) 
+
+The first note (in the left hand) is B-flat3. Be sure to transcribe the entire texture for the recorded excerpt, including an appropriate time signature (no key signature is necessary). This transcription is an opportunity to pass two assessment objectives: *post-tonal pitch transcription* and *advanced rhythm/meter transcription*. (See the [Unit II Assessment Guide](http://courses.shaffermusic.com/as4-unit2-assessments.html) for assessment standard details.)
+
+Also, **please bring your instruments to class on Wednesday/Thursday.**
+
+
 ## Prep for April 13/14
 
 Submit [prepared performance videos](materials/as4-unit2prepPerf.html).
