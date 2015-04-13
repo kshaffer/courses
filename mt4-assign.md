@@ -10,6 +10,19 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+# Prep for April 15/16
+
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit. (Possible Wikipedia topics include "Nacht" from Schoenberg's [*Pierrot Lunaire*](http://en.wikipedia.org/wiki/Pierrot_Lunaire) and updates to Wikipedia or *Open Music Theory* on topics like pitch-class sets, pitch-class transposition, etc.)
+
+Second, consult the score for [Stravinsky's *Three Pieces for String Quartet*](http://imslp.us/php/linkhandler.php?path=/scores/Stravinsky_Igor_1971/Stravinsky_-_3_Pieces_for_String_Quartet_FullScore.pdf). (This *is* public domain in the US. Recording embedded below.) Write down answers to the following questions and bring them to class on Wednesday/Thursday:
+
+- Each part (Violin I, Violin II, Viola, Cello) has a repeated pattern. How many beats long is each voice’s pattern?  
+- Three of the four parts line up their beginnings in m. 4 (note that Violin II is playing the note for the Viola’s part). When do these parts line up again? If they don’t line up again in this movement, how long would the movement have to be for them to line up again?  
+- Which of the patterns dictate(s) the time signatures?  
+- What is the musical effect of these overlapping rhythmic patterns?
+
+Come prepared to discuss and defend your answers with specific musical details.
+
 # Prep for April 13/14
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 6/7, please revise based on the comments you received from your TA & classmates.
