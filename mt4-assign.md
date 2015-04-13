@@ -23,6 +23,11 @@ Second, consult the score for [Stravinsky's *Three Pieces for String Quartet*](h
 
 Come prepared to discuss and defend your answers with specific musical details.
 
+<iframe src="https://embed.spotify.com/?uri=spotify:track:3rVAo3HSaRv1K1gohicYHw" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>  
+
+[https://open.spotify.com/track/3rVAo3HSaRv1K1gohicYHw](https://open.spotify.com/track/3rVAo3HSaRv1K1gohicYHw)  
+spotify:track:3rVAo3HSaRv1K1gohicYHw
+
 # Prep for April 13/14
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 6/7, please revise based on the comments you received from your TA & classmates.
