@@ -47,6 +47,14 @@ spotify:user:kris.shaffer:playlist:5gYoLtX1rmss94RHmhxpO5
 
 15. Radiohead, "Morning Bell" – asymmetrical compound quadruple, 3+3+2+2
 
+16. Philip Glass, *Powaqqatsi*, "That Place" – asymmetrical compound triple, 3+3+2
+
+17. Dream Theater, "Beyond This Life" opening – asymmetrical compound quadruple, 3+3+2+2 (articulated by the guitar & synth) or symmetrical simple quintuple (based on drums)
+
+18. Michael Gordon, "My Frig" – asymmetrical compound triple, 3+3+2
+
+19. Yes, "The Fish" – symmetrical simple septuple
+
 
 ### Collection ID
 
@@ -92,3 +100,11 @@ spotify:user:kris.shaffer:playlist:0oyXeC9XyKOeWaTxizx4sm
 18. Claude Debussy, Préludes, No. 2 "Voiles," opening – whole-tone
 
 19. Shelter, "Surrender to Your TV" – Phrygian
+
+20. *Battlestart Galactica* theme – Mixolydian
+
+21. Philip Glass, String Quartet No. 2, i. – Phrygian
+
+22. The Green Hills of Tyrol – Mixolydian
+
+23. Radiohead, "Just" (guitar and bass 0:00–0:15; ignore the acoustic guitar chords) – octatonic

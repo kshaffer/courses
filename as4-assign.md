@@ -10,6 +10,20 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 20/21
+
+There will also be collection/meter ID quizzes on Monday/Tuesday. Review the [playlists for collection/meter ID practice](materials/as4-modeMeterPractice.html) as necessary.
+
+Also, review the Ligeti transcription from Monday's/Tuesday's class (recording below, score distributed in class). This may further help solidify your listening skills — both internalizing the sound of these structures so that you can recognize them elsewhere, and training your ear to trace different melodic lines in a fast-paced piano texture.
+
+There is no work to turn in on Monday/Tuesday.
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5Z93w6NfGmI4mYIM4o8Q8D" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+https://open.spotify.com/track/5Z93w6NfGmI4mYIM4o8Q8D  
+spotify:track:5Z93w6NfGmI4mYIM4o8Q8D
+
+
 ## Prep for April 15/16
 
 Please complete Post-Tonal Transcription No. 2, and submit to your instructor. Audio can be [downloaded here](https://drive.google.com/open?id=0B9o4hmKNoi6cN3dLQ1pSM3ZpYnM&authuser=0). (You will need to be logged into Google Drive with your CU account.) 
