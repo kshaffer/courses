@@ -18,9 +18,9 @@ Also, review the Ligeti transcription from Monday's/Tuesday's class (recording b
 
 There is no work to turn in on Monday/Tuesday.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5Z93w6NfGmI4mYIM4o8Q8D" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5Z93w6NfGmI4mYIM4o8Q8D" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-https://open.spotify.com/track/5Z93w6NfGmI4mYIM4o8Q8D  
+[https://open.spotify.com/track/5Z93w6NfGmI4mYIM4o8Q8D](https://open.spotify.com/track/5Z93w6NfGmI4mYIM4o8Q8D)  
 spotify:track:5Z93w6NfGmI4mYIM4o8Q8D
 
 
