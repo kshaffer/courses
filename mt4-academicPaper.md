@@ -18,7 +18,7 @@ Examples of model essays from past student work (anonymous) will be provided in 
 
 Students will also have the opportunity to sign up for a 20-minute consultation on a draft of their paper with me in the week before papers are due.
 
-Papers will be due on the first day of post-tonal studies (Lied papers) or the first day of finals week (post-tonal papers).
+Papers will be due on the first day of post-tonal studies (Lied papers) or the last day of class (post-tonal papers – April 29/30).
 
 Papers should be written as Google Documents (not Word Documents uploaded to Google Drive), shared with kris.shaffer@colorado.edu with editing privileges, and the sharing link [pasted into this form](https://docs.google.com/a/colorado.edu/forms/d/1WUImrrWmJrNyZod_Qux-Kw1dxPdWetAOjW1L2KIjj_Y/viewform?usp=send_form).
 
@@ -56,4 +56,29 @@ Viel Glück!
 
 ## Post-tonal analysis paper
 
-Details TBA.
+**Due date: Wednesday, April 29 (M/W section) or Thursday, April 30 (T/R section), 10am**  
+
+**Topic: An analysis of a *short* 20th- or 21st-century post-tonal work of your choice** 
+
+**Suggested Pieces: anything covered in class (see caveat below), or a movement for piano or string quartet by Debussy, Bartók, or Stravinsky. (See Debussy's piano preludes and Bartók's *Mikrokosmos* for some ideas.)**
+
+**Caveat: You must pass assignments on two different pieces to pass a post-tonal assessment objective. Thus, if you write a paper on a piece covered in class, make sure that you choose a piece that you have not already passed an assignment on for the objectives you are going for. (In other words, if you need to pass pitch and rhythm one more time, and you already passed those categories on Stravinsky's Three Pieces for String Quartet, write your paper on a different piece.)**
+
+This paper, as stated above, in an exercise in "artful conformity" to a standard form of discourse that is important to master for life in the academy. Knowing how to write cogently about musical structure in general, and for academic audiences specifically, is an essential skill for every learned musician. This project will help you grow in that skill. (Coincidentally, an analytical essay on a short post-tonal piece is a common graduate entrance exam at CU.)
+
+Be sure that your paper makes an argument. You should have a clearly identifiable thesis (the Twitter essay version of the paper), and all analytical details included in the paper should support that thesis and participate in a coherent, logical, linear flow. Not every detail of your musical and poetic analyses should appear in the paper, only those critical to your argument. 
+
+As this will be the last regular assessment opportunity for Unit II, make sure that your argument (and your choice of song) can sustain a discussion of those elements you still need to pass. For example, if you have passed pitch structures and rhythmic structures already, choose a piece and construct an argument that allows you to present a meaty analysis of form, secondary parameters, and extramusical relationships. If you need help choosing a piece in light of these things, please consult with me early.
+
+The paper should be constructed in a Google document (see above), but should be laid out like a standard print paper: single-sided and double-spaced, using an 11- or 12-point serif font, with 1-inch margins on each side. The paper should conform to *The Chicago Manual of Style*, 16th ed., and/or Turabian’s *A Manual for Writers of Research Papers, Theses, and Dissertations*, 7th ed. (They present the same style guidelines, though CMoS provides more detail on musical terminology and nomenclature.) If quoting authors, use CMoS’s author-date style of citation, rather than footnotes or endnotes.
+Be sure that in addition to following the general guidelines of CMoS, you pay attention to include a proper title page, a header on all pages except the title page that includes your last name and page number, and a references page at the end for any source you site or which you make substantial use of in your preparation (including course textbooks, and any scores or recordings you consult in your studies). No academic paper is complete without those elements.
+
+N.B.: The choice of Chicago Style is significant. It is not simply my requiring you to fit my preferences, possibly in contrast to other professors' expectations in other classes. Chicago Style is *the* standard for academic writing on music, and it provides a greater level of detailed recommendations for musical writing.
+
+A model paper will be posted soon.
+
+Students may sign up for a 20-minute consultation with me to go over a draft of their paper. Dates & times TBA. Before your consultation, share your Google Doc with me, so I can review it as we meet and discuss.
+
+Be sure to follow the submission guidelines provided above, and contact me with questions well in advance.
+
+Good luck!
