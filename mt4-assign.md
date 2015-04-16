@@ -10,7 +10,18 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
-# Prep for April 15/16
+## Prep for April 20/21
+
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 13/14, please revise based on the comments you received from your TA & classmates.
+
+Second, everyone please revisit the first movement of Stravinsky's Three Pieces for String Quartet (score and recording below). Review the structures that we have explored and discussed in class, and then write a paragraph or a Twitter essay explaining the most salient and structurally important *rhythmic* elements of the piece, and their musical effect *in your own words*. You are free to recap things we have discussed in class, but putting them in your own words will help you connect them logically in your mind before we build on them in our next piece we will study. Try to make a big claim and support it with details, rather than simply listing interesting things in a random order. This will count for your *rhythmic structures* objective. (If you also provide multiple accurate details about other parameters that relate to rhythm — pitch collections, articulation & instrumentation, etc. — you can pass off those objectives as well.) Please keep your own copy of your paragraph/Twitter essay, and submit it on [this online form](https://docs.google.com/forms/d/1sxqcA1tPnLIeLdN-z3z3Vr5yscJTd9jWN9MiiDlz2w0/viewform?usp=send_form).
+
+Finally, read [the Wikipedia page on "Nacht" from *Pierrot Lunaire*](http://en.wikipedia.org/wiki/Pierrot_Lunaire), and download and bring to class a copy (physical or electronic is fine) of the score to "The Sacrificial Dance" from [Stravinsky's *Rite of Spring*](http://imslp.org/wiki/The_Rite_of_Spring_%28Stravinsky,_Igor%29) (rehearsal 142–end).
+
+Also, I have posted information about the final post-tonal paper [here](mt4-academicPaper.html).
+ 
+
+## Prep for April 15/16
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit. (Possible Wikipedia topics include "Nacht" from Schoenberg's [*Pierrot Lunaire*](http://en.wikipedia.org/wiki/Pierrot_Lunaire) and updates to Wikipedia or *Open Music Theory* on topics like pitch-class sets, pitch-class transposition, etc.)
 
@@ -28,7 +39,7 @@ Come prepared to discuss and defend your answers with specific musical details.
 [https://open.spotify.com/track/3rVAo3HSaRv1K1gohicYHw](https://open.spotify.com/track/3rVAo3HSaRv1K1gohicYHw)  
 spotify:track:3rVAo3HSaRv1K1gohicYHw
 
-# Prep for April 13/14
+## Prep for April 13/14
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 6/7, please revise based on the comments you received from your TA & classmates.
 
@@ -39,7 +50,7 @@ Then, consult [the score](materials/Schoenberg-Nacht.pdf) and the recording (bel
 [https://open.spotify.com/track/5ZAVeR1mOeCdzjYRS7Lw1t](https://open.spotify.com/track/5ZAVeR1mOeCdzjYRS7Lw1t)  
 spotify:track:5ZAVeR1mOeCdzjYRS7Lw1t
 
-# Prep for April 8/9
+## Prep for April 8/9
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit.
 
