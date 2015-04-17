@@ -25,7 +25,7 @@ Excerpt 1 (transcribe pitch *and* rhythm as usual, but this excerpt focuses on a
 
 Excerpt 2 (transcribe pitch *and* rhythm as usual, but this excerpt focuses on post-tonal pitch materials): [download audio here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cS2N3SXZhcFdiYTA/view?usp=sharing). Transcribe the entire piano texture. The upper part begins on C5, the lower part on C4.
 
-Wednesday's/Thursday's class time will be used for the first of two post-tonal sight-reading exams. Signup with your instructor.
+Wednesday's/Thursday's class time will be used for the first of two post-tonal sight-reading exams. Signup with your instructor. (Shaffer section, please [sign up here](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY).)
 
 On these exams, you will choose one of three melodies to sight-read on your instrument/voice of choice (if you sing, no solfège is required, but you can use it if it helps you):
 
