@@ -77,8 +77,8 @@ N.B.: The choice of Chicago Style is significant. It is not simply my requiring 
 
 A model paper will be posted soon.
 
-Students may sign up for a 20-minute consultation with me to go over a draft of their paper. Dates & times TBA. Before your consultation, share your Google Doc with me, so I can review it as we meet and discuss.
+Students may sign up for a 15-minute consultation with me to go over a draft of their paper. Please use [this Google calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) to sign up (make sure your account is set to Mountain Time when you sign up). Before your consultation, share your Google Doc with me, so I can review it as we meet and discuss.
 
-Be sure to follow the submission guidelines provided above, and contact me with questions well in advance.
+Papers should be written as Google Documents (not Word Documents uploaded to Google Drive), shared with kris.shaffer@colorado.edu with editing privileges, and the sharing link [pasted into this form](https://docs.google.com/a/colorado.edu/forms/d/1WUImrrWmJrNyZod_Qux-Kw1dxPdWetAOjW1L2KIjj_Y/viewform?usp=send_form).
 
 Good luck!
