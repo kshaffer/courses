@@ -10,6 +10,32 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 27/28
+
+There is no assignment to submit. Please bring instruments to class.
+
+Students who have passed all sight-reading and transcription objectives can feel free to skip class.
+
+
+## Prep for April 22/23
+
+Please complete Post-Tonal Transcription No. 3, and submit to your instructor. This assignment is in two parts: one excerpt focuses on advanced meter, the other on post-tonal pitch collection(s). If you still need to pass both objectives, do both passages (they are shorter than Nos. 1 & 2). If you only need to pass one of them, just do the appropriate excerpt. If you are finished with both objectives, skip this transcription and see sight-reading exam info below.
+
+Excerpt 1 (transcribe pitch *and* rhythm as usual, but this excerpt focuses on advanced meter): [download audio here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cZzk3cHBOTFFVbzA/view?usp=sharing). Transcribe only the vocal melody (no instruments). The first note of the melody is C5. Transcribe in treble clef.
+
+Excerpt 2 (transcribe pitch *and* rhythm as usual, but this excerpt focuses on post-tonal pitch materials): [download audio here](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cS2N3SXZhcFdiYTA/view?usp=sharing). Transcribe the entire piano texture. The upper part begins on C5, the lower part on C4.
+
+Wednesday's/Thursday's class time will be used for the first of two post-tonal sight-reading exams. Signup with your instructor.
+
+On these exams, you will choose one of three melodies to sight-read on your instrument/voice of choice (if you sing, no solfège is required, but you can use it if it helps you):
+
+- Melody 1: in a standard meter, and uses one of the new modes/collections from this unit. Counts towards pitch sight-reading objective only.  
+- Melody 2: in a non-modulating major or minor key, in an asymmetrical meter. Counts towards advanced rhythm/meter sight-reading only.  
+- Melody 3: in an asymmetrical meter *and* one of the new modes/collections from this unit. Counts towards both sight-reading objectives simultaneously.
+
+*Decide ahead of time* which option you will choose, and use excerpts from the Karpinsky Anthology and other pieces we've transcribed/performed this unit to prepare.
+
+
 ## Prep for April 20/21
 
 There will also be collection/meter ID quizzes on Monday/Tuesday. Review the [playlists for collection/meter ID practice](materials/as4-modeMeterPractice.html) as necessary.
