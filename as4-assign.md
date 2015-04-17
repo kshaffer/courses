@@ -33,7 +33,7 @@ On these exams, you will choose one of three melodies to sight-read on your inst
 - Melody 2: in a non-modulating major or minor key, in an asymmetrical meter. Counts towards advanced rhythm/meter sight-reading only.  
 - Melody 3: in an asymmetrical meter *and* one of the new modes/collections from this unit. Counts towards both sight-reading objectives simultaneously.
 
-*Decide ahead of time* which option you will choose, and use excerpts from the Karpinsky Anthology and other pieces we've transcribed/performed this unit to prepare.
+*Decide ahead of time* which option you will choose, and use excerpts from the Karpinsky Anthology and other pieces we've transcribed/performed this unit to prepare. (See the [Unit II Assessment Guide](http://courses.shaffermusic.com/as4-unit2-assessments.html) for assessment standard details.)
 
 
 ## Prep for April 20/21
