@@ -75,8 +75,6 @@ Be sure that in addition to following the general guidelines of CMoS, you pay at
 
 N.B.: The choice of Chicago Style is significant. It is not simply my requiring you to fit my preferences, possibly in contrast to other professors' expectations in other classes. Chicago Style is *the* standard for academic writing on music, and it provides a greater level of detailed recommendations for musical writing.
 
-A model paper will be posted soon.
-
 Students may sign up for a 15-minute consultation with me to go over a draft of their paper. Please use [this Google calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) to sign up (make sure your account is set to Mountain Time when you sign up). Before your consultation, share your Google Doc with me, so I can review it as we meet and discuss.
 
 Papers should be written as Google Documents (not Word Documents uploaded to Google Drive), shared with kris.shaffer@colorado.edu with editing privileges, and the sharing link [pasted into this form](https://docs.google.com/a/colorado.edu/forms/d/1WUImrrWmJrNyZod_Qux-Kw1dxPdWetAOjW1L2KIjj_Y/viewform?usp=send_form).
