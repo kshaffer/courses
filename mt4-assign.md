@@ -23,6 +23,8 @@ First, consult the class writing schedule in the [shared folder on Google Drive]
 
 Then, consult the [*Rite of Spring* analysis guide](materials/mt4-RiteOfSpringAnalysis.html), and follow the instructions for April 22/23 homework. Bring the results to class.
 
+Finally, read [Analyzing a post-tonal piece from scratch](http://openmusictheory.com/postTonalAnalysis.html), a new resource on *Open Music Theory* that may help you as you plan your final paper.
+
 ## Prep for April 20/21
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 13/14, please revise based on the comments you received from your TA & classmates.
