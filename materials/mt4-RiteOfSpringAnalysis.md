@@ -10,7 +10,17 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:0oUjDxNRNHDBBPR6xOOmvv" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-**In class on Monday, March 17,** try to answer the following questions (first as an individual, then in a group of 2–3, finally as a whole class). Once you begin work as a group, add your answers to the class [Google Doc](https://docs.google.com/a/colorado.edu/document/d/1w6LeflaNZx6oIWM9EQ96EKqsv-DyNpe-uhyEsTgptq0/edit?usp=sharing) (accessible only when logged in with CU account).
+## In class on Monday/Tuesday, April 20/21
+
+First, while listening to the piece, think about how you would approach the following general questions:
+
+- What is the form of the passage?  
+- What does the title mean?  
+- Which theories/tools do you have at your disposal that are likely to reveal something interesting or important about the piece?
+
+We will discuss these briefly as a whole class.
+
+Then, try to answer the following questions (first as an individual, then in a group of 3–4 people). Once you begin work as a group, add your answers to the class Google Doc for this piece (accessible only when logged in with CU account): [Monday/Wednesday's doc](https://docs.google.com/a/colorado.edu/document/d/1BagsBPuRhcbtRViGAe7JvQSNFWQEMjO1yf_X0tCjShs/edit?usp=sharing), [Tuesday/Thursday's doc](https://drive.google.com/open?id=12a9FNxDagG6AOOIHhLiZrFvYcZH08sYGY5nRfbjyhg0&authuser=0).
 
 - Find an example of each of the following (please do not duplicate another group's answer):  
   - A diatonic melody.  
@@ -27,7 +37,9 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
   - If no, why do you think Stravinsky used an irregular pattern?  
 - In the last two bars, why do you think the high parts and the low parts arrive at different moments?
 
-**For Wednesday's class (March 19),** review the answers you and your colleagues provided on the Google Doc, and watch at least this passage in each of the following videos. (Both are attempts to recapture Nijinsky's original choreography.)
+## Homework for Wednesday's/Thursday's class (April 22/23)
+
+Review the answers you and your colleagues provided on the Google Doc, and watch at least this passage in each of the following videos. (Both are attempts to recapture Nijinsky's original choreography.)
 
 *"Sacrificial Dance" begins at 29:28 in the following video from the 100th-anniversary performance from the Ballett und Orchester Mariinski-Theater Sankt Petersburg at the Théâtre des Champs-Élysées.*
 
@@ -37,6 +49,23 @@ Stravinsky: *Rite of Spring*:  [score](http://imslp.us/php/linkhandler.php?path=
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/C_7ndqgwxcM" frameborder="0" allowfullscreen></iframe>
 
-**Before the end of class on Wednesday**, leave one comment on the [Google Plus post for this activity](https://plus.google.com/112120443955741204467/posts/BLEq5LkiyCP) (link will only work if you're logged in to your CU account—it is on the class community page) with an analytical insight you gained today. Please do *not* leave an insight about this piece, but an insight about the analytical process that you can apply when analyzing another piece or style of music.
+Then revisit the questions from Monday/Tuesday. Write down new/revised answers to the questions, and bring them to class.
 
-Then, **before Friday, March 21, at noon**, write a one-paragaph analytical response in your Google Doc. Try to tie all of your analytical insights together with a single thesis statement.
+## In class on Wednesday/Thursday, April 22/23
+
+Begin by comparing your new answers to the above questions (the second set about collections, rhythms, etc.) with your group mates. (If you worked on the homework with others, compare answers with *different* classmates in class.) Come to the best consensus you can.
+
+Then we will follow with a whole-class circle discussion about these questions to see what consensus we can arrive at as a whole class.
+
+(The last 15 minutes of class will be reserved for FCQs.)
+
+## Homework for Monday/Tuesday (April 27–28)
+
+Review the score, recording, class Google doc, and your notes as necessary. Then fill out [this online form](https://docs.google.com/a/colorado.edu/forms/d/1Ene7AC_2E4tJue_Gs99oM8b5LERnF2gAS4cZskQ8eLg/viewform?usp=send_form) with answers to some or all of the following questions. (Use your assessment report to guide you in selecting which to answer.)
+
+- Provide two or three salient pitch structures (e.g., a whole-tone-based melody) from "The Sacrificial Dance," and interpret them in terms of the plot/dance of the ballet.  
+- Provide two or three salient rhythmic structures (e.g., an unusual rhythmic pattern or metric relationship) from "The Sacrificial Dance," and interpret them in terms of the plot/dance of the ballet.  
+- Provide two or three salient "secondary parameters" structures (e.g., an unusual texture, a sudden textural change, use of extreme registers, etc.) from "The Sacrificial Dance," and interpret them in terms of the plot/dance of the ballet.  
+- What is the form of "The Sacrificial Dance," and how does that form relate to the plot of the ballet?
+
+Also, consult the writing schedule, and submit any required work according to the instructions.
