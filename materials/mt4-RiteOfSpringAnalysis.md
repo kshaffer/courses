@@ -55,6 +55,10 @@ Then revisit the questions from Monday/Tuesday. Write down new/revised answers t
 
 Begin by comparing your new answers to the above questions (the second set about collections, rhythms, etc.) with your group mates. (If you worked on the homework with others, compare answers with *different* classmates in class.) Come to the best consensus you can.
 
+Then consider the following question in your groups:
+
+- Why is there such a difference in tempo between the San Francisco Symphony recording and the Joffrey Ballet video?
+
 Then we will follow with a whole-class circle discussion about these questions to see what consensus we can arrive at as a whole class.
 
 (The last 15 minutes of class will be reserved for FCQs.)
