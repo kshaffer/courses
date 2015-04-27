@@ -10,6 +10,21 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 29/30
+
+
+
+## Materials for April 27–30
+
+We'll be looking at the fourth movement of Julia Wolfe's *Anthracite Fields* this week. This piece just won the Pulitzer Prize in music for 2015. (NPR has a write-up [here](http://www.npr.org/blogs/deceptivecadence/2015/04/20/401010330/julia-wolfe-wins-music-pulitzer-for-anthracite-fields).) Following are resources for the piece:
+
+- [score](http://issuu.com/scoresondemand/docs/anthracite_fields_49200) (viewable, but not printable, and I haven't tested on mobile browsers yet)  
+- [recording of movement iv.](http://juliawolfemusic.com/music/anthracite-fields)  
+- [Analyzing a post-tonal piece from scratch](http://openmusictheory.com/postTonalAnalysis.html)  
+- [Google doc](https://drive.google.com/open?id=1g_2dqHG-m-eCqX49MXwQWTJOMWel2sg_euncnnv_3bw&authuser=0) (Monday/Wednesday section)  
+- [Google doc](https://drive.google.com/open?id=1G-nNOZylao0uFy4pA4-LfWqPeH6II-SojFPg6qkBcHc&authuser=0) (Tuesday/Thursday section)  
+
+
 ## Prep for April 27/28
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay or a blog post. If you wrote a blog post for April 20/21, please revise based on the comments you received from your TA & classmates.
