@@ -10,6 +10,16 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Prep for April 29/30
+
+Please complete Post-Tonal Transcription No. 4, and submit to your instructor. This assignment is in two parts: one excerpt focuses on advanced meter, the other on post-tonal pitch collection(s). If you still need to pass both objectives, do both passages (they are shorter than Nos. 1 & 2). If you only need to pass one of them, just do the appropriate excerpt. If you are finished with both objectives, skip this transcription and see sight-reading exam info below.
+
+Excerpt 1 (transcribe pitch *and* rhythm as usual, but this excerpt focuses on advanced meter): [download audio here](https://drive.google.com/open?id=0B9o4hmKNoi6cSjBXUTB3R3dGVG8&authuser=0). Transcribe only the vocal melody (no instruments). The first note of the melody is C4. Transcribe in whatever clef you like, but do not change the register. (I recommend "treble_8", treble clef with an 8 below it to designate it sounds an octave lower than written. Alto and bass will also work, though bass will require some ledger lines.)
+
+Excerpt 2 (transcribe pitch *and* rhythm as usual, but this excerpt focuses on post-tonal pitch materials): [download audio here](https://drive.google.com/open?id=0B9o4hmKNoi6cWVJrcUpGWG5KYTg&authuser=0). Transcribe the flute/clarinet melody only. The melody begins on C# (C#4 in the clarinet, C#6 in the flute; transcribe in whatever octave you prefer). Please note that there is a single bar in the melody that has one more beat than the others. Don't stress out about that too much, though, since the focus is on pitch. As long as your metrical analysis makes musical sense, you'll be fine.
+
+Wednesday's/Thursday's class time will be used for the second of two post-tonal sight-reading exams. Signup with your instructor. (Shaffer section, please schedule your exam via email or in person.)
+
 ## Prep for April 27/28
 
 There is no assignment to submit. Please bring instruments to class.
