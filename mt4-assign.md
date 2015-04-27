@@ -12,6 +12,11 @@ Find assignments under the class date in which the assignment is due. They are i
 
 ## Prep for April 29/30
 
+First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit. (If you missed a Wikipedia edit due Monday/Tuesday, due to a non-routine schedule that I forgot to announce, please do that for Wednesday/Thursday.)
+
+Second, if you are writing an analytical paper for Unit II, it is due Wednesday/Thursday at the beginning of class. Please see the [analytical paper guide](mt4-academicPaper.html) for details and *be absolutely sure to follow the submission instructions.* If you don't follow the instructions, there is near certaintly that your paper will not be assessed in time for you to do revisions before semester grades are due.
+
+Finally, if you have any remaining blog post revisions, please complete those and notify me via email when the post is ready.
 
 
 ## Materials for April 27–30
