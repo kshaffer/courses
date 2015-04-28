@@ -10,6 +10,14 @@ author: Kris Shaffer
 
 Find assignments under the class date in which the assignment is due. They are in reverse chronological order (most recent on top).
 
+## Finals week
+
+All blog revisions are due by **Monday, May 4, 8am.**
+
+All reassessments are due by **Thursday, May 7, 8am.**
+
+Please see the [Unit II Reassessment Guide](materials/mt4-UnitIIReassessment.html) for details.
+
 ## Prep for April 29/30
 
 First, consult the class writing schedule in the [shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cbTMtV05UQU1RMEE&usp=sharing), and if scheduled, submit a Twitter essay, blog comments, or a group Wikipedia edit. (If you missed a Wikipedia edit due Monday/Tuesday, due to a non-routine schedule that I forgot to announce, please do that for Wednesday/Thursday.)
