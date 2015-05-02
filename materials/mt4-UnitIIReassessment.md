@@ -19,7 +19,7 @@ If you would like to improve your Unit II grade, consult your assessment report 
 
 Use [this form](https://docs.google.com/forms/d/1s4vI6OQ0aC3w_1sSYG_KeTBtnDAiTQBEh5B10uR-B3E/viewform?usp=send_form) for all written reassessment submissions (including both Twitter essays and paragraph analyses).
 
-Use [this Google calendar]() to sign up for oral exams. (This will be posted by Friday, May 1.)
+Use [this Google calendar](https://www.google.com/calendar/selfsched?sstoken=UVBSdnp2TjN5X3lvfGRlZmF1bHR8MDA3M2NiNTMyNjU1OGM3YmIxY2EwMGM1NzllM2VhMjY) to sign up for oral exams. (This will be posted by Friday, May 1.)
 
 **Option I: Paper revisions**
 
